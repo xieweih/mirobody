@@ -1,0 +1,576 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/24 21:30 - 12/5 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+RGTI
+$30.06
+15.44%
+Post
+$30.04
+  -0.07%
+Volume
+301,084
+Premiums
+50.94M
+Bullish
+22.86M
+44.86%
+Bearish
+22.15M
+43.47%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/05 04:33:20
+	
+RGTI
+ASK	31.5	call	2025-12-05	0d	$29.93	5%	$0.29 - $0.33	$0.32	1,476	$47K	1,708	412	4.15	
+92%
+37,404	139.47	0.2534	-0.3497	0.1465	0.005	0.0002	0.32	Technology	Computer Hardware	89		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/05 03:59:40
+	
+RGTI
+ASK	39	put	2025-12-12	7d	$29.99	-30%	$9.15 - $9.25	$9.25	49	$45K	51	36	1.42	
+98%
+-4,429	126.99	-0.9039	-0.0599	0.0302	0.0076	-0.008	9.25	Technology	Computer Hardware	89		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/05 01:51:20
+	
+RGTI
+ASK	42	call	2025-12-19	14d	$29.07	44%	$0.33 - $0.38	$0.38	4,894	$186K	6,429	615	10.45	
+100%
+54,382	133.82	0.1111	-0.0498	0.024	0.0112	0.0012	0.38	Technology	Computer Hardware	89	Repeated Hits Ascending Fill	SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/05 00:50:16
+	
+RGTI
+ASK	80	put	2026-05-15	161d	$28.58	-180%	$51.95 - $52.55	$52.55	86	$452K	96	34	2.82	
+90%
+-7,319	109.74	-0.8511	-0.0145	0.0111	0.0442	-0.3412	52.55	Technology	Computer Hardware	89		ML-O	
+MESL
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/05 00:47:14
+	
+RGTI
+ASK	37	put	2025-12-12	7d	$28.61	-29%	$8.50 - $8.65	$8.65	50	$43K	50	35	1.43	
+100%
+-4,465	129.73	-0.893	-0.0632	0.0335	0.0078	-0.0075	8.65	Technology	Computer Hardware	89		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/05 00:22:24
+	
+RGTI
+ASK	35	put	2026-01-02	28d	$28.51	-23%	$7.60 - $8.35	$7.98	50	$40K	51	16	3.19	
+98%
+-3,464	110.34	-0.6927	-0.0536	0.0396	0.0282	-0.022	7.98	Technology	Computer Hardware	89		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/04 23:05:26
+	
+RGTI
+ASK	27	call	2026-01-09	35d	$26.50	2%	$2.08 - $3.20	$3.00	3,500	$1.05M	3,500	20	175.00	
+100%
+187,803	97.10	0.5366	-0.0446	0.0492	0.0331	0.0111	3.00	Technology	Computer Hardware	89		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/04 03:49:52
+	
+RGTI
+ASK	25	call	2026-01-09	35d	$25.05	-0%	$2.88 - $3.05	$3.00	3,300	$990K	3,320	43	77.21	
+99%
+185,489	93.96	0.5621	-0.04	0.0526	0.0314	0.0112	3.00	Technology	Computer Hardware	89		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/03 04:38:41
+	
+RGTI
+ASK	33	call	2025-12-12	7d	$23.93	38%	$0.16 - $0.19	$0.18	2,792	$50K	3,754	1,282	2.93	
+100%
+23,221	130.14	0.0832	-0.0395	0.0297	0.0061	0.0005	0.18	Technology	Computer Hardware	89		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/02 23:01:35
+	
+RGTI
+ASK	24.5	put	2025-12-12	7d	$24.73	1%	$1.49 - $1.55	$1.55	300	$47K	400	27	14.81	
+75%
+-13,329	102.43	-0.4443	-0.0828	0.0942	0.0162	-0.0034	1.55	Technology	Computer Hardware	89		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/29 01:51:05
+	
+RGTI
+ASK	32.5	put	2025-12-05	0d	$25.63	-27%	$6.35 - $7.20	$7.00	100	$70K	102	3	34.00	
+99%
+-9,234	113.76	-0.9234	-0.0414	0.0356	0.0051	-0.0059	7.00	Technology	Computer Hardware	89		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/28 23:45:48
+	
+RGTI
+ASK	20	call	2025-12-05	0d	$25.79	-22%	$5.60 - $6.30	$6.03	369	$223K	369	151	2.44	
+100%
+33,612	147.65	0.9109	-0.0608	0.0306	0.0058	0.0033	6.03	Technology	Computer Hardware	89		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+11/27 01:50:07
+	
+RGTI
+ASK	26.5	put	2025-12-05	0d	$25.75	-3%	$1.95 - $2.00	$2.00	236	$47K	308	132	2.33	
+93%
+-12,835	97.72	-0.5439	-0.087	0.1004	0.016	-0.0039	2.00	Technology	Computer Hardware	89		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/26 23:28:25
+	
+RGTI
+ASK	23.5	put	2025-12-12	7d	$25.61	8%	$1.23 - $1.34	$1.29	348	$45K	350	340	1.03	
+99%
+-10,789	106.76	-0.31	-0.0631	0.0616	0.0189	-0.004	1.29	Technology	Computer Hardware	89		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/26 04:31:05
+	
+RGTI
+ASK	16	put	2026-05-15	161d	$25.89	38%	$2.20 - $2.26	$2.26	311	$70K	351	84	4.18	
+94%
+-4,779	108.44	-0.1537	-0.0133	0.0123	0.042	-0.0292	2.26	Technology	Computer Hardware	89		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/26 04:12:26
+	
+RGTI
+BID	34	call	2025-12-05	0d	$25.69	32%	$0.25 - $0.33	$0.28	10,000	$280K	10,036	875	11.47	
+100%
+114,313	129.16	0.1143	-0.0531	0.0352	0.0082	0.0007	0.28	Technology	Computer Hardware	89		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+11/25 22:36:10
+	
+RGTI
+BID	27	put	2026-05-15	161d	$25.81	-5%	$8.00 - $8.25	$8.00	450	$360K	450	432	1.04	
+100%
+-17,231	104.97	-0.3829	-0.0206	0.0206	0.0674	-0.0838	8.00	Technology	Computer Hardware	89		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+11/25 03:54:44
+	
+RGTI
+BID	21	put	2025-12-12	7d	$25.38	17%	$0.75 - $0.78	$0.75	1,812	$136K	1,949	351	5.55	
+95%
+-34,299	113.02	-0.1893	-0.0479	0.0425	0.0153	-0.0027	0.75	Technology	Computer Hardware	89		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+11/25 03:13:30
+	
+RGTI
+BID	70	call	2028-01-21	777d	$25.27	177%	$8.45 - $9.00	$8.45	587	$496K	601	258	2.33	
+99%
+32,023	104.97	0.5455	-0.0098	0.0102	0.1471	0.1151	8.45	Technology	Computer Hardware	89		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+11/25 02:54:11
+	
+RGTI
+BID	31	call	2025-12-12	7d	$25.34	22%	$0.72 - $0.76	$0.72	1,000	$72K	1,099	102	10.77	
+92%
+23,094	106.39	0.2309	-0.0506	0.0508	0.0171	0.0025	0.72	Technology	Computer Hardware	89		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+11/25 02:39:51
+	
+RGTI
+BID	75	call	2028-01-21	777d	$25.38	196%	$8.15 - $8.50	$8.15	199	$162K	200	45	4.44	
+100%
+10,530	105.02	0.5292	-0.0099	0.0102	0.1483	0.1139	8.15	Technology	Computer Hardware	89	Repeated Hits	SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+11/25 02:23:34
+	
+RGTI
+ASK	45	put	2025-12-05	0d	$25.36	-77%	$19.25 - $21.35	$20.32	20	$41K	20	19	1.05	
+100%
+-1,716	255.48	-0.858	-0.1148	0.02	0.0099	-0.0127	20.32	Technology	Computer Hardware	89		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/24 23:02:07
+	
+RGTI
+ASK	14	call	2026-01-02	28d	$24.33	-42%	$9.50 - $10.65	$10.65	35	$37K	35	4	8.75	
+100%
+3,285	126.59	0.9386	-0.0157	0.012	0.0096	0.013	10.65	Technology	Computer Hardware	89		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+11/24 22:43:13
+	
+RGTI
+ASK	25.5	call	2025-12-19	14d	$24.23	5%	$2.21 - $2.46	$2.41	190	$46K	190	0	-	
+100%
+9,379	116.09	0.4936	-0.0588	0.0542	0.0253	0.0065	2.41	Technology	Computer Hardware	89		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+11/24 22:43:13
+	
+RGTI
+BID	49	call	2026-05-15	161d	$24.23	102%	$2.55 - $2.86	$2.62	570	$149K	570	160	3.56	
+100%
+17,557	114.52	0.308	-0.0195	0.0185	0.0585	0.0228	2.62	Technology	Computer Hardware	89		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+11/24 22:33:03
+	
+RGTI
+BID	47	put	2025-12-19	14d	$24.16	-95%	$22.95 - $23.85	$22.95	167	$383K	175	139	1.26	
+100%
+-16,057	131.07	-0.9615	-0.0137	0.0101	0.0053	-0.0316	22.95	Technology	Computer Hardware	89		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+11/24 22:31:48
+	
+RGTI
+ASK	21	call	2025-11-28	-7d	$23.98	-12%	$3.05 - $3.40	$3.24	300	$97K	301	224	1.34	
+100%
+25,625	128.51	0.8542	-0.0923	0.0709	0.0057	0.0019	3.24	Technology	Computer Hardware	89		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	

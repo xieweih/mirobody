@@ -1,0 +1,536 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/24 21:30 - 12/5 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+MARA
+$12.44
+-0.24%
+Post
+$12.44
+  -0.00%
+Volume
+260,264
+Premiums
+16.64M
+Bullish
+8.78M
+52.77%
+Bearish
+4.8M
+28.84%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/05 00:24:51
+	
+MARA
+ASK	15	call	2026-12-18	378d	$12.49	20%	$3.70 - $3.90	$3.90	384	$150K	388	253	1.53	
+100%
+23,594	94.01	0.6144	-0.0061	0.032	0.0487	0.0392	3.90	Financial Services	Capital Markets	82	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/04 23:18:47
+	
+MARA
+ASK	15	put	2026-01-09	35d	$12.41	-21%	$3.00 - $3.20	$3.14	199	$62K	259	51	5.08	
+77%
+-14,068	88.26	-0.707	-0.0164	0.10	0.0134	-0.0118	3.14	Financial Services	Capital Markets	82		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/04 03:32:50
+	
+MARA
+BID	8	put	2026-12-18	378d	$12.21	34%	$1.83 - $1.98	$1.90	500	$95K	501	259	1.93	
+100%
+-8,904	93.05	-0.1781	-0.0039	0.0225	0.0325	-0.0424	1.90	Financial Services	Capital Markets	82		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/03 04:30:31
+	
+MARA
+ASK	12.5	put	2025-12-12	7d	$12.09	-3%	$0.94 - $1.01	$0.99	1,164	$115K	1,191	85	14.01	
+99%
+-64,414	94.69	-0.5534	-0.0374	0.2087	0.0079	-0.0021	0.99	Financial Services	Capital Markets	82		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/03 00:08:27
+	
+MARA
+ASK	6	call	2026-06-18	195d	$12.06	-50%	$6.30 - $7.30	$7.00	50	$35K	50	20	2.50	
+100%
+4,447	123.78	0.8894	-0.0053	0.0172	0.0168	0.0202	7.00	Financial Services	Capital Markets	82		SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/02 23:26:49
+	
+MARA
+BID	14	call	2025-12-26	21d	$12.18	15%	$0.49 - $0.52	$0.49	1,620	$79K	1,858	1,214	1.53	
+93%
+50,103	88.74	0.3093	-0.0204	0.1272	0.011	0.0022	0.49	Financial Services	Capital Markets	82		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+12/02 01:43:16
+	
+MARA
+BID	40	put	2027-06-17	559d	$11.22	-257%	$29.00 - $29.90	$29.23	30	$88K	30	16	1.88	
+100%
+-2,504	71.88	-0.8348	-0.0019	0.0248	0.0346	-0.5953	29.23	Financial Services	Capital Markets	82		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+11/28 23:51:03
+	
+MARA
+ASK	19	put	2025-12-26	21d	$11.89	-60%	$6.75 - $7.10	$7.10	113	$80K	113	23	4.91	
+100%
+-10,497	104.68	-0.9289	-0.0083	0.0393	0.0045	-0.0141	7.2177	Financial Services	Capital Markets	82		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/28 22:35:24
+	
+MARA
+BID	9	call	2026-03-20	105d	$11.65	-23%	$3.80 - $3.90	$3.80	160	$61K	160	153	1.05	
+100%
+12,351	99.34	0.7719	-0.0087	0.0471	0.0195	0.0159	3.80	Financial Services	Capital Markets	82		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+11/27 04:50:00
+	
+MARA
+ASK	18	put	2025-11-28	-7d	$11.26	-60%	$4.40 - $6.75	$6.75	54	$36K	56	4	14.00	
+100%
+-5,327	273.93	-0.9865	-0.0197	0.0151	0.0003	-0.001	6.75	Financial Services	Capital Markets	82		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/27 04:49:31
+	
+MARA
+BID	47	put	2026-01-16	42d	$11.28	-317%	$35.70 - $37.60	$35.70	11	$39K	11	0	-	
+100%
+-728	353.71	-0.6622	-0.0532	0.0245	0.0154	-0.063	37.60	Financial Services	Capital Markets	82		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+11/26 23:58:53
+	
+MARA
+BID	11.5	put	2025-12-05	0d	$11.10	-4%	$0.77 - $0.82	$0.79	1,189	$94K	1,236	258	4.79	
+99%
+-69,939	79.86	-0.5882	-0.0301	0.2797	0.0068	-0.0018	0.79	Financial Services	Capital Markets	82		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+
+11/26 23:08:17
+	
+MARA
+ASK	12.5	call	2025-12-05	0d	$11.13	12%	$0.16 - $0.17	$0.17	9,999	$170K	10,328	2,321	4.45	
+98%
+213,236	85.42	0.2133	-0.0241	0.1947	0.0051	0.0005	0.17	Financial Services	Capital Markets	82		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+
+11/26 02:51:37
+	
+MARA
+ASK	13	call	2025-12-05	0d	$10.80	20%	$0.09 - $0.10	$0.10	9,999	$100K	10,382	5,568	1.86	
+98%
+128,731	92.81	0.1287	-0.0174	0.1267	0.0038	0.0004	0.10	Financial Services	Capital Markets	82		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+
+11/26 02:51:37
+	
+MARA
+BID	11.5	call	2025-12-05	0d	$10.80	7%	$0.35 - $0.37	$0.35	9,999	$350K	11,466	5,341	2.15	
+97%
+357,454	87.24	0.3575	-0.0291	0.2394	0.0067	0.001	0.35	Financial Services	Capital Markets	82		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+
+11/26 00:36:02
+	
+MARA
+ASK	27	put	2026-01-02	28d	$10.84	-149%	$15.05 - $16.45	$16.15	63	$102K	63	23	2.74	
+100%
+-5,561	189.17	-0.8828	-0.017	0.0297	0.0069	-0.0271	16.45	Financial Services	Capital Markets	82		ML-S	
+TLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/25 23:01:17
+	
+MARA
+BID	9.5	call	2025-12-05	0d	$10.86	-13%	$1.55 - $1.77	$1.64	199	$33K	199	18	11.06	
+100%
+15,642	116.07	0.786	-0.0304	0.1397	0.0052	0.0019	1.64	Financial Services	Capital Markets	82		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+11/25 04:55:30
+	
+MARA
+ASK	22	put	2026-12-18	378d	$11.26	-95%	$12.10 - $12.55	$12.33	99	$122K	102	40	2.55	
+97%
+-6,235	84.33	-0.6298	-0.0046	0.0385	0.0439	-0.2069	12.33	Financial Services	Capital Markets	82		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/25 04:15:43
+	
+MARA
+BID	20	put	2026-12-18	378d	$11.17	-79%	$10.45 - $10.75	$10.55	68	$72K	71	14	5.07	
+100%
+-4,091	82.32	-0.6016	-0.0046	0.0407	0.0445	-0.184	10.55	Financial Services	Capital Markets	82		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+11/25 00:58:48
+	
+MARA
+ASK	15.5	put	2026-01-02	28d	$10.59	-46%	$4.85 - $5.40	$5.14	81	$42K	81	71	1.14	
+100%
+-6,871	97.95	-0.8483	-0.0101	0.0693	0.0081	-0.0151	5.14	Financial Services	Capital Markets	82		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+11/24 23:13:22
+	
+MARA
+BID	9	call	2025-12-12	7d	$10.42	-14%	$1.84 - $1.92	$1.84	500	$92K	500	9	55.56	
+100%
+37,982	113.62	0.7596	-0.0227	0.1184	0.0072	0.003	1.84	Financial Services	Capital Markets	82		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+11/24 22:36:17
+	
+MARA
+BID	9.5	call	2025-11-28	-7d	$10.63	-11%	$1.18 - $1.37	$1.26	375	$47K	384	350	1.10	
+100%
+31,110	120.72	0.8296	-0.0426	0.1887	0.0028	0.0008	1.26	Financial Services	Capital Markets	82		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+11/24 22:36:17
+	
+MARA
+ASK	9	call	2025-11-28	-7d	$10.63	-15%	$1.63 - $1.78	$1.71	375	$64K	379	76	4.99	
+100%
+33,559	134.45	0.8949	-0.0341	0.1216	0.002	0.0009	1.71	Financial Services	Capital Markets	82		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	

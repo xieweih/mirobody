@@ -1,0 +1,366 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/24 21:30 - 12/5 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+PSKY
+$14.82
+1.02%
+Post
+$14.89
+  0.50%
+Volume
+26,493
+Premiums
+1.5M
+Bullish
+939,803
+62.46%
+Bearish
+446,731
+29.69%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/04 23:23:12
+	
+PSKY
+ASK	15	call	2025-12-19	14d	$14.36	4%	$0.40 - $0.48	$0.48	9,989	$479K	10,021	5,087	1.97	
+100%
+392,406	63.82	0.3928	-0.0238	0.2069	0.0112	0.0021	0.48	Communication Services	Entertainment		Floor Trade Large Cap	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/04 04:58:40
+	
+PSKY
+ASK	14.5	put	2026-01-02	28d	$14.69	1%	$0.59 - $0.75	$0.75	1,000	$75K	1,020	100	10.20	
+98%
+-43,617	50.37	-0.4362	-0.0139	0.1857	0.0166	-0.0059	0.75	Communication Services	Entertainment			SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/04 00:44:01
+	
+PSKY
+ASK	16	call	2026-01-09	35d	$15.11	6%	$0.44 - $0.76	$0.70	3,000	$210K	3,750	1	3,750.00	
+100%
+121,707	55.18	0.4057	-0.0139	0.1461	0.0186	0.0055	0.70	Communication Services	Entertainment			ML-O	
+MFSL
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/03 23:36:55
+	
+PSKY
+BID	15	call	2026-02-20	77d	$15.04	-0%	$1.51 - $1.60	$1.54	234	$36K	243	99	2.45	
+98%
+12,984	54.66	0.5549	-0.0096	0.1033	0.0276	0.0147	1.54	Communication Services	Entertainment			ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+
+12/03 22:56:50
+	
+PSKY
+ASK	18	put	2026-01-09	35d	$15.32	-18%	$2.62 - $3.30	$2.99	125	$37K	125	0	-	
+100%
+-9,842	57.05	-0.7874	-0.0108	0.1044	0.0142	-0.0153	2.99	Communication Services	Entertainment			ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/01 23:27:29
+	
+PSKY
+ASK	15.5	put	2025-12-05	0d	$15.52	0%	$0.25 - $0.40	$0.40	824	$33K	940	222	4.23	
+99%
+-39,320	63.64	-0.4772	-0.0515	0.3851	0.0065	-0.0009	0.40	Communication Services	Entertainment			SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
