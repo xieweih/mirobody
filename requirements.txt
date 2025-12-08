@@ -5,3 +5,4 @@ minio
 tushare
 finnhub-python
 google-search-results
+futu-api
