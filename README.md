@@ -1,34 +1,35 @@
 # Mirobody
 
-### The Open-Source, Self-Hosted MCP Engine for Deep Research & Data Analysis
+### Open Source AI-Native Data Engine for Your Personal Data
 
-**Next-Generation AI-Native Platform for Autonomous Insight**
-
-Mirobody is a modern, privacy-first platform designed to bridge your data with the latest AI capabilities. It serves as a universal adapter for your tools, compliant with the Model Context Protocol (MCP).
+Mirobody is not just another chatbot wrapper. It is a privacy-first data platform designed to bridge your data with the latest AI capabilities. It serves as a universal adapter for your tools, fully compliant with the Model Context Protocol (MCP).
 
 ---
 
-## 🌟 Why Mirobody?
+### Why Mirobody?
 
-Mirobody isn't just another chatbot wrapper. It is a **Dual MCP Architecture** system that revolutionizes how AI interacts with your local data:
+* **Write Tools Once, Run Everywhere**
+    
+    Forget about complex JSON schemas, manual bindings, or router configurations. In Mirobody, **your Python code is the only definition required.**
+    * Tools built here instantly work in **ChatGPT** (via Apps-SDK) and the entire **MCP Ecosystem** (Claude, Cursor, IDEs).
+    * Mirobody works simultaneously as an **MCP Client** (to use tools) and an **OAuth-enabled MCP Server** (to provide data), creating a complete data loop.
 
-* 🚀 **Write Tools Once, Use Everywhere**
-    Build tools in standard Python once. Mirobody automatically bridges them to **ChatGPT** (via native Apps-SDK) and **the entire MCP Ecosystem** (Claude, Cursor, IDEs), ensuring your code runs seamlessly across platforms.
+* **Your Data Is an Asset, Not a Payload**
+    
+    Mirobody is built for **Personal Intelligence**, not just local storage. We believe the next frontier of AI is not knowing more about the world, but knowing more about *you*.
+    * General AI creates generic answers. Mirobody uses your data to create a **Personal Knowledge Base**, enabling AI to give answers that are truly relevant to your life.
+    * You can run the entire engine **locally** on your machine. We provide the architecture to unlock your data's value without ever compromising ownership.
 
-* 🤖 **Native Agent Engine & Analysis**
-    Powered by a **self-developed agent engine** that fully reproduces **Claude Code's** capabilities locally. Designed to directly load standard **Claude Agent Skills** (Coming Soon) for infinite extensibility.
+* **Native Agent Engine**
+    * Powered by a **self-developed agent engine** that fully reproduces **Claude Code's** autonomous capabilities locally.
+    * Designed to directly load standard **Claude Agent Skills** (Coming Soon), turning your private data into an actionable knowledge base.
 
-* 📂 **Store Data Locally, Context Everywhere**
-    Your personal data resides permanently on your local encrypted storage but serves as instant context for **any connected AI**. No need to upload files repeatedly—your data remains private while powering your entire workflow.
-
-* 🛡️ **Secure Dual MCP Architecture**
-    Works simultaneously as an **MCP Client** (consuming tools) and an **OAuth-enabled MCP Server** (providing tools). This unique architecture enables complex tool orchestration while ensuring secure, authenticated access.
 
 ---
 
-## 🏥 The Killer App: Next-Gen Health Intelligence
+## 🏥 Theta Wellness: Our Health Intelligence App
 
-While Mirobody is a general-purpose engine, our team is laser-focused on **Personal Health** as our primary mission. We have built a professional-grade **Health Data Analysis** suite directly into the core, proving the platform's ability to handle the most complex, multi-modal, and sensitive data environments.
+**Theta Wellness** is our flagship application built on Mirobody, demonstrating the platform's capabilities in the **Personal Health** domain. We have built a professional-grade **Health Data Analysis** suite that showcases how Mirobody can handle the most complex, multi-modal, and sensitive data environments.
 
 * **Broad Integration**: Connects with **300+ device manufacturers**, Apple Health, and Google Health.
 * **EHR Ready**: Compatible with systems covering **90% of the US population's** Electronic Health Records.
@@ -51,7 +52,7 @@ Initialize your environment in seconds:
 ```bash
 cd config
 cp config.example.yaml config.yaml
-````
+```
 
 > **Note**:
 >
@@ -71,19 +72,22 @@ Mirobody adopts a **"Tools-First"** philosophy. No complex binding logic is requ
 
 Launch the platform using our unified deployment script.
 
-**Option A: Local Mode**
-*Builds everything from scratch.*
-
-```bash
-./deploy.sh --mode=local
-```
-
-**Option B: Cloud Mode (ARM ready, x86 coming soon)**
+**Option A: Image Mode** ⭐ **(Recommended)**
 *Downloads pre-built images.*
+*Faster deployment with synthetic test user data included in the database (coming soon).*
 
 ```bash
 ./deploy.sh --mode=image
 ```
+
+**Option B: Build Mode**
+*Builds everything from scratch.*
+
+```bash
+./deploy.sh --mode=build
+```
+
+
 
 **Daily Startup**
 *For regular use after initial setup, simply run:*
@@ -130,6 +134,6 @@ Mirobody provides standard endpoints for integration:
 
 -----
 
-\<p align="center"\>
-\<sub\>Built with ❤️ for the AI Open Source Community.\</sub\>
-\</p\>
+<p align="center">
+<sub>Built with ❤️ for the AI Open Source Community.</sub>
+</p>

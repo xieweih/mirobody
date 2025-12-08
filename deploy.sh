@@ -18,18 +18,17 @@ fi
 #-----------------------------------------------------------------------------
 # Global config.
 
-# Build mode: up, image or local (default: up)
+# Build mode: up, image or build (default: up)
 BUILD_MODE="up"
 
+# Theta registry base URL
+THETA_REGISTRY_BASE="theta-public-registry.cn-hangzhou.cr.aliyuncs.com"
+
 # Cloud images (only for backend)
-CLOUD_BACKEND_IMAGE="theta-public-registry.cn-hangzhou.cr.aliyuncs.com/theta/mirobody-backend"
+CLOUD_BACKEND_IMAGE="${THETA_REGISTRY_BASE}/theta/mirobody-backend"
 
 # Local images
 BACKEND_IMAGE="mirobody-backend"
-DATABASE_IMAGE="mirobody-db"
-
-USED_PORTS="18080 6379 5432"
-
 DOCKER_COMPOSE_FILE="docker/docker-compose.yaml"
 
 #-----------------------------------------------------------------------------
@@ -45,18 +44,17 @@ for arg in "$@"; do
             echo "Usage: ./deploy.sh [OPTIONS]"
             echo ""
             echo "Options:"
-            echo "  --mode=image    Pull pre-built backend image, build db locally"
-            echo "  --mode=local    Build all images from official base images"
+            echo "  --mode=image    Pull pre-built backend image from theta registry"
+            echo "  --mode=build    Build backend from scratch using official base images"
             echo "  --mode=up       Skip build, directly compose up (default)"
             echo "  --help          Show this help message"
             echo ""
             echo "Examples:"
             echo "  ./deploy.sh                  # Skip build and start (default)"
-            echo "  ./deploy.sh --mode=image     # Pull pre-built backend + pgvector db"
-            echo "  ./deploy.sh --mode=local     # Ubuntu backend + pgvector db"
+            echo "  ./deploy.sh --mode=image     # Use theta registry images"
+            echo "  ./deploy.sh --mode=build     # Build from scratch using official Docker Hub images"
             echo "  ./deploy.sh --mode=up        # Skip build and start"
             echo ""
-            echo "Note: Database always built from pgvector/pgvector:pg17"
             exit 0
             ;;
         *)
@@ -68,8 +66,8 @@ for arg in "$@"; do
 done
 
 # Validate build mode
-if [[ "$BUILD_MODE" != "up" && "$BUILD_MODE" != "image" && "$BUILD_MODE" != "local" ]]; then
-    echo "Error: BUILD_MODE must be 'up', 'image' or 'local', got: $BUILD_MODE"
+if [[ "$BUILD_MODE" != "up" && "$BUILD_MODE" != "image" && "$BUILD_MODE" != "build" ]]; then
+    echo "Error: BUILD_MODE must be 'up', 'image' or 'build', got: $BUILD_MODE"
     exit 1
 fi
 
@@ -80,33 +78,35 @@ echo "=========================================="
 #-----------------------------------------------------------------------------
 # Functions.
 
-# stop_containers_by_ports {ports}
-stop_containers_by_ports() {
-    for port in $@; do
-        results=($(docker ps | grep ":$port->"))
-        if [ ${#results[@]} -gt 0 ]; then
-            echo "docker container stop ${results[0]}"
-            docker container stop ${results[0]}
-        fi
-    done
+# Build backend image based on mode
+build_backend() {
+    local mode=$1
+    if [[ "$mode" == "image" ]]; then
+        echo "Pulling backend base image from cloud..."
+        docker pull $CLOUD_BACKEND_IMAGE:latest
+        echo "Building backend image with local requirements..."
+        docker build -f docker/Dockerfile.backend.cloud -t $BACKEND_IMAGE:latest --build-arg THETA_REGISTRY="${THETA_REGISTRY}" .
+    else
+        echo "Building backend image from Ubuntu base..."
+        docker build -f docker/Dockerfile.backend -t $BACKEND_IMAGE:latest --build-arg BASE_REGISTRY="${BASE_REGISTRY}" .
+    fi
 }
 
 #-----------------------------------------------------------------------------
-# Stop running containers.
-
-stop_containers_by_ports $USED_PORTS
-
-#-----------------------------------------------------------------------------
 # Build or prepare images based on mode.
-
-# Set Redis and MinIO images based on mode
+ 
+# Set images and registry prefixes based on mode
 if [[ "$BUILD_MODE" == "image" ]]; then
-    export REDIS_IMAGE="theta-public-registry.cn-hangzhou.cr.aliyuncs.com/docker.io/redis:7.0"
-    export MINIO_IMAGE="theta-public-registry.cn-hangzhou.cr.aliyuncs.com/docker.io/minio:latest"
+    export REDIS_IMAGE="${THETA_REGISTRY_BASE}/docker.io/redis:7.0"
+    export POSTGRES_IMAGE="${THETA_REGISTRY_BASE}/docker.io/pgvector:pg17"
+    export BASE_REGISTRY="${THETA_REGISTRY_BASE}/"
+    export THETA_REGISTRY="${THETA_REGISTRY_BASE}/"
 else
-    # Local and up mode use official images
+    # Build and up mode use official images
     export REDIS_IMAGE="redis:7.0-alpine"
-    export MINIO_IMAGE="minio/minio:latest"
+    export POSTGRES_IMAGE="pgvector/pgvector:pg17"
+    export BASE_REGISTRY=""
+    export THETA_REGISTRY=""
 fi
 
 if [[ "$BUILD_MODE" == "up" ]]; then
@@ -116,17 +116,10 @@ if [[ "$BUILD_MODE" == "up" ]]; then
     
     echo "Using existing images:"
     echo "  - $BACKEND_IMAGE:latest"
-    echo "  - $DATABASE_IMAGE:latest"
     
-    # Check if images exist
+    # Check if backend image exists
     if ! docker image inspect $BACKEND_IMAGE:latest > /dev/null 2>&1; then
         echo "Error: Backend image $BACKEND_IMAGE:latest not found."
-        echo "Please run with --mode=image or --mode=local first."
-        exit 1
-    fi
-    
-    if ! docker image inspect $DATABASE_IMAGE:latest > /dev/null 2>&1; then
-        echo "Error: Database image $DATABASE_IMAGE:latest not found."
         echo "Please run with --mode=image or --mode=local first."
         exit 1
     fi
@@ -136,29 +129,14 @@ elif [[ "$BUILD_MODE" == "image" ]]; then
     echo "Image Mode: Pulling pre-built backend"
     echo "=========================================="
     
-    # Backend: Pull cloud image and build with pip install
-    echo "Pulling backend base image from cloud..."
-    docker pull $CLOUD_BACKEND_IMAGE:latest
-    
-    echo "Building backend image with local requirements..."
-    docker build -f docker/Dockerfile.backend.cloud -t $BACKEND_IMAGE:latest .
-    
-    # Database: Always build from pgvector base (unified with local mode)
-    echo "Building database image from pgvector base..."
-    docker build -f docker/Dockerfile.postgres -t $DATABASE_IMAGE:latest .
+    build_backend "image"
 
 else
     echo "=========================================="
-    echo "Local Mode: Building images from scratch"
+    echo "Build Mode: Building images from scratch"
     echo "=========================================="
     
-    # Backend: Build from Ubuntu base
-    echo "Building backend image from Ubuntu base..."
-    docker build -f docker/Dockerfile.backend -t $BACKEND_IMAGE:latest .
-    
-    # Database: Build from pgvector base
-    echo "Building database image from pgvector base..."
-    docker build -f docker/Dockerfile.postgres -t $DATABASE_IMAGE:latest .
+    build_backend "build"
 fi
 
 #-----------------------------------------------------------------------------

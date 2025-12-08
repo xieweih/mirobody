@@ -1,9 +1,16 @@
-FROM theta-public-registry.cn-hangzhou.cr.aliyuncs.com/theta/a007-opensouce-backend
+# This Dockerfile requires THETA_REGISTRY to be passed as a build argument
+# Example: docker build --build-arg THETA_REGISTRY="registry-url/" ...
+ARG THETA_REGISTRY
+FROM ${THETA_REGISTRY}theta/mirobody-backend:latest
 
 WORKDIR /app
 
 COPY requirements.txt .
 RUN --mount=type=cache,target=/root/.cache/pip \
     pip install -r requirements.txt && \
+    pip uninstall -y e2b && \
+    pip install protobuf==3.20.3 && \
+    pip install futu-api==9.4.5408 && \
     pip list
+
 

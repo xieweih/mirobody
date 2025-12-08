@@ -27,7 +27,7 @@ fi
 
 # Query latest version
 printf "Querying latest version...\n"
-LATEST_VERSION=$(pip index versions mirobody --extra-index-url https://repo.thetahealth.ai/repository/pypi-ai-snapshots/simple/ 2>/dev/null | grep "LATEST:" | awk '{print $2}')
+LATEST_VERSION=$(pip index versions mirobody --extra-index-url https://repo.thetahealth.ai/repository/pypi-ai-releases/simple/ 2>/dev/null | grep "LATEST:" | awk '{print $2}')
 
 if [ -z "$LATEST_VERSION" ]; then
     printf "${YELLOW}Could not fetch latest version${NC}\n"
@@ -38,9 +38,15 @@ printf "Latest available version: ${GREEN}${LATEST_VERSION}${NC}\n\n"
 
 # Update requirements.txt
 if [ -f "$PROJECT_ROOT/requirements.txt" ]; then
-    if grep -q "^mirobody==" "$PROJECT_ROOT/requirements.txt"; then
-        sed -i.bak "s/^mirobody==.*/mirobody==${LATEST_VERSION}/" "$PROJECT_ROOT/requirements.txt"
+    # Check for mirobody with or without version
+    if grep -q "^mirobody" "$PROJECT_ROOT/requirements.txt"; then
+        # Replace existing line (whether it has == or not)
+        sed -i.bak "s/^mirobody.*/mirobody==${LATEST_VERSION}/" "$PROJECT_ROOT/requirements.txt"
     else
+        # Ensure newline before appending if file is not empty and doesn't end with newline
+        if [ -s "$PROJECT_ROOT/requirements.txt" ] && [ "$(tail -c1 "$PROJECT_ROOT/requirements.txt" | wc -l)" -eq 0 ]; then
+            echo "" >> "$PROJECT_ROOT/requirements.txt"
+        fi
         echo "mirobody==${LATEST_VERSION}" >> "$PROJECT_ROOT/requirements.txt"
     fi
     rm -f "$PROJECT_ROOT/requirements.txt.bak"
