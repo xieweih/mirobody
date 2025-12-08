@@ -2,27 +2,28 @@
 
 ### Open Source AI-Native Data Engine for Your Personal Data
 
-**Own Your Data. Empower Your AI.**
-
-Mirobody transforms your personal data into a powerful research engine. It's a self-hosted platform that securely manages your private information while making it instantly accessible to **Claude, ChatGPT, and Cursor** through a unified interface.
-
-**Stop uploading files repeatedly. Start building your personal intelligence.**
+Mirobody is not just another chatbot wrapper. It is a privacy-first data platform designed to bridge your data with the latest AI capabilities. It serves as a universal adapter for your tools, fully compliant with the Model Context Protocol (MCP).
 
 ---
 
 ### Why Mirobody?
 
-* 🚀 **Write Once, Run Everywhere**
-    Create Python tools once. Mirobody instantly bridges them to **ChatGPT** (via Apps-SDK) and the entire **MCP Ecosystem** (Claude Desktop, Cursor), making your code universal.
+* **Write Tools Once, Run Everywhere**
+    
+    Forget about complex JSON schemas, manual bindings, or router configurations. In Mirobody, **your Python code is the only definition required.**
+    * Tools built here instantly work in **ChatGPT** (via Apps-SDK) and the entire **MCP Ecosystem** (Claude, Cursor, IDEs).
+    * Mirobody works simultaneously as an **MCP Client** (to use tools) and an **OAuth-enabled MCP Server** (to provide data), creating a complete data loop.
 
-* 🧠 **Private Data, Limitless AI**
-    Keep your sensitive data encrypted locally. Mirobody serves it as on-demand context to any AI model you choose, ensuring privacy without sacrificing power.
+* **Your data is an asset, not a payload.**
+    
+    Mirobody is built for **Personal Intelligence**, not just local storage. We believe the next frontier of AI is not knowing more about the world, but knowing more about *you*.
+    * General AI creates generic answers. Mirobody uses your data to create a **Personal Knowledge Base**, enabling AI to give answers that are truly relevant to your life.
+    * You can run the entire engine **locally** on your machine. We provide the architecture to unlock your data's value without ever compromising ownership.
 
-* 🤖 **Professional Agent Engine**
-    Built-in agent orchestration that rivals **Claude Code**. Capable of executing complex, multi-step research tasks directly on your machine.
+* **Native Agent Engine**
+    * Powered by a **self-developed agent engine** that fully reproduces **Claude Code's** autonomous capabilities locally.
+    * Designed to directly load standard **Claude Agent Skills** (Coming Soon), turning your private data into an actionable knowledge base.
 
-* 🛡️ **Dual-Mode MCP Architecture**
-    The only platform that works simultaneously as an **MCP Client** (to use tools) and an **OAuth-enabled MCP Server** (to provide data), creating a complete data loop. 
 
 ---
 
