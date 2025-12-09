@@ -1,0 +1,406 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/28 21:30 - 12/9 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+AA
+$44.46
+1.58%
+Post
+$44.74
+  0.63%
+Volume
+22,542
+Premiums
+2.89M
+Bullish
+1.38M
+47.63%
+Bearish
+1.08M
+37.30%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/09 00:24:26
+	
+AA
+ASK	49	call	2025-12-19	10d	$43.35	13%	$0.11 - $0.16	$0.16	7,209	$115K	7,250	5,233	1.39	
+100%
+66,352	51.44	0.092	-0.0291	0.0427	0.0124	0.0012	0.16	Basic Materials	Aluminum	50	Repeated Hits Ascending Fill	SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/06 02:53:51
+	
+AA
+ASK	33	put	2027-01-15	402d	$43.98	25%	$2.97 - $3.40	$3.40	100	$34K	100	1	100.00	
+100%
+-2,052	48.51	-0.2052	-0.0078	0.0126	0.1319	-0.1382	3.40	Basic Materials	Aluminum	50		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/05 23:41:36
+	
+AA
+BID	45	put	2027-01-15	402d	$44.70	-1%	$6.55 - $9.85	$7.00	1,509	$1.06M	2,716	21	129.33	
+100%
+-64,333	36.96	-0.4263	-0.0082	0.0225	0.1849	-0.2898	7.00	Basic Materials	Aluminum	50	Floor Trade Large Cap	ML-O	
+MFSL
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/05 23:41:36
+	
+AA
+BID	45	put	2027-01-15	402d	$44.70	-1%	$6.50 - $9.85	$7.00	301	$211K	301	21	14.33	
+100%
+-12,833	36.96	-0.4263	-0.0082	0.0225	0.1849	-0.2898	7.00	Basic Materials	Aluminum	50	Floor Trade Large Cap	ML-O	
+MFSL
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/05 04:57:56
+	
+AA
+ASK	47	call	2025-12-19	10d	$44.03	7%	$0.56 - $0.62	$0.62	506	$31K	607	160	3.79	
+99%
+13,118	46.52	0.2592	-0.0449	0.078	0.0289	0.0044	0.62	Basic Materials	Aluminum	50	Repeated Hits	SL	
+ISOI
+SWEEP	🐂 - BULLISH🛍️ - ASK	
+
+
+12/04 23:14:07
+	
+AA
+BID	49	call	2025-12-19	10d	$43.99	11%	$0.28 - $0.31	$0.29	3,299	$96K	3,300	6	550.00	
+100%
+46,398	47.26	0.1406	-0.0314	0.053	0.0199	0.0024	0.29	Basic Materials	Aluminum	50		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+12/04 01:42:42
+	
+AA
+BID	43	put	2025-12-12	3d	$44.61	4%	$0.59 - $0.72	$0.65	4,625	$301K	4,653	16	290.81	
+100%
+-137,593	47.39	-0.2975	-0.0638	0.1044	0.0243	-0.0034	0.65	Basic Materials	Aluminum	50		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+
+12/04 01:42:42
+	
+AA
+BID	40	put	2025-12-12	3d	$44.61	10%	$0.15 - $0.22	$0.18	9,250	$167K	9,282	198	46.88	
+100%
+-88,700	55.05	-0.0959	-0.0364	0.0441	0.0119	-0.0011	0.18	Basic Materials	Aluminum	50		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+
+12/03 23:28:35
+	
+AA
+ASK	55	call	2026-07-17	220d	$43.94	25%	$2.87 - $3.55	$3.30	390	$129K	390	0	-	
+100%
+13,692	49.17	0.3511	-0.014	0.0218	0.1282	0.0751	3.30	Basic Materials	Aluminum	50		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/03 23:23:16
+	
+AA
+ASK	47	call	2025-12-12	3d	$43.48	8%	$0.23 - $0.38	$0.34	2,978	$101K	3,004	16	187.75	
+100%
+54,195	52.23	0.182	-0.0524	0.0741	0.018	0.0019	0.34	Basic Materials	Aluminum	50		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	

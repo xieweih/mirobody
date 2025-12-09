@@ -1,0 +1,2 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+HP_12.08_30call2026-07-17.txt,2025-12-08,22:56:22,HP,ASK,30,call,2026-07-17,220d,$29.84,$3.60 - $4.30,$4.00,290,$116K,290,86,3.37,100%,"16,340",43.93,0.5635,-0.0092,0.0386,0.0914,0.0776,4.00,Energy,Oil & Gas,57,Repeated Hits,30 call 2026-07-17

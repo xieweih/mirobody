@@ -1,0 +1,2 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+LIF_12.08_80call2025-12-19.txt,2025-12-08,22:43:14,LIF,ASK,80,call,2025-12-19,10d,$74.01,$0.60 - $1.60,$1.54,"1,658",$255K,"2,076",54,38.44,100%,"47,426",71.52,0.286,-0.1421,0.037,0.0437,0.0059,1.54,Technology,Software,79,Repeated Hits Ascending Fill,80 call 2025-12-19
