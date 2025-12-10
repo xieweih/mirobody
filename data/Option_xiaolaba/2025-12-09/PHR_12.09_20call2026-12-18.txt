@@ -1,0 +1,351 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/30 21:30 - 12/10 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+PHR
+$15.97
+-20.63%
+Volume
+6,003
+Premiums
+910,817
+Bullish
+610,818
+67.06%
+Bearish
+285,324
+31.33%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/10 02:24:31
+	
+PHR
+ASK	20	call	2026-12-18	374d	$15.94	25%	$2.00 - $2.45	$2.40	2,000	$480K	2,006	2	1,003.00	
+100%
+92,564	57.52	0.4628	-0.005	0.0428	0.0641	0.051	2.40	Healthcare	Health Information Services	-1	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/10 01:41:29
+	
+PHR
+ASK	15	put	2026-12-18	374d	$15.93	6%	$0.55 - $3.60	$2.20	300	$66K	300	0	-	
+100%
+-10,756	42.97	-0.3585	-0.0034	0.0539	0.0602	-0.0811	2.20	Healthcare	Health Information Services	-1		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/08 23:14:07
+	
+PHR
+BID	20	put	2026-12-18	374d	$19.67	-2%	$3.50 - $4.60	$3.62	150	$54K	151	125	1.21	
+100%
+-6,363	43.83	-0.4242	-0.0045	0.0448	0.0781	-0.1229	3.62	Healthcare	Health Information Services	-1		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/08 23:14:07
+	
+PHR
+ASK	22.5	put	2026-12-18	374d	$19.67	-14%	$3.40 - $6.30	$5.12	150	$77K	150	125	1.20	
+100%
+-8,053	42.30	-0.5368	-0.0043	0.0471	0.0792	-0.1611	5.12	Healthcare	Health Information Services	-1		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/05 03:53:13
+	
+PHR
+BID	22.5	put	2026-12-18	374d	$20.35	-11%	$4.80 - $5.50	$5.10	70	$36K	70	0	-	
+100%
+-3,423	46.12	-0.4891	-0.0049	0.0417	0.0827	-0.1563	5.10	Healthcare	Health Information Services	-1	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID⌛ - ER UPCOMING	

@@ -1,0 +1,341 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/30 21:30 - 12/10 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+CELC
+$102.58
+-1.40%
+Volume
+134
+Premiums
+314,535
+Bullish
+249,402
+79.29%
+Bearish
+60,393
+19.20%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/10 04:02:53
+	
+CELC
+ASK	105	call	2026-06-18	191d	$102.55	2%	$24.80 - $28.00	$28.00	70	$196K	70	10	7.00	
+100%
+4,402	99.46	0.6289	-0.0733	0.0051	0.2804	0.191	28.00	Healthcare	Diagnostics & Research	111	Floor Trade Mid Cap	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/05 01:53:07
+	
+CELC
+ASK	90	call	2027-01-15	402d	$103.80	-13%	$41.00 - $45.90	$44.04	82	$361K	82	1	82.00	
+100%
+6,063	93.54	0.7394	-0.0412	0.0032	0.356	0.3647	44.04	Healthcare	Diagnostics & Research	111		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/05 00:19:53
+	
+CELC
+ASK	110	call	2026-03-20	101d	$104.33	5%	$13.40 - $16.50	$15.28	30	$46K	30	10	3.00	
+100%
+1,605	78.50	0.535	-0.083	0.009	0.2234	0.1177	15.28	Healthcare	Diagnostics & Research	111		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/04 23:13:57
+	
+CELC
+BID	100	call	2027-01-15	402d	$102.28	-2%	$37.90 - $40.40	$37.90	40	$152K	40	1	40.00	
+100%
+2,763	89.20	0.6908	-0.042	0.0037	0.3806	0.3653	37.90	Healthcare	Diagnostics & Research	111		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	

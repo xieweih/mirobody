@@ -1,0 +1,361 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/30 21:30 - 12/10 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+SGML
+$11.78
+11.45%
+Volume
+13,324
+Premiums
+2.67M
+Bullish
+2.45M
+91.61%
+Bearish
+138,709
+5.20%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/10 01:03:39
+	
+SGML
+ASK	13	call	2026-04-17	129d	$11.62	12%	$2.10 - $2.90	$2.80	2,718	$761K	2,722	40	68.05	
+100%
+157,742	120.70	0.5804	-0.0126	0.0469	0.027	0.0139	2.80	Basic Materials	Metals & Mining	111	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/10 00:08:08
+	
+SGML
+ASK	12	call	2026-01-16	38d	$11.25	7%	$1.15 - $1.50	$1.50	2,000	$300K	2,034	1,577	1.29	
+100%
+103,201	124.68	0.516	-0.0238	0.0881	0.0145	0.0045	1.50	Basic Materials	Metals & Mining	111		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/10 00:08:08
+	
+SGML
+ASK	16	call	2026-01-16	38d	$11.25	42%	$0.40 - $0.75	$0.60	2,000	$120K	2,000	39	51.28	
+100%
+51,874	128.19	0.2594	-0.0198	0.0696	0.0118	0.0024	0.60	Basic Materials	Metals & Mining	111		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/05 22:50:45
+	
+SGML
+BID	17	call	2027-01-15	402d	$9.93	71%	$3.20 - $3.90	$3.20	150	$48K	150	10	15.00	
+100%
+8,593	116.98	0.5728	-0.0059	0.032	0.0411	0.0277	3.20	Basic Materials	Metals & Mining	111		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/02 22:46:50
+	
+SGML
+ASK	10	put	2025-12-19	10d	$10.66	6%	$0.70 - $0.75	$0.75	799	$60K	1,012	447	2.26	
+100%
+-28,170	118.12	-0.3526	-0.0297	0.1367	0.0085	-0.0021	0.75	Basic Materials	Metals & Mining	111		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/01 22:54:27
+	
+SGML
+BID	11	put	2025-12-19	10d	$11.32	3%	$0.90 - $1.15	$1.00	300	$30K	300	128	2.34	
+100%
+-12,149	116.98	-0.405	-0.0316	0.1318	0.0097	-0.0028	1.00	Basic Materials	Metals & Mining	111		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
