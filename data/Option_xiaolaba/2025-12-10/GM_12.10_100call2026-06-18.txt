@@ -1,0 +1,461 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/1 21:30 - 12/11 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+GM
+$80.00
+3.67%
+Volume
+45,881
+Premiums
+12.2M
+Bullish
+7.06M
+57.87%
+Bearish
+4.38M
+35.90%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/11 03:55:34
+	
+GM
+ASK	100	call	2026-06-18	190d	$79.98	25%	$1.74 - $2.29	$2.25	8,964	$2.02M	10,013	1,142	8.77	
+99%
+198,186	34.45	0.2211	-0.0157	0.0149	0.1713	0.0803	2.25	Consumer Cyclical	Automotive	48		SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/11 02:21:54
+	
+GM
+BID	87	call	2026-01-23	44d	$79.05	10%	$0.47 - $0.80	$0.63	969	$61K	1,090	5	218.00	
+100%
+16,113	27.10	0.1663	-0.0212	0.0335	0.0685	0.0151	0.63	Consumer Cyclical	Automotive	48		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/10 23:21:10
+	
+GM
+ASK	69	call	2025-12-26	16d	$78.37	-12%	$8.65 - $9.65	$9.65	40	$39K	40	11	3.64	
+100%
+3,680	44.78	0.9201	-0.0343	0.0202	0.0244	0.0274	9.65	Consumer Cyclical	Automotive	48		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/09 22:35:58
+	
+GM
+ASK	60	call	2026-01-02	23d	$76.85	-22%	$16.60 - $17.20	$17.20	300	$516K	300	0	-	
+100%
+28,239	65.14	0.9413	-0.0315	0.0091	0.0231	0.0363	17.20	Consumer Cyclical	Automotive	48		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/09 03:26:03
+	
+GM
+BID	77.5	put	2026-06-18	190d	$75.85	-2%	$7.30 - $7.40	$7.30	50	$37K	66	25	2.64	
+94%
+-2,476	29.38	-0.4952	-0.0164	0.0247	0.2194	-0.2359	7.30	Consumer Cyclical	Automotive	48		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/08 22:30:12
+	
+GM
+BID	60	call	2026-01-23	44d	$76.41	-21%	$15.80 - $18.65	$17.04	50	$85K	50	0	-	
+100%
+4,571	53.58	0.9142	-0.025	0.0108	0.0425	0.0666	17.04	Consumer Cyclical	Automotive	48		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+12/06 00:40:13
+	
+GM
+ASK	80	put	2026-03-20	100d	$76.76	-4%	$6.50 - $6.60	$6.60	63	$42K	70	18	3.89	
+97%
+-3,614	28.89	-0.5736	-0.0219	0.033	0.1614	-0.1456	6.60	Consumer Cyclical	Automotive	48		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/05 03:49:52
+	
+GM
+ASK	77.5	call	2026-01-16	37d	$75.68	2%	$2.05 - $2.14	$2.10	1,300	$273K	1,435	958	1.50	
+94%
+54,723	27.81	0.4209	-0.033	0.0541	0.1016	0.0351	2.10	Consumer Cyclical	Automotive	48		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+
+12/05 02:26:27
+	
+GM
+BID	60	put	2028-01-21	772d	$76.04	21%	$5.85 - $7.10	$6.41	1,090	$699K	1,093	21	52.05	
+100%
+-24,967	33.38	-0.2291	-0.007	0.0082	0.3363	-0.5079	6.41	Consumer Cyclical	Automotive	48		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID🥤 - DIVIDEND	
+
+
+12/05 00:52:43
+	
+GM
+ASK	80	call	2026-12-18	373d	$76.02	5%	$9.10 - $9.20	$9.20	882	$811K	884	364	2.43	
+100%
+45,576	34.84	0.5167	-0.0144	0.0148	0.3088	0.3124	9.20	Consumer Cyclical	Automotive	48		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+
+12/05 00:51:01
+	
+GM
+BID	77.5	put	2026-01-16	37d	$76.09	-2%	$3.45 - $3.50	$3.45	96	$33K	133	1	133.00	
+95%
+-5,417	25.66	-0.5642	-0.0304	0.0588	0.1028	-0.0546	3.45	Consumer Cyclical	Automotive	48		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID🥤 - DIVIDEND	
+
+
+12/05 00:43:07
+	
+GM
+ASK	65	call	2026-01-09	30d	$76.02	-14%	$10.05 - $12.20	$11.57	50	$58K	50	0	-	
+100%
+4,473	42.13	0.8946	-0.0258	0.0181	0.0435	0.0557	11.57	Consumer Cyclical	Automotive	48		ML-S	
+TLET
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+
+12/04 22:43:46
+	
+GM
+ASK	105	put	2027-01-15	401d	$75.69	-39%	$29.85 - $31.45	$30.95	40	$124K	40	0	-	
+100%
+-3,280	28.76	-0.8201	-0.0067	0.0114	0.2096	-1.0372	30.95	Consumer Cyclical	Automotive	48		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🥤 - DIVIDEND	
+
+
+12/04 22:36:27
+	
+GM
+BID	74	call	2025-12-12	2d	$75.48	-2%	$1.93 - $2.30	$2.11	488	$103K	520	308	1.69	
+94%
+33,799	27.80	0.6926	-0.0684	0.1131	0.0393	0.011	2.11	Consumer Cyclical	Automotive	48		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+
+12/04 22:30:11
+	
+GM
+BID	60	call	2025-12-12	2d	$75.07	-20%	$14.65 - $15.45	$15.03	40	$60K	40	4	10.00	
+100%
+3,726	107.45	0.9316	-0.0986	0.011	0.0147	0.0119	15.45	Consumer Cyclical	Automotive	48		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🥤 - DIVIDEND	
+
+
+12/04 22:30:11
+	
+GM
+ASK	65	call	2025-12-12	2d	$75.07	-13%	$9.65 - $10.45	$10.07	40	$40K	40	32	1.25	
+100%
+3,989	35.37	0.9972	-0.0023	0.0022	0.0009	0.0142	10.07	Consumer Cyclical	Automotive	48		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	

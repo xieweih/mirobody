@@ -1,0 +1,721 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/1 21:30 - 12/11 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+CIEN
+$218.41
+1.89%
+Volume
+6,179
+Premiums
+7.15M
+Bullish
+2.91M
+40.69%
+Bearish
+3.41M
+47.71%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/11 00:13:44
+	
+CIEN
+ASK	230	call	2025-12-19	9d	$218.13	5%	$9.50 - $11.60	$11.50	1,000	$1.15M	1,006	412	2.44	
+99%
+42,549	119.67	0.4255	-0.8928	0.0096	0.1343	0.02	11.50	Technology	Communication Equipment	1	Floor Trade Large Cap	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 23:50:41
+	
+CIEN
+BID	220	put	2026-01-16	37d	$217.08	-1%	$21.90 - $22.50	$22.10	20	$44K	21	12	1.75	
+100%
+-950	74.50	-0.4748	-0.2764	0.0077	0.2752	-0.1269	22.10	Technology	Communication Equipment	1		SL	
+AUTO
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 23:27:03
+	
+CIEN
+BID	195	call	2026-01-23	44d	$218.19	-11%	$35.70 - $37.50	$35.70	30	$107K	30	1	30.00	
+100%
+2,128	77.80	0.7095	-0.2301	0.0058	0.2595	0.1436	35.70	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 23:26:27
+	
+CIEN
+ASK	217.5	put	2025-12-26	16d	$218.18	0%	$16.20 - $16.30	$16.30	44	$72K	44	5	8.80	
+100%
+-2,003	91.61	-0.4552	-0.5181	0.0095	0.1811	-0.0507	16.30	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 23:23:56
+	
+CIEN
+BID	210	call	2026-01-09	30d	$218.22	-4%	$24.40 - $26.50	$24.40	88	$215K	88	1	88.00	
+100%
+5,375	81.91	0.6108	-0.3279	0.0075	0.2399	0.0895	24.40	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 23:18:10
+	
+CIEN
+ASK	100	put	2026-12-18	373d	$218.26	54%	$6.40 - $8.10	$8.10	45	$36K	45	0	-	
+100%
+-351	74.22	-0.0779	-0.0318	0.0009	0.3215	-0.2566	8.10	Technology	Communication Equipment	1	Repeated Hits	SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 22:40:54
+	
+CIEN
+BID	250	call	2026-06-18	190d	$216.87	15%	$35.20 - $35.30	$35.20	100	$352K	100	14	7.14	
+100%
+5,051	75.34	0.5051	-0.1243	0.0034	0.6242	0.387	35.20	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 04:59:07
+	
+CIEN
+BID	215	put	2025-12-12	2d	$214.52	-0%	$14.10 - $16.50	$14.75	55	$81K	90	11	8.18	
+96%
+-2,593	187.03	-0.4714	-2.4119	0.0109	0.0774	-0.0095	14.75	Technology	Communication Equipment	1		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 04:59:07
+	
+CIEN
+ASK	210	put	2026-03-20	100d	$214.52	2%	$27.30 - $30.00	$29.35	55	$161K	58	12	4.83	
+98%
+-2,215	71.42	-0.4028	-0.1538	0.0048	0.4368	-0.3203	29.35	Technology	Communication Equipment	1		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 04:57:48
+	
+CIEN
+BID	215	put	2025-12-12	2d	$214.36	-0%	$15.10 - $16.50	$15.10	25	$38K	35	11	3.18	
+89%
+-1,181	190.55	-0.4725	-2.4559	0.0107	0.0773	-0.0096	15.10	Technology	Communication Equipment	1		SL	
+AUTO
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 04:57:39
+	
+CIEN
+ASK	215	put	2025-12-19	9d	$214.31	-0%	$15.20 - $16.60	$16.60	20	$33K	21	6	3.50	
+100%
+-938	114.86	-0.4688	-0.8099	0.0098	0.1411	-0.0321	16.60	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 02:40:51
+	
+CIEN
+ASK	195	put	2025-12-12	2d	$215.43	9%	$5.10 - $6.30	$5.90	152	$90K	163	42	3.88	
+93%
+-3,796	185.90	-0.2497	-1.9216	0.0087	0.062	-0.0049	5.90	Technology	Communication Equipment	1		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 02:40:51
+	
+CIEN
+ASK	210	put	2025-12-12	2d	$215.43	3%	$10.50 - $12.70	$12.02	76	$91K	82	35	2.34	
+99%
+-3,096	189.67	-0.4074	-2.3959	0.0105	0.0758	-0.0082	12.02	Technology	Communication Equipment	1		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 02:20:54
+	
+CIEN
+BID	300	put	2027-01-15	401d	$215.91	-39%	$114.10 - $115.80	$114.10	3	$34K	3	1	3.00	
+100%
+-172	61.03	-0.5748	-0.0656	0.0028	0.888	-2.6234	114.10	Technology	Communication Equipment	1		SL	
+AUTO
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 01:33:40
+	
+CIEN
+BID	290	put	2027-01-15	401d	$216.26	-34%	$106.30 - $108.50	$106.30	6	$64K	6	0	-	
+100%
+-331	61.32	-0.5515	-0.0667	0.0028	0.8979	-2.4843	106.30	Technology	Communication Equipment	1		SL	
+AUTO
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 01:19:41
+	
+CIEN
+ASK	217.5	put	2025-12-19	9d	$216.32	-1%	$16.80 - $17.80	$17.50	20	$35K	22	0	-	
+91%
+-944	118.23	-0.472	-0.8419	0.0094	0.1425	-0.0328	17.50	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 00:12:57
+	
+CIEN
+ASK	182.5	call	2025-12-12	2d	$217.73	-16%	$36.80 - $40.00	$38.42	16	$61K	16	13	1.23	
+100%
+1,369	200.67	0.8557	-1.5003	0.0057	0.0448	0.0122	38.42	Technology	Communication Equipment	1		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 22:50:05
+	
+CIEN
+ASK	192.5	call	2025-12-12	2d	$216.89	-11%	$28.10 - $30.90	$29.53	80	$236K	80	22	3.64	
+100%
+6,248	190.98	0.781	-1.8487	0.0079	0.0581	0.0115	29.53	Technology	Communication Equipment	1	Floor Trade Large Cap	ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 22:50:05
+	
+CIEN
+BID	190	call	2025-12-12	2d	$216.89	-12%	$30.00 - $33.00	$31.48	80	$252K	81	36	2.25	
+100%
+6,407	192.85	0.8008	-1.7655	0.0074	0.0549	0.0117	31.48	Technology	Communication Equipment	1	Floor Trade Large Cap	ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 22:30:48
+	
+CIEN
+ASK	180	put	2025-12-19	9d	$214.83	16%	$3.10 - $5.20	$4.90	850	$417K	851	134	6.35	
+100%
+-15,016	130.28	-0.1767	-0.6005	0.0056	0.0922	-0.0117	4.90	Technology	Communication Equipment	1		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 22:30:48
+	
+CIEN
+ASK	192.5	put	2025-12-19	9d	$214.83	10%	$6.30 - $8.40	$8.40	850	$714K	850	2	425.00	
+100%
+-22,743	129.20	-0.2676	-0.7558	0.0072	0.117	-0.018	8.40	Technology	Communication Equipment	1		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 04:58:13
+	
+CIEN
+BID	60	call	2026-06-18	190d	$212.17	-72%	$154.00 - $156.50	$154.00	7	$108K	12	1	12.00	
+83%
+685	106.35	0.9786	-0.0223	0.0003	0.079	0.2821	154.00	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 04:58:13
+	
+CIEN
+ASK	60	call	2026-06-18	190d	$212.17	-72%	$152.60 - $154.00	$154.00	2	$31K	2	1	2.00	
+100%
+196	106.35	0.9786	-0.0223	0.0003	0.079	0.2821	154.00	Technology	Communication Equipment	1		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 01:57:20
+	
+CIEN
+ASK	207.5	put	2025-12-19	9d	$211.19	2%	$14.10 - $14.40	$14.40	32	$46K	32	0	-	
+100%
+-1,361	111.79	-0.4254	-0.7298	0.0096	0.1437	-0.0314	14.40	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 01:57:20
+	
+CIEN
+ASK	207.5	call	2025-12-19	9d	$211.19	-2%	$16.60 - $18.30	$18.30	18	$33K	20	0	-	
+90%
+1,034	113.20	0.5746	-0.7397	0.0094	0.1437	0.0311	18.30	Technology	Communication Equipment	1		SL	
+ISOI
+SWEEP	🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 00:52:52
+	
+CIEN
+BID	210	put	2026-01-02	23d	$207.26	-1%	$19.60 - $20.00	$19.60	20	$39K	21	0	-	
+100%
+-960	83.75	-0.48	-0.3616	0.0088	0.2161	-0.0816	19.60	Technology	Communication Equipment	1		SL	
+AUTO
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/08 23:54:13
+	
+CIEN
+ASK	120	call	2026-01-23	44d	$207.74	-42%	$87.20 - $91.30	$89.27	10	$89K	10	0	-	
+100%
+957	100.61	0.9569	-0.0744	0.0012	0.0675	0.138	89.27	Technology	Communication Equipment	1		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/08 23:54:13
+	
+CIEN
+BID	130	call	2026-01-23	44d	$207.74	-37%	$78.00 - $81.90	$79.92	10	$80K	10	0	-	
+100%
+939	96.06	0.9389	-0.0937	0.0017	0.0891	0.1451	79.92	Technology	Communication Equipment	1		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/08 23:40:54
+	
+CIEN
+BID	180	call	2026-01-23	44d	$210.88	-15%	$38.80 - $42.80	$40.75	10	$41K	10	0	-	
+100%
+759	79.56	0.7589	-0.2024	0.0052	0.2333	0.1503	40.75	Technology	Communication Equipment	1		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/08 23:40:54
+	
+CIEN
+BID	182.5	call	2026-01-23	44d	$210.88	-13%	$37.00 - $41.10	$39.00	10	$39K	10	0	-	
+100%
+744	79.08	0.7441	-0.2077	0.0054	0.2408	0.1486	39.00	Technology	Communication Equipment	1		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/06 01:14:30
+	
+CIEN
+ASK	165	put	2027-01-15	401d	$197.47	16%	$32.00 - $34.50	$34.50	20	$69K	20	2	10.00	
+100%
+-541	66.17	-0.2707	-0.0555	0.0024	0.6895	-0.9783	34.50	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK⌛ - ER UPCOMING	
+
+
+12/06 01:13:56
+	
+CIEN
+BID	205	call	2026-01-09	30d	$197.39	4%	$14.90 - $18.10	$16.45	49	$81K	85	4	21.25	
+100%
+2,400	80.73	0.4898	-0.2816	0.0081	0.2438	0.0769	16.45	Technology	Communication Equipment	1		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID⌛ - ER UPCOMING	
+
+
+12/05 23:29:15
+	
+CIEN
+ASK	50	call	2027-01-15	401d	$197.67	-75%	$149.50 - $152.00	$152.00	10	$152K	10	7	1.43	
+100%
+967	99.39	0.967	-0.0191	0.0004	0.1535	0.4354	152.00	Technology	Communication Equipment	1		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK⌛ - ER UPCOMING	
+
+
+12/05 22:58:26
+	
+CIEN
+ASK	150	put	2026-07-17	219d	$199.24	25%	$16.20 - $17.20	$17.20	48	$83K	75	0	-	
+64%
+-1,017	68.70	-0.2119	-0.0689	0.0027	0.4523	-0.3647	17.20	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK⌛ - ER UPCOMING	
+
+
+12/05 03:50:52
+	
+CIEN
+BID	200	put	2026-12-18	373d	$195.77	-2%	$52.50 - $53.70	$52.50	7	$37K	7	0	-	
+100%
+-268	64.19	-0.3825	-0.0635	0.003	0.7611	-1.3228	52.50	Technology	Communication Equipment	1		SL	
+AUTO
+🐂 - BULLISH🦴 - BID⌛ - ER UPCOMING	
+
+
+12/05 01:54:10
+	
+CIEN
+BID	290	call	2026-06-18	190d	$196.83	47%	$16.70 - $17.90	$16.80	41	$69K	42	4	10.50	
+98%
+1,315	72.16	0.3208	-0.0954	0.0034	0.5163	0.2488	16.80	Technology	Communication Equipment	1		SL	
+AUTO
+🐻 - BEARISH🦴 - BID⌛ - ER UPCOMING	
+
+
+12/05 00:09:00
+	
+CIEN
+ASK	165	put	2025-12-12	2d	$196.26	16%	$2.95 - $4.30	$3.82	2,000	$764K	2,081	18	115.61	
+96%
+-33,317	135.05	-0.1666	-0.6124	0.0064	0.0726	-0.008	3.82	Technology	Communication Equipment	1		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK⌛ - ER UPCOMING	
+
+
+12/05 00:09:00
+	
+CIEN
+BID	175	put	2025-12-12	2d	$196.26	11%	$5.70 - $7.40	$6.47	2,000	$1.29M	2,081	11	189.18	
+100%
+-49,979	134.65	-0.2499	-0.7767	0.0081	0.0923	-0.0122	6.47	Technology	Communication Equipment	1		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID⌛ - ER UPCOMING	
+
+
+12/04 23:06:00
+	
+CIEN
+BID	120	put	2026-01-16	37d	$192.26	38%	$1.25 - $1.95	$1.40	5,548	$777K	6,935	71	97.68	
+100%
+-27,202	91.79	-0.049	-0.0715	0.0017	0.067	-0.0128	1.40	Technology	Communication Equipment	1		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID⌛ - ER UPCOMING	
+
+
+12/04 23:06:00
+	
+CIEN
+BID	120	put	2026-01-16	37d	$192.26	38%	$1.25 - $1.95	$1.45	1,387	$201K	1,387	71	19.54	
+100%
+-6,952	92.53	-0.0501	-0.0733	0.0017	0.0682	-0.0131	1.45	Technology	Communication Equipment	1		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID⌛ - ER UPCOMING	
+
+
+12/02 22:51:21
+	
+CIEN
+ASK	205	call	2025-12-19	9d	$206.52	-1%	$17.30 - $20.30	$19.00	50	$95K	58	4	14.50	
+88%
+2,788	103.09	0.5575	-0.5338	0.0086	0.176	0.0448	19.00	Technology	Communication Equipment	1		SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK⌛ - ER UPCOMING	
+
+
+12/01 23:27:32
+	
+CIEN
+BID	195	put	2025-12-05	-5d	$199.13	2%	$4.00 - $4.60	$4.00	89	$36K	117	18	6.50	
+78%
+-3,334	70.92	-0.3746	-0.7002	0.0256	0.079	-0.0086	4.00	Technology	Communication Equipment	1	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🦴 - BID⌛ - ER UPCOMING	

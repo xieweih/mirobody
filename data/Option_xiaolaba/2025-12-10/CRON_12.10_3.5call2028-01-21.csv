@@ -1,0 +1,3 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+CRON_12.10_3.5call2028-01-21.txt,2025-12-11,00:01:47,CRON,ASK,3.5,call,2028-01-21,772d,$2.80,$0.55 - $0.90,$0.90,"3,264",$294K,"5,238",25,209.52,96%,"200,536",69.70,0.6144,-0.0007,0.135,0.0155,0.0173,0.90,Healthcare,Drug Manufacturers,78,Repeated Hits Ascending Fill,3.5 call 2028-01-21
+CRON_12.10_3.5call2028-01-21.txt,2025-12-09,22:53:30,CRON,ASK,2,call,2026-07-17,219d,$2.71,$0.40 - $1.10,$0.90,"5,000",$450K,"5,000",2,"2,500.00",100%,"403,071",63.91,0.8061,-0.0008,0.2043,0.0058,0.0077,0.90,Healthcare,Drug Manufacturers,78,,2 call 2026-07-17

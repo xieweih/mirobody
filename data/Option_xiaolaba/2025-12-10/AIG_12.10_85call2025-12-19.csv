@@ -1,0 +1,2 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+AIG_12.10_85call2025-12-19.txt,2025-12-11,04:51:29,AIG,ASK,85,call,2025-12-19,9d,$81.44,$0.65 - $0.90,$0.90,"2,500",$225K,"3,903",208,18.76,75%,"68,662",43.10,0.2746,-0.1022,0.0605,0.0426,0.0053,0.90,Financial Services,Insurance,62,,85 call 2025-12-19

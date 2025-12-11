@@ -1,0 +1,491 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 11/30 21:30 - 12/10 23:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+WBD
+$29.14
+3.10%
+Volume
+36,693
+Premiums
+4.11M
+Bullish
+3.39M
+82.51%
+Bearish
+606,409
+14.77%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/10 22:34:29
+	
+WBD
+ASK	30	call	2026-02-20	72d	$29.07	3%	$0.98 - $1.20	$1.10	9,265	$1.02M	12,276	3,577	3.43	
+94%
+397,750	29.02	0.4293	-0.0103	0.1048	0.0507	0.0224	1.10	Communication Services	Entertainment	78	Sweeps Followed By Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/09 23:50:00
+	
+WBD
+BID	27	put	2026-01-16	37d	$27.61	2%	$0.48 - $0.62	$0.51	1,250	$64K	1,741	381	4.57	
+81%
+-45,445	22.13	-0.3636	-0.0097	0.1904	0.0334	-0.011	0.51	Communication Services	Entertainment	78		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/08 23:51:52
+	
+WBD
+ASK	28	put	2026-02-20	72d	$27.52	-2%	$0.58 - $1.10	$1.10	300	$33K	457	0	-	
+92%
+-17,217	16.90	-0.5739	-0.0055	0.1873	0.0486	-0.0342	1.10	Communication Services	Entertainment	78		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/08 23:45:58
+	
+WBD
+ASK	29	put	2025-12-19	9d	$27.75	-5%	$1.00 - $1.55	$1.33	700	$93K	707	9	78.56	
+99%
+-60,347	22.95	-0.8621	-0.011	0.1993	0.0106	-0.0076	1.33	Communication Services	Entertainment	78		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/08 23:35:44
+	
+WBD
+BID	24.5	call	2026-01-02	23d	$27.62	-11%	$3.00 - $3.70	$3.33	100	$33K	102	61	1.67	
+99%
+8,695	42.85	0.8695	-0.0132	0.0685	0.0153	0.0142	3.33	Communication Services	Entertainment	78		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/06 01:41:18
+	
+WBD
+ASK	25	put	2026-01-16	37d	$25.06	0%	$0.58 - $0.65	$0.65	1,000	$65K	1,630	293	5.56	
+95%
+-47,222	20.08	-0.4722	-0.008	0.2332	0.0338	-0.0144	0.65	Communication Services	Entertainment	78		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/06 01:24:06
+	
+WBD
+ASK	25	put	2026-01-16	37d	$25.07	0%	$0.59 - $0.65	$0.65	499	$32K	625	293	2.13	
+88%
+-23,369	20.32	-0.4683	-0.0081	0.2301	0.0338	-0.0143	0.65	Communication Services	Entertainment	78		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/06 00:16:14
+	
+WBD
+ASK	26	put	2025-12-12	2d	$25.52	-2%	$0.40 - $0.80	$0.69	980	$68K	981	0	-	
+100%
+-66,398	28.27	-0.6775	-0.0255	0.3591	0.0127	-0.0034	0.69	Communication Services	Entertainment	78		SL	
+SLAN
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/06 00:00:46
+	
+WBD
+ASK	23	put	2026-03-20	100d	$25.41	9%	$0.21 - $0.25	$0.25	2,500	$63K	3,176	1,242	2.56	
+81%
+-40,904	20.15	-0.1636	-0.0032	0.0899	0.0336	-0.0127	0.25	Communication Services	Entertainment	78		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/05 03:34:19
+	
+WBD
+ASK	23.5	call	2025-12-19	9d	$24.22	-3%	$1.08 - $1.40	$1.40	25,000	$3.5M	25,004	853	29.31	
+100%
+1,580,610	51.93	0.6322	-0.0321	0.1478	0.0185	0.0057	1.40	Communication Services	Entertainment	78		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/05 03:34:19
+	
+WBD
+ASK	27	call	2025-12-19	9d	$24.22	12%	$0.18 - $0.22	$0.22	25,000	$550K	30,584	5,531	5.53	
+95%
+418,656	52.74	0.1675	-0.0216	0.0968	0.0123	0.0016	0.22	Communication Services	Entertainment	78		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/05 03:30:45
+	
+WBD
+ASK	23.5	call	2025-12-19	9d	$24.20	-3%	$1.06 - $1.45	$1.40	20,000	$2.8M	20,002	853	23.45	
+100%
+1,256,375	52.61	0.6282	-0.0326	0.1465	0.0185	0.0057	1.40	Communication Services	Entertainment	78		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/05 03:30:45
+	
+WBD
+ASK	27	call	2025-12-19	9d	$24.20	12%	$0.21 - $0.22	$0.23	20,000	$460K	25,356	5,531	4.58	
+90%
+341,971	53.82	0.171	-0.0224	0.0962	0.0125	0.0016	0.23	Communication Services	Entertainment	78		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/04 23:49:12
+	
+WBD
+BID	24	put	2026-01-16	37d	$24.29	1%	$0.99 - $1.09	$1.00	5,000	$500K	5,016	3,681	1.36	
+100%
+-217,978	34.51	-0.436	-0.0131	0.1369	0.0328	-0.0137	1.00	Communication Services	Entertainment	78		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/03 03:21:51
+	
+WBD
+ASK	21	put	2026-06-18	190d	$24.56	14%	$0.08 - $1.55	$1.02	296	$30K	301	0	-	
+98%
+-6,910	36.05	-0.2335	-0.005	0.047	0.0554	-0.0366	1.02	Communication Services	Entertainment	78		SL	
+SLAN
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/03 01:31:07
+	
+WBD
+BID	25	put	2025-12-12	2d	$24.60	-2%	$0.92 - $1.10	$0.99	800	$79K	801	32	25.03	
+100%
+-45,198	47.43	-0.565	-0.038	0.2038	0.016	-0.0041	0.99	Communication Services	Entertainment	78		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/03 01:26:12
+	
+WBD
+BID	25	put	2025-12-19	9d	$24.49	-2%	$1.05 - $1.16	$1.07	800	$86K	1,001	102	9.81	
+100%
+-46,982	36.94	-0.5873	-0.0223	0.1995	0.0206	-0.0072	1.07	Communication Services	Entertainment	78		ML-O	
+MFSL
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/03 00:24:15
+	
+WBD
+ASK	22.5	call	2025-12-19	9d	$24.07	-7%	$1.91 - $2.13	$2.09	500	$105K	603	99	6.09	
+83%
+36,442	56.92	0.7288	-0.0289	0.1121	0.0172	0.0072	2.09	Communication Services	Entertainment	78		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/02 01:49:52
+	
+WBD
+ASK	14	call	2026-06-18	190d	$24.03	-42%	$9.95 - $10.85	$10.41	38	$40K	49	20	2.45	
+100%
+3,542	57.34	0.932	-0.0034	0.0129	0.0233	0.0653	10.41	Communication Services	Entertainment	78		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
