@@ -10,6 +10,7 @@ from datetime import datetime, timedelta
 from typing import Any, Dict, Optional
 from .finnhub_service import FinnhubService
 from .massive_service import MassiveService
+from .fiscal_service import FiscalService
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -48,15 +49,32 @@ class USStockAnalyzerService:
         # Initialize underlying services
         self.finnhub = FinnhubService()
         self.massive = MassiveService()
+        self.fiscal = FiscalService()
         
         if not self.finnhub.api_key:
             logger.warning("Finnhub API key not found. Some features will be unavailable.")
         
         if not self.massive.api_key:
             logger.warning("Polygon API key not found. Technical indicators will be unavailable.")
+
+        if not self.fiscal.api_key:
+            logger.warning("Fiscal.ai API key not found. KPI features will be unavailable.")
         
         logger.info(f"USStockAnalyzerService v{self.version} initialized")
     
+    async def get_company_kpis(self, symbol: str) -> Dict[str, Any]:
+        """
+        Get company segments and KPIs from Fiscal.ai.
+        
+        Args:
+            symbol: Stock ticker symbol (e.g., 'MSFT').
+            
+        Returns:
+            Dict: Segments and KPIs data.
+        """
+        logger.info(f"Fetching KPIs for {symbol}")
+        return await self.fiscal._get_segments_and_kpis(symbol)
+
     async def get_fundamental_analysis(self, symbol: str, start_date: str, end_date: str) -> Dict[str, Any]:
         """
         Get comprehensive fundamental analysis for a US stock.
@@ -164,6 +182,11 @@ class USStockAnalyzerService:
             
             data['earnings_calls'] = transcripts_data
             
+            # 7. Segments and KPIs
+            kpi_res = await self.get_company_kpis(symbol)
+            if kpi_res.get("success"):
+                data['segments_kpis'] = kpi_res.get("data")
+
             return {
                 "success": True,
                 "data": data,
@@ -679,7 +702,7 @@ if __name__ == "__main__":
     
     async def test():
         analyzer = USStockAnalyzerService()
-        symbol = "AAPL"
+        symbol = "MSFT"
         
         # Dynamic date range: Last 30 days
         end_dt = datetime.now()
@@ -704,6 +727,46 @@ if __name__ == "__main__":
                 profile = data['company_profile'].get('profile', {})
                 print(f"Company Name: {profile.get('name')}")
                 print(f"Market Cap: {profile.get('marketCapitalization')}")
+            if 'segments_kpis' in data:
+                kpis = data['segments_kpis']
+                print(f"KPI Data Found: {len(kpis.get('metrics', []))} metrics")
+                # Print sample KPI values
+                if 'data' in kpis and kpis['data']:
+                    latest = kpis['data'][0]
+                    vals = latest.get('metricsValues', {})
+                    # Map IDs to names
+                    id_map = {m['metricId']: m['metricName'] for m in kpis.get('metrics', [])}
+                    print("Sample KPI Values (Latest):")
+                    count = 0
+                    for kid, kval in vals.items():
+                        if count >= 3: break
+                        kname = id_map.get(kid, kid)
+                        val_num = kval.get('value') if isinstance(kval, dict) else kval
+                        print(f"  - {kname}: {val_num}")
+                        count += 1
+        
+        # Test 1.5: Direct KPI Test
+        print(f"\n--- Test 1.5: Direct KPI Analysis ---")
+        kpi_res = await analyzer.get_company_kpis(symbol)
+        print(f"Success: {kpi_res.get('success')}")
+        if kpi_res.get('success'):
+            data = kpi_res.get('data', {})
+            print(f"Keys: {list(data.keys())}")
+            
+            # Detailed KPI print
+            if 'data' in data and data['data']:
+                latest = data['data'][0]
+                vals = latest.get('metricsValues', {})
+                id_map = {m['metricId']: m['metricName'] for m in data.get('metrics', [])}
+                print(f"Latest Period: {latest.get('periodId')}")
+                print("Top KPI Values:")
+                count = 0
+                for kid, kval in vals.items():
+                    if count >= 3: break
+                    kname = id_map.get(kid, kid)
+                    val_num = kval.get('value') if isinstance(kval, dict) else kval
+                    print(f"  - {kname}: {val_num}")
+                    count += 1
         
         # Test 2: Technical Analysis
         print(f"\n--- Test 2: Technical Analysis ---")
