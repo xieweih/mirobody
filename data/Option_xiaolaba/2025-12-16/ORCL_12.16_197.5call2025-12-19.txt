@@ -1,0 +1,1821 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/6 21:30 - 12/16 23:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+ORCL
+$188.68
+2.03%
+Volume
+96,496
+Premiums
+54.53M
+Bullish
+29.41M
+53.93%
+Bearish
+20.64M
+37.84%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/16 23:29:16
+	
+ORCL
+ASK	197.5	call	2025-12-19	3d	$188.00	5%	$0.98 - $1.00	$1.00	9,603	$960K	10,860	2,116	5.13	
+95%
+178,576	59.11	0.186	-0.4498	0.0266	0.0456	0.0028	1.00	Technology	Software Infrastructure	83	Repeated Hits Ascending Fill	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/16 22:53:58
+	
+ORCL
+BID	220	put	2026-01-23	38d	$186.78	-18%	$33.80 - $35.75	$34.77	240	$834K	252	159	1.58	
+100%
+-20,850	42.61	-0.8687	-0.0709	0.0083	0.1283	-0.2051	34.77	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/16 22:53:58
+	
+ORCL
+ASK	225	put	2026-01-23	38d	$186.78	-20%	$38.15 - $40.20	$39.22	240	$941K	250	86	2.91	
+100%
+-21,742	41.67	-0.9059	-0.0543	0.0067	0.1011	-0.217	39.22	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 04:41:48
+	
+ORCL
+ASK	330	put	2025-12-19	3d	$184.05	-79%	$143.80 - $146.50	$146.50	10	$147K	12	4	3.00	
+100%
+-970	275.17	-0.9701	-0.4481	0.0013	0.0131	-0.0356	146.50	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 04:41:48
+	
+ORCL
+ASK	340	put	2025-12-19	3d	$184.05	-85%	$153.80 - $156.60	$156.60	10	$157K	10	6	1.67	
+100%
+-967	293.87	-0.9672	-0.5174	0.0013	0.0141	-0.0367	156.60	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:25
+	
+ORCL
+BID	250	put	2025-12-19	3d	$185.19	-35%	$62.90 - $65.40	$64.05	3,700	$23.7M	3,718	1,086	3.42	
+100%
+-352,267	163.70	-0.9521	-0.3947	0.0031	0.0193	-0.0265	65.40	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/16 03:31:25
+	
+ORCL
+ASK	260	put	2025-12-19	3d	$185.19	-40%	$72.80 - $75.45	$74.15	3,125	$23.2M	3,128	628	4.98	
+100%
+-297,824	183.02	-0.953	-0.4342	0.0028	0.019	-0.0276	75.45	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:25
+	
+ORCL
+BID	280	put	2025-12-19	3d	$185.19	-51%	$92.80 - $95.80	$94.20	2,400	$22.6M	2,400	482	4.98	
+100%
+-226,394	231.69	-0.9433	-0.6388	0.0025	0.0221	-0.0296	95.80	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/16 03:31:25
+	
+ORCL
+ASK	290	put	2025-12-19	3d	$185.19	-57%	$102.80 - $105.75	$104.35	1,500	$15.7M	1,500	290	5.17	
+100%
+-142,202	244.29	-0.948	-0.6289	0.0022	0.0206	-0.0308	105.75	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:25
+	
+ORCL
+BID	270	put	2025-12-19	3d	$185.19	-46%	$82.80 - $85.85	$84.20	800	$6.74M	814	169	4.82	
+99%
+-75,035	218.03	-0.9379	-0.6454	0.0029	0.0237	-0.0284	85.85	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/16 03:31:25
+	
+ORCL
+ASK	300	put	2025-12-19	3d	$185.19	-62%	$112.80 - $115.75	$114.35	700	$8M	700	139	5.04	
+100%
+-66,519	258.47	-0.9503	-0.6422	0.002	0.0199	-0.032	115.75	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:25
+	
+ORCL
+ASK	310	put	2025-12-19	3d	$185.19	-67%	$122.80 - $125.75	$124.35	550	$6.84M	550	107	5.14	
+100%
+-52,373	272.00	-0.9522	-0.6544	0.0019	0.0193	-0.0331	125.75	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:25
+	
+ORCL
+ASK	320	put	2025-12-19	3d	$185.19	-73%	$132.80 - $135.75	$134.30	100	$1.34M	100	24	4.17	
+100%
+-9,539	284.94	-0.9539	-0.6658	0.0017	0.0187	-0.0342	135.75	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 02:11:23
+	
+ORCL
+BID	125	put	2026-07-17	213d	$186.18	33%	$5.00 - $5.05	$5.00	112	$56K	112	62	1.81	
+100%
+-1,287	52.19	-0.1149	-0.0335	0.0026	0.2765	-0.1547	5.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/16 01:49:45
+	
+ORCL
+ASK	155	put	2026-01-30	45d	$185.42	16%	$1.95 - $2.32	$2.15	250	$54K	257	50	5.14	
+97%
+-3,174	47.87	-0.127	-0.0711	0.0066	0.137	-0.0324	2.15	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 00:59:32
+	
+ORCL
+ASK	105	put	2026-08-21	248d	$184.70	43%	$2.80 - $2.91	$2.91	128	$37K	140	63	2.22	
+96%
+-858	53.77	-0.0671	-0.0213	0.0016	0.1982	-0.1043	2.91	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 00:38:00
+	
+ORCL
+BID	197.5	put	2026-01-02	17d	$184.22	-7%	$15.50 - $16.25	$15.60	25	$39K	42	0	-	
+86%
+-1,896	41.86	-0.7586	-0.1479	0.0182	0.1276	-0.0766	15.60	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/16 00:32:53
+	
+ORCL
+ASK	155	call	2027-06-17	548d	$184.54	-16%	$60.60 - $62.15	$62.15	20	$124K	20	11	1.82	
+100%
+1,454	56.08	0.727	-0.039	0.0026	0.7525	1.083	62.15	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/16 00:21:02
+	
+ORCL
+ASK	140	put	2026-03-20	94d	$184.20	24%	$3.35 - $3.50	$3.49	7,500	$2.62M	10,047	2,397	4.19	
+100%
+-93,603	53.04	-0.1248	-0.0538	0.0041	0.1932	-0.0689	3.49	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 00:21:02
+	
+ORCL
+ASK	140	put	2026-03-20	94d	$184.20	24%	$3.35 - $3.50	$3.48	2,500	$870K	2,547	2,397	1.06	
+99%
+-31,157	52.99	-0.1246	-0.0537	0.0041	0.193	-0.0688	3.48	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/15 23:24:13
+	
+ORCL
+BID	187.5	put	2025-12-26	10d	$181.78	-3%	$8.80 - $9.45	$9.12	100	$91K	113	0	-	
+96%
+-6,376	45.54	-0.6376	-0.2445	0.0261	0.1183	-0.0377	9.12	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/15 23:05:09
+	
+ORCL
+BID	175	call	2028-01-21	766d	$183.12	-4%	$57.80 - $60.95	$59.10	375	$2.22M	375	65	5.77	
+100%
+25,358	54.05	0.6762	-0.0341	0.0025	0.9539	1.3602	59.10	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+
+12/15 22:56:53
+	
+ORCL
+ASK	165	call	2026-01-23	38d	$182.46	-10%	$21.00 - $22.10	$22.10	40	$88K	44	9	4.89	
+100%
+3,033	49.78	0.7583	-0.1194	0.0105	0.1861	0.1242	22.10	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/15 22:54:40
+	
+ORCL
+ASK	170	call	2026-01-09	24d	$182.73	-7%	$16.65 - $16.95	$16.95	38	$64K	53	8	6.63	
+81%
+2,779	50.07	0.7314	-0.1583	0.0138	0.1577	0.0799	16.95	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/15 22:54:22
+	
+ORCL
+ASK	270	call	2027-09-17	640d	$182.56	48%	$27.25 - $27.70	$27.70	29	$80K	29	24	1.21	
+100%
+1,225	53.19	0.4223	-0.0397	0.003	0.9468	0.8676	27.70	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/15 22:53:36
+	
+ORCL
+ASK	160	put	2026-01-09	24d	$182.18	12%	$1.60 - $1.68	$1.68	9,998	$1.68M	10,011	394	25.41	
+100%
+-136,654	48.08	-0.1367	-0.1003	0.0096	0.1044	-0.0182	1.68	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/15 22:47:34
+	
+ORCL
+ASK	182.5	put	2025-12-26	10d	$183.01	0%	$5.15 - $5.60	$5.41	100	$54K	154	0	-	
+69%
+-4,700	44.77	-0.47	-0.2569	0.028	0.1264	-0.0276	5.41	Technology	Software Infrastructure	83		SL	
+SLAN
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/15 22:43:43
+	
+ORCL
+ASK	230	put	2026-01-30	45d	$183.82	-25%	$45.40 - $48.50	$47.01	100	$470K	100	30	3.33	
+100%
+-9,236	41.93	-0.9236	-0.0415	0.0052	0.0937	-0.2732	47.01	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/15 22:43:43
+	
+ORCL
+BID	225	put	2026-01-30	45d	$183.82	-22%	$40.75 - $44.20	$42.43	100	$424K	100	0	-	
+100%
+-8,956	42.68	-0.8956	-0.0537	0.0065	0.1182	-0.2609	42.43	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/15 22:31:46
+	
+ORCL
+BID	177.5	call	2026-01-02	17d	$185.86	-4%	$12.60 - $13.05	$12.60	70	$88K	70	0	-	
+100%
+4,807	47.88	0.6867	-0.195	0.0179	0.1463	0.0567	12.60	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 04:58:42
+	
+ORCL
+BID	220	call	2027-09-17	640d	$189.61	16%	$43.65 - $45.90	$43.65	48	$210K	64	30	2.13	
+98%
+2,702	53.99	0.5628	-0.0421	0.0029	0.9923	1.1127	43.65	Technology	Software Infrastructure	83	Repeated Hits Ascending Fill	SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 04:14:32
+	
+ORCL
+BID	120	call	2026-04-17	122d	$189.88	-37%	$73.10 - $74.40	$73.10	23	$168K	25	7	3.57	
+100%
+2,114	64.78	0.9189	-0.0436	0.0021	0.1675	0.35	73.10	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 04:05:01
+	
+ORCL
+BID	165	put	2028-01-21	766d	$189.59	13%	$34.10 - $35.75	$34.74	1,000	$3.47M	1,000	753	1.33	
+100%
+-29,068	46.23	-0.2907	-0.0276	0.0027	0.9436	-1.8954	34.74	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/13 04:05:01
+	
+ORCL
+ASK	115	put	2028-01-21	766d	$189.59	39%	$13.95 - $14.65	$14.45	500	$723K	501	27	18.56	
+100%
+-7,188	49.43	-0.1438	-0.0197	0.0017	0.624	-0.8798	14.45	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 04:04:03
+	
+ORCL
+BID	165	call	2026-04-17	122d	$189.75	-13%	$36.80 - $36.85	$36.80	67	$247K	113	12	9.42	
+96%
+4,869	53.68	0.7268	-0.0796	0.0056	0.3708	0.349	36.80	Technology	Software Infrastructure	83	Repeated Hits	SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 03:15:46
+	
+ORCL
+BID	160	put	2026-07-17	213d	$189.84	16%	$13.30 - $14.05	$13.30	350	$466K	360	150	2.40	
+99%
+-9,006	47.97	-0.2573	-0.0517	0.0046	0.4722	-0.3695	13.30	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/13 02:57:16
+	
+ORCL
+BID	190	call	2027-06-17	548d	$191.50	-1%	$51.00 - $52.25	$51.00	199	$1.01M	239	70	3.41	
+85%
+12,691	54.37	0.6377	-0.044	0.0029	0.883	1.0756	51.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 02:31:09
+	
+ORCL
+ASK	390	put	2027-12-17	731d	$192.75	-102%	$198.50 - $199.95	$199.95	134	$2.68M	135	37	3.65	
+100%
+-11,727	35.17	-0.8752	-0.0106	0.0021	0.5626	-7.4231	199.95	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 01:58:06
+	
+ORCL
+ASK	240	put	2026-01-30	45d	$190.26	-26%	$49.70 - $52.25	$51.16	28	$143K	28	11	2.55	
+100%
+-2,514	46.76	-0.8977	-0.0581	0.0055	0.1244	-0.298	51.16	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 01:58:06
+	
+ORCL
+ASK	230	put	2026-01-30	45d	$190.26	-21%	$40.05 - $43.25	$41.77	28	$117K	28	2	14.00	
+100%
+-2,405	44.65	-0.8591	-0.0699	0.0072	0.1559	-0.2755	41.77	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 00:58:29
+	
+ORCL
+BID	155	put	2027-01-15	395d	$187.61	17%	$19.85 - $20.75	$19.85	570	$1.13M	581	213	2.73	
+99%
+-14,933	48.09	-0.262	-0.038	0.0035	0.6387	-0.7543	19.85	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/13 00:56:38
+	
+ORCL
+ASK	280	put	2027-09-17	640d	$187.27	-50%	$107.05 - $108.90	$108.10	10	$108K	10	4	2.50	
+100%
+-674	41.23	-0.6743	-0.0269	0.0035	0.8961	-4.1352	108.10	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 00:51:04
+	
+ORCL
+ASK	270	put	2026-01-30	45d	$186.84	-45%	$81.95 - $82.55	$82.55	75	$619K	75	1	75.00	
+100%
+-7,408	42.87	-0.9877	-0.0095	0.0011	0.0219	-0.3608	82.8979	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 00:29:39
+	
+ORCL
+ASK	100	put	2028-01-21	766d	$188.04	47%	$9.50 - $11.15	$10.35	500	$518K	502	0	-	
+100%
+-5,435	50.73	-0.1087	-0.0165	0.0013	0.5092	-0.6496	10.35	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 00:29:39
+	
+ORCL
+BID	125	put	2028-01-21	766d	$188.04	34%	$17.25 - $18.55	$17.86	250	$447K	254	82	3.10	
+99%
+-4,336	48.42	-0.1734	-0.0216	0.0019	0.70	-1.0648	17.86	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/13 00:23:54
+	
+ORCL
+ASK	245	put	2026-01-30	45d	$186.72	-31%	$56.75 - $59.00	$59.00	20	$118K	20	1	20.00	
+100%
+-1,876	45.64	-0.9381	-0.0376	0.0039	0.0835	-0.3144	59.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 00:23:38
+	
+ORCL
+ASK	110	put	2026-04-17	122d	$186.88	41%	$0.95 - $1.14	$1.14	500	$57K	506	82	6.17	
+100%
+-1,988	56.95	-0.0398	-0.0212	0.0014	0.0942	-0.0296	1.14	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 00:12:18
+	
+ORCL
+BID	100	call	2027-12-17	731d	$189.33	-47%	$101.90 - $104.60	$103.22	44	$454K	65	0	-	
+100%
+3,888	58.01	0.8837	-0.0212	0.0013	0.5256	1.2907	103.22	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 00:05:17
+	
+ORCL
+BID	140	call	2026-01-23	38d	$188.39	-26%	$49.10 - $50.30	$49.10	10	$49K	10	0	-	
+100%
+956	54.40	0.9557	-0.0395	0.0027	0.0599	0.1507	49.10	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 00:04:23
+	
+ORCL
+BID	150	call	2026-01-30	45d	$188.18	-20%	$39.75 - $41.65	$39.75	10	$40K	12	1	12.00	
+92%
+910	49.46	0.9104	-0.057	0.0047	0.1116	0.1766	39.75	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 00:03:57
+	
+ORCL
+BID	125	call	2026-01-30	45d	$188.46	-34%	$63.95 - $65.70	$63.95	10	$64K	10	0	-	
+100%
+974	61.29	0.9739	-0.0268	0.0014	0.0418	0.1606	63.95	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 00:03:28
+	
+ORCL
+BID	140	call	2026-01-30	45d	$188.07	-26%	$49.05 - $51.40	$49.05	20	$98K	20	0	-	
+100%
+1,889	53.87	0.9447	-0.043	0.003	0.077	0.1727	49.05	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 00:01:00
+	
+ORCL
+BID	100	call	2027-12-17	731d	$189.15	-47%	$99.60 - $108.20	$103.12	10	$103K	15	0	-	
+100%
+883	58.12	0.8834	-0.0213	0.0013	0.5262	1.288	103.12	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/12 23:58:20
+	
+ORCL
+ASK	340	put	2026-01-16	31d	$187.63	-81%	$149.60 - $152.65	$152.35	18	$274K	19	2	9.50	
+100%
+-1,793	69.26	-0.9961	-0.0047	0.0003	0.0067	-0.3253	152.35	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 23:29:59
+	
+ORCL
+BID	155	call	2026-01-30	45d	$191.98	-19%	$39.00 - $40.90	$39.00	11	$43K	11	1	11.00	
+100%
+983	50.76	0.8934	-0.0677	0.0051	0.1293	0.1779	39.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/12 22:45:24
+	
+ORCL
+BID	100	call	2027-12-17	731d	$194.07	-48%	$107.50 - $109.75	$108.00	5	$54K	5	0	-	
+100%
+444	59.11	0.8881	-0.0216	0.0012	0.5242	1.296	108.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/12 22:32:41
+	
+ORCL
+ASK	277.5	put	2025-12-12	-4d	$195.79	-42%	$80.35 - $81.90	$81.90	5	$41K	5	0	-	
+100%
+-488	32.54	-0.9762	-0.0086	0.0017	0.057	-0.7344	81.90	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 04:25:25
+	
+ORCL
+BID	295	put	2025-12-12	-4d	$199.59	-48%	$94.25 - $96.80	$94.25	250	$2.36M	420	25	16.80	
+60%
+-23,238	468.05	-0.9295	-3.2986	0.0028	0.0141	-0.0077	96.80	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:25:25
+	
+ORCL
+ASK	300	put	2025-12-12	-4d	$199.59	-50%	$99.25 - $100.60	$100.60	220	$2.21M	385	22	17.50	
+61%
+-21,655	346.99	-0.9843	-0.7114	0.0011	0.0041	-0.0081	100.60	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 04:25:25
+	
+ORCL
+BID	277.5	put	2025-12-12	-4d	$199.59	-39%	$76.75 - $78.35	$76.75	40	$307K	65	5	13.00	
+100%
+-3,862	330.25	-0.9656	-1.3125	0.0022	0.008	-0.0074	78.35	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:25:25
+	
+ORCL
+BID	285	put	2025-12-12	-4d	$199.59	-43%	$84.25 - $86.65	$84.25	60	$506K	63	10	6.30	
+95%
+-5,587	426.25	-0.9312	-2.9478	0.003	0.0138	-0.0075	86.65	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:19:50
+	
+ORCL
+BID	275	put	2025-12-12	-4d	$199.51	-38%	$74.25 - $75.85	$74.25	560	$4.16M	938	77	12.18	
+99%
+-54,297	313.30	-0.9696	-1.125	0.0021	0.0072	-0.0074	75.85	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:19:50
+	
+ORCL
+BID	272.5	put	2025-12-12	-4d	$199.51	-37%	$71.75 - $73.35	$71.75	1,010	$7.25M	1,830	116	15.78	
+55%
+-97,867	306.04	-0.969	-1.1168	0.0022	0.0073	-0.0073	73.35	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:19:50
+	
+ORCL
+BID	260	put	2025-12-12	-4d	$199.51	-30%	$59.25 - $61.80	$59.25	1,100	$6.52M	1,789	156	11.47	
+100%
+-100,631	346.10	-0.9148	-2.8156	0.0043	0.0163	-0.0067	61.80	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:19:50
+	
+ORCL
+BID	270	put	2025-12-12	-4d	$199.51	-35%	$69.25 - $71.80	$70.39	880	$6.19M	1,565	103	15.19	
+100%
+-81,065	381.98	-0.9212	-2.9307	0.0037	0.0153	-0.007	71.80	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:19:50
+	
+ORCL
+ASK	265	put	2025-12-12	-4d	$199.51	-33%	$64.25 - $66.55	$66.55	800	$5.32M	1,222	102	11.98	
+100%
+-74,326	347.64	-0.9291	-2.4612	0.0037	0.0142	-0.0069	66.55	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 04:19:50
+	
+ORCL
+BID	225	put	2025-12-12	-4d	$199.51	-13%	$25.30 - $25.90	$25.30	5,050	$12.8M	6,256	1,844	3.39	
+87%
+-472,732	147.09	-0.9361	-0.9603	0.0081	0.0131	-0.0058	25.90	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:19:50
+	
+ORCL
+ASK	230	put	2025-12-12	-4d	$199.51	-15%	$30.25 - $31.10	$31.10	2,920	$9.08M	3,279	716	4.58	
+95%
+-270,156	182.49	-0.9252	-1.3455	0.0074	0.0148	-0.0059	31.10	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 04:19:50
+	
+ORCL
+BID	232.5	put	2025-12-12	-4d	$199.51	-17%	$32.55 - $33.70	$32.55	220	$716K	252	62	4.06	
+94%
+-20,262	199.66	-0.921	-1.5345	0.0071	0.0154	-0.006	33.70	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:19:50
+	
+ORCL
+BID	227.5	put	2025-12-12	-4d	$199.51	-14%	$27.35 - $28.60	$27.35	210	$574K	235	49	4.80	
+94%
+-19,350	171.81	-0.9214	-1.3152	0.0082	0.0153	-0.0058	28.60	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:52:46
+	
+ORCL
+ASK	305	put	2025-12-12	-4d	$200.67	-52%	$102.80 - $104.35	$104.35	3	$31K	4	0	-	
+100%
+-299	277.94	-0.9975	-0.113	0.0003	0.0008	-0.0083	104.35	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 03:39:49
+	
+ORCL
+BID	250	put	2025-12-12	-4d	$200.49	-25%	$48.95 - $50.65	$49.65	1,700	$8.44M	2,079	303	6.86	
+91%
+-166,746	198.53	-0.9809	-0.4851	0.0022	0.0049	-0.0067	49.65	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:39:49
+	
+ORCL
+ASK	245	put	2025-12-12	-4d	$200.49	-22%	$43.95 - $45.80	$45.10	1,700	$7.67M	1,749	299	5.85	
+99%
+-160,058	235.11	-0.9415	-1.4395	0.0047	0.0123	-0.0064	45.10	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 03:39:49
+	
+ORCL
+BID	255	put	2025-12-12	-4d	$200.49	-27%	$53.95 - $55.70	$54.65	1,380	$7.54M	1,418	248	5.72	
+99%
+-135,518	213.40	-0.982	-0.4945	0.002	0.0046	-0.0069	54.65	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:39:49
+	
+ORCL
+ASK	272.5	put	2025-12-12	-4d	$200.49	-36%	$71.15 - $73.80	$73.05	820	$5.99M	820	116	7.07	
+100%
+-76,557	366.60	-0.9336	-2.4783	0.0034	0.0135	-0.0071	73.05	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 03:39:49
+	
+ORCL
+ASK	265	put	2025-12-12	-4d	$200.49	-32%	$63.25 - $65.10	$64.40	420	$2.7M	422	102	4.14	
+100%
+-40,013	304.35	-0.9527	-1.575	0.0031	0.0104	-0.007	65.10	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 03:39:41
+	
+ORCL
+BID	277.5	put	2025-12-12	-4d	$200.59	-38%	$76.55 - $78.80	$77.55	25	$194K	25	5	5.00	
+100%
+-2,387	347.60	-0.9548	-1.7357	0.0026	0.01	-0.0074	77.55	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:39:41
+	
+ORCL
+BID	242.5	put	2025-12-12	-4d	$200.59	-21%	$41.05 - $42.35	$41.35	13	$54K	18	4	4.50	
+83%
+-1,236	211.96	-0.951	-1.128	0.0046	0.0107	-0.0064	42.35	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:38:06
+	
+ORCL
+BID	440	put	2025-12-19	3d	$200.00	-120%	$239.95 - $242.15	$239.95	2	$48K	2	0	-	
+100%
+-187	305.49	-0.9354	-0.7121	0.0014	0.0374	-0.0941	242.15	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:38:06
+	
+ORCL
+BID	400	put	2025-12-19	3d	$200.00	-100%	$199.95 - $202.15	$199.95	2	$40K	2	0	-	
+100%
+-186	277.62	-0.9307	-0.6834	0.0016	0.0395	-0.0851	202.15	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:38:06
+	
+ORCL
+BID	500	put	2025-12-19	3d	$200.00	-150%	$299.95 - $302.15	$299.95	2	$60K	2	0	-	
+100%
+-188	341.68	-0.9404	-0.7474	0.0012	0.0351	-0.1074	302.15	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:31:13
+	
+ORCL
+BID	270	put	2025-12-12	-4d	$199.25	-36%	$70.10 - $71.85	$70.70	678	$4.79M	685	103	6.65	
+100%
+-63,074	368.71	-0.9303	-2.5724	0.0035	0.014	-0.007	71.85	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:31:13
+	
+ORCL
+BID	260	put	2025-12-12	-4d	$199.25	-30%	$60.05 - $61.15	$60.55	630	$3.81M	647	156	4.15	
+99%
+-60,668	273.64	-0.963	-1.1536	0.0028	0.0084	-0.0069	61.15	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:31:13
+	
+ORCL
+ASK	280	put	2025-12-12	-4d	$199.25	-41%	$80.10 - $81.90	$81.25	320	$2.6M	403	83	4.86	
+80%
+-30,815	346.32	-0.963	-1.4605	0.0022	0.0084	-0.0075	81.25	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 03:31:13
+	
+ORCL
+BID	275	put	2025-12-12	-4d	$199.25	-38%	$75.35 - $76.15	$75.50	350	$2.64M	358	77	4.65	
+98%
+-33,860	319.29	-0.9674	-1.2114	0.0022	0.0076	-0.0074	76.15	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:31:13
+	
+ORCL
+BID	262.5	put	2025-12-12	-4d	$199.25	-32%	$62.65 - $65.15	$63.30	150	$950K	150	20	7.50	
+100%
+-14,891	210.86	-0.9927	-0.2212	0.0009	0.0021	-0.0072	63.30	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:31:13
+	
+ORCL
+BID	300	put	2025-12-12	-4d	$199.25	-51%	$100.30 - $101.00	$100.35	150	$1.51M	150	22	6.82	
+100%
+-14,710	361.63	-0.9806	-0.887	0.0012	0.0049	-0.0081	101.00	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:31:13
+	
+ORCL
+ASK	257.5	put	2025-12-12	-4d	$199.25	-29%	$57.60 - $60.15	$59.45	37	$220K	42	7	6.00	
+88%
+-3,397	331.07	-0.9182	-2.6086	0.0044	0.0158	-0.0066	59.45	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 03:04:09
+	
+ORCL
+BID	120	put	2027-09-17	640d	$198.35	40%	$11.75 - $13.55	$12.25	50	$61K	52	24	2.17	
+100%
+-675	49.23	-0.1351	-0.0216	0.0017	0.5727	-0.6899	12.25	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 02:55:34
+	
+ORCL
+ASK	165	put	2026-04-17	122d	$197.78	17%	$8.20 - $8.35	$8.35	234	$195K	268	172	1.56	
+91%
+-5,137	49.03	-0.2195	-0.0663	0.0052	0.345	-0.1801	8.35	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 02:43:17
+	
+ORCL
+BID	280	put	2026-01-02	17d	$195.90	-43%	$84.00 - $86.20	$84.98	15	$127K	15	4	3.75	
+100%
+-1,417	85.64	-0.9445	-0.1041	0.0027	0.0539	-0.1627	84.98	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 02:19:59
+	
+ORCL
+BID	242.5	put	2025-12-19	3d	$193.70	-25%	$47.50 - $50.00	$48.73	16	$78K	17	0	-	
+100%
+-1,456	107.00	-0.9097	-0.3114	0.0053	0.0467	-0.0496	50.00	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 01:56:54
+	
+ORCL
+ASK	250	put	2026-01-30	45d	$193.23	-29%	$55.75 - $58.80	$57.35	78	$447K	91	0	-	
+89%
+-7,376	41.37	-0.9457	-0.0313	0.0037	0.0788	-0.3289	57.35	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 01:20:49
+	
+ORCL
+BID	247.5	put	2025-12-19	3d	$194.09	-28%	$52.95 - $55.65	$53.45	10	$53K	14	0	-	
+100%
+-992	66.33	-0.9924	-0.0242	0.0011	0.006	-0.0539	53.45	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 00:55:15
+	
+ORCL
+BID	182.5	call	2025-12-12	-4d	$191.86	-5%	$9.95 - $10.10	$9.95	240	$239K	384	57	6.74	
+78%
+20,845	87.14	0.8685	-0.9333	0.0244	0.0214	0.0043	9.95	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/12 00:32:18
+	
+ORCL
+BID	370	call	2026-07-17	213d	$190.93	94%	$2.90 - $2.94	$2.90	280	$81K	293	227	1.29	
+96%
+2,533	55.07	0.0905	-0.0305	0.002	0.2406	0.0859	2.90	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/12 00:32:14
+	
+ORCL
+BID	200	call	2026-01-30	45d	$190.78	5%	$9.00 - $10.00	$9.40	100	$94K	173	0	-	
+80%
+4,270	46.84	0.427	-0.1301	0.0119	0.277	0.0987	9.40	Technology	Software Infrastructure	83		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+12/12 00:29:49
+	
+ORCL
+ASK	190	put	2026-01-30	45d	$191.09	1%	$11.30 - $11.80	$11.80	39	$46K	73	0	-	
+81%
+-1,766	44.00	-0.4529	-0.1227	0.0127	0.2802	-0.1347	11.80	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 00:25:03
+	
+ORCL
+BID	250	put	2026-01-30	45d	$191.73	-30%	$57.35 - $60.65	$58.73	10	$59K	12	0	-	
+83%
+-953	40.83	-0.9534	-0.0269	0.0034	0.0692	-0.3309	58.73	Technology	Software Infrastructure	83		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 00:10:49
+	
+ORCL
+BID	190	put	2026-07-17	213d	$192.44	1%	$25.75 - $26.35	$25.75	310	$798K	310	82	3.78	
+100%
+-12,811	46.26	-0.4133	-0.0607	0.0057	0.5792	-0.6288	25.75	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 00:03:34
+	
+ORCL
+BID	300	call	2026-03-20	94d	$192.72	56%	$1.94 - $2.02	$1.95	16,351	$3.19M	21,640	8,038	2.69	
+95%
+138,766	55.88	0.0849	-0.0441	0.0028	0.156	0.0391	1.95	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+
+12/12 00:03:34
+	
+ORCL
+ASK	250	call	2026-03-20	94d	$192.72	30%	$5.45 - $5.60	$5.56	16,351	$9.09M	20,868	2,735	7.63	
+95%
+343,498	52.83	0.2101	-0.0774	0.0054	0.2893	0.0947	5.56	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/11 23:57:18
+	
+ORCL
+BID	190	call	2027-09-17	640d	$191.36	-1%	$53.35 - $55.85	$54.31	10	$54K	15	1	15.00	
+100%
+646	53.82	0.646	-0.04	0.0027	0.9461	1.2248	54.31	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/11 23:48:02
+	
+ORCL
+BID	115	call	2027-06-17	548d	$192.82	-40%	$92.05 - $94.35	$93.00	10	$93K	10	7	1.43	
+100%
+859	59.53	0.8594	-0.0291	0.0016	0.5299	1.1014	93.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/11 23:41:24
+	
+ORCL
+ASK	240	call	2026-04-17	122d	$193.84	24%	$8.50 - $8.95	$8.77	5,996	$5.26M	6,150	964	6.38	
+99%
+170,239	50.18	0.2839	-0.0768	0.0059	0.3875	0.161	8.77	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/11 23:17:44
+	
+ORCL
+BID	160	put	2026-01-23	38d	$193.71	17%	$1.65 - $1.90	$1.70	490	$83K	524	41	12.78	
+98%
+-5,137	47.55	-0.1048	-0.0667	0.0057	0.1208	-0.0259	1.70	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/11 23:08:57
+	
+ORCL
+BID	220	put	2026-01-30	45d	$191.03	-15%	$31.70 - $34.15	$32.84	10	$33K	16	0	-	
+81%
+-773	45.72	-0.7728	-0.0965	0.0093	0.2132	-0.2472	32.84	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+
+12/11 23:00:10
+	
+ORCL
+ASK	180	put	2026-01-23	38d	$189.78	5%	$6.95 - $7.30	$7.30	199	$145K	255	52	4.90	
+92%
+-6,731	45.70	-0.3382	-0.1262	0.0123	0.2382	-0.0842	7.30	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/11 22:49:08
+	
+ORCL
+ASK	177.5	put	2025-12-19	3d	$190.71	7%	$1.55 - $1.64	$1.64	9,763	$1.6M	10,497	690	15.21	
+96%
+-178,315	56.15	-0.1826	-0.2623	0.0167	0.0748	-0.008	1.64	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/11 22:42:21
+	
+ORCL
+ASK	182.5	put	2025-12-12	-4d	$191.78	5%	$0.97 - $1.00	$1.00	4,325	$433K	6,908	1,643	4.20	
+88%
+-75,198	103.93	-0.1739	-1.339	0.0246	0.0258	-0.0009	1.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/11 22:36:08
+	
+ORCL
+BID	215	put	2026-01-30	45d	$190.23	-13%	$27.75 - $31.15	$29.05	35	$102K	35	0	-	
+100%
+-2,616	44.12	-0.7474	-0.0983	0.0103	0.225	-0.2345	29.05	Technology	Software Infrastructure	83		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/11 22:35:02
+	
+ORCL
+ASK	115	call	2028-01-21	766d	$188.65	-39%	$91.05 - $95.50	$93.28	5	$47K	6	1	6.00	
+100%
+423	56.24	0.8465	-0.0242	0.0015	0.6492	1.4027	93.28	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/11 22:33:50
+	
+ORCL
+BID	165	call	2026-01-02	17d	$188.27	-12%	$25.50 - $26.45	$25.50	30	$77K	30	15	2.00	
+100%
+2,540	56.39	0.8468	-0.1405	0.0091	0.1093	0.0807	25.50	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/11 22:33:02
+	
+ORCL
+ASK	510	put	2025-12-19	3d	$186.67	-173%	$321.10 - $323.55	$323.55	3	$97K	3	0	-	
+100%
+-297	270.12	-0.9896	-0.1265	0.0004	0.0076	-0.1114	323.55	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/11 22:32:47
+	
+ORCL
+ASK	120	call	2026-09-18	276d	$187.47	-36%	$74.80 - $77.85	$76.41	9	$69K	9	8	1.13	
+100%
+780	60.59	0.8663	-0.0389	0.0022	0.3548	0.662	76.41	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/11 22:32:04
+	
+ORCL
+ASK	190	call	2025-12-26	10d	$187.91	1%	$7.20 - $7.75	$7.75	420	$326K	519	84	6.18	
+99%
+20,384	57.30	0.4853	-0.2904	0.0183	0.1519	0.0343	7.75	Technology	Software Infrastructure	83	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/11 22:31:45
+	
+ORCL
+BID	187.5	call	2025-12-19	3d	$188.25	-0%	$7.45 - $7.80	$7.45	125	$93K	137	103	1.33	
+99%
+6,697	63.70	0.5358	-0.4412	0.0224	0.1107	0.0205	7.45	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/11 22:30:55
+	
+ORCL
+BID	190	call	2026-01-02	17d	$189.75	0%	$9.00 - $11.35	$9.00	200	$180K	200	151	1.32	
+100%
+10,398	49.06	0.5199	-0.2073	0.0174	0.1856	0.054	9.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/11 22:30:37
+	
+ORCL
+BID	400	call	2026-02-20	66d	$190.44	110%	$0.00 - $0.68	$0.18	1,950	$35K	1,950	1,180	1.65	
+100%
+1,980	68.07	0.0102	-0.0109	0.0005	0.0227	0.0034	0.18	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/11 04:54:54
+	
+ORCL
+ASK	200	call	2026-01-23	38d	$223.54	-11%	$30.00 - $32.70	$31.80	100	$318K	140	5	28.00	
+84%
+7,388	59.97	0.7388	-0.1727	0.007	0.2523	0.1608	31.80	Technology	Software Infrastructure	83		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/11 04:50:01
+	
+ORCL
+ASK	200	put	2027-09-17	640d	$223.85	11%	$38.15 - $39.25	$39.25	15	$59K	15	5	3.00	
+100%
+-464	45.94	-0.3092	-0.0365	0.0026	1.0495	-1.9198	39.25	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/11 04:40:56
+	
+ORCL
+BID	217.5	put	2025-12-26	10d	$224.35	3%	$10.25 - $10.80	$10.48	138	$145K	189	74	2.55	
+77%
+-5,390	73.97	-0.3906	-0.4164	0.011	0.1803	-0.043	10.48	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/11 03:10:22
+	
+ORCL
+ASK	247.5	call	2025-12-12	-4d	$220.67	12%	$3.25 - $3.50	$3.39	1,488	$504K	1,635	1,306	1.25	
+95%
+31,940	180.80	0.2146	-2.1554	0.0099	0.0477	0.0024	3.39	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/11 03:10:22
+	
+ORCL
+BID	237.5	call	2025-12-12	-4d	$220.67	8%	$5.30 - $5.60	$5.44	3,224	$1.75M	3,691	745	4.95	
+96%
+100,395	178.00	0.3114	-2.5697	0.0122	0.0577	0.0035	5.44	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/11 02:15:41
+	
+ORCL
+ASK	200	put	2026-01-02	17d	$219.99	9%	$5.70 - $5.95	$5.85	600	$351K	653	362	1.80	
+95%
+-15,113	64.66	-0.2519	-0.2474	0.0089	0.1762	-0.0386	5.85	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/11 01:34:28
+	
+ORCL
+BID	325	put	2025-12-12	-4d	$219.36	-48%	$103.95 - $106.45	$103.95	3	$31K	3	0	-	
+100%
+-287	293.96	-0.9552	-1.1255	0.002	0.0153	-0.0173	106.45	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/11 00:18:50
+	
+ORCL
+ASK	227.5	put	2025-12-26	10d	$221.29	-3%	$16.85 - $17.55	$17.22	18	$31K	28	3	9.33	
+100%
+-972	74.25	-0.5398	-0.4263	0.0115	0.1839	-0.0599	17.22	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 22:54:10
+	
+ORCL
+ASK	305	put	2026-01-23	38d	$220.06	-39%	$85.10 - $87.10	$86.12	10	$86K	10	0	-	
+100%
+-932	59.02	-0.9318	-0.0659	0.0029	0.1006	-0.351	86.12	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 22:54:10
+	
+ORCL
+ASK	190	call	2026-01-23	38d	$220.07	-14%	$35.05 - $36.15	$36.15	10	$36K	11	5	2.20	
+91%
+791	60.16	0.7907	-0.151	0.0063	0.2198	0.1662	36.15	Technology	Software Infrastructure	83		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 22:50:19
+	
+ORCL
+ASK	190	put	2025-12-12	-4d	$220.24	14%	$1.67 - $1.68	$1.68	9,891	$1.66M	12,385	3,635	3.41	
+98%
+-113,010	175.12	-0.1143	-1.3789	0.0068	0.0315	-0.0015	1.68	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 22:47:48
+	
+ORCL
+BID	277.5	call	2025-12-12	-4d	$220.83	26%	$0.99 - $1.01	$0.99	980	$97K	1,068	230	4.64	
+96%
+7,042	200.83	0.0719	-1.1244	0.0042	0.0224	0.0008	0.99	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 22:32:35
+	
+ORCL
+BID	195	call	2026-01-23	38d	$220.79	-12%	$33.00 - $34.85	$33.00	10	$33K	10	3	3.33	
+100%
+760	59.44	0.7599	-0.1617	0.0068	0.2383	0.1625	33.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 04:44:11
+	
+ORCL
+ASK	170	call	2026-07-17	213d	$221.63	-23%	$66.10 - $67.30	$66.74	5	$33K	5	2	2.50	
+100%
+396	58.24	0.7928	-0.066	0.0029	0.4919	0.6569	66.74	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 01:24:34
+	
+ORCL
+ASK	115	put	2026-08-21	248d	$221.38	48%	$2.63 - $2.72	$2.70	400	$108K	400	106	3.77	
+100%
+-2,047	56.19	-0.0512	-0.0213	0.001	0.1944	-0.098	2.70	Technology	Software Infrastructure	83		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/10 00:39:42
+	
+ORCL
+BID	262.5	put	2025-12-12	-4d	$221.20	-19%	$42.20 - $43.50	$42.83	20	$86K	20	0	-	
+100%
+-1,775	147.62	-0.8873	-0.9434	0.0065	0.0384	-0.0197	42.83	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/10 00:00:11
+	
+ORCL
+BID	295	put	2025-12-12	-4d	$220.01	-34%	$73.85 - $76.45	$75.14	13	$98K	13	0	-	
+100%
+-1,280	145.45	-0.9845	-0.1869	0.0013	0.0077	-0.024	75.14	Technology	Software Infrastructure	83		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 22:39:24
+	
+ORCL
+BID	195	call	2025-12-12	-4d	$220.77	-12%	$28.25 - $29.00	$28.60	500	$1.43M	501	163	3.07	
+100%
+41,735	151.38	0.8347	-1.2554	0.0082	0.0497	0.0128	28.60	Technology	Software Infrastructure	83		ML-O	
+MESL
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 04:16:08
+	
+ORCL
+BID	245	call	2026-01-23	38d	$219.09	12%	$8.15 - $9.45	$8.77	50	$44K	57	8	7.13	
+95%
+1,649	57.85	0.3299	-0.1774	0.008	0.2816	0.08	8.77	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 02:44:45
+	
+ORCL
+BID	195	call	2027-09-17	640d	$218.95	-11%	$73.35 - $73.90	$73.35	9	$66K	9	1	9.00	
+100%
+633	56.07	0.7038	-0.0443	0.0021	1.0085	1.4334	73.35	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 02:44:32
+	
+ORCL
+BID	200	call	2027-09-17	640d	$218.91	-9%	$71.05 - $72.30	$71.05	10	$71K	10	1	10.00	
+100%
+692	55.84	0.6915	-0.0449	0.0022	1.0268	1.4261	71.05	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 02:17:10
+	
+ORCL
+ASK	290	call	2025-12-26	10d	$220.91	31%	$1.04 - $1.09	$1.09	1,000	$109K	1,053	236	4.46	
+96%
+6,896	78.02	0.069	-0.1412	0.0035	0.0651	0.007	1.09	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 01:12:43
+	
+ORCL
+ASK	272.5	put	2025-12-12	-4d	$218.41	-25%	$53.90 - $55.00	$55.00	20	$110K	20	1	20.00	
+100%
+-1,860	136.54	-0.9301	-0.5226	0.0043	0.0307	-0.0283	55.00	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 00:54:15
+	
+ORCL
+ASK	285	put	2025-12-26	10d	$218.82	-30%	$66.25 - $66.95	$66.95	15	$100K	15	14	1.07	
+100%
+-1,415	71.45	-0.9436	-0.1086	0.0033	0.0551	-0.1348	66.95	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 00:44:27
+	
+ORCL
+BID	255	put	2026-01-09	24d	$218.45	-17%	$40.00 - $41.95	$40.76	30	$122K	30	2	15.00	
+100%
+-2,362	59.03	-0.7872	-0.1721	0.0076	0.1879	-0.1865	40.76	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 00:44:27
+	
+ORCL
+ASK	250	put	2026-01-09	24d	$218.45	-14%	$36.00 - $37.35	$36.82	30	$110K	30	11	2.73	
+100%
+-2,248	59.80	-0.7493	-0.1912	0.0082	0.2058	-0.1758	36.82	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 00:29:18
+	
+ORCL
+ASK	120	put	2028-01-21	766d	$219.16	45%	$12.80 - $13.30	$13.12	600	$787K	602	94	6.40	
+100%
+-6,971	50.55	-0.1162	-0.0201	0.0012	0.624	-0.8181	13.12	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 00:29:18
+	
+ORCL
+BID	175	put	2028-01-21	766d	$219.16	20%	$32.50 - $33.45	$32.69	300	$981K	300	132	2.27	
+100%
+-7,451	46.81	-0.2484	-0.0299	0.0021	1.0106	-1.8475	32.69	Technology	Software Infrastructure	83		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/09 00:17:00
+	
+ORCL
+ASK	205	put	2026-01-23	38d	$218.76	6%	$10.65 - $11.60	$11.13	30	$33K	34	3	11.33	
+97%
+-1,009	57.31	-0.3364	-0.1761	0.0082	0.2834	-0.1068	11.13	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/09 00:09:42
+	
+ORCL
+ASK	222.5	put	2025-12-26	10d	$218.70	-2%	$15.60 - $16.40	$16.10	20	$32K	36	0	-	
+94%
+-1,021	72.35	-0.5106	-0.3888	0.0113	0.1937	-0.063	16.10	Technology	Software Infrastructure	83		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/08 23:13:17
+	
+ORCL
+BID	222.5	call	2025-12-26	10d	$219.86	1%	$13.15 - $13.50	$13.15	23	$30K	43	0	-	
+72%
+1,158	73.72	0.5037	-0.3991	0.0111	0.1948	0.0481	13.15	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	
+
+
+12/08 22:59:26
+	
+ORCL
+ASK	232.5	put	2025-12-12	-4d	$220.93	-5%	$18.50 - $19.15	$18.99	37	$70K	49	5	9.80	
+98%
+-2,293	130.61	-0.6198	-1.4375	0.0126	0.0881	-0.0171	18.99	Technology	Software Infrastructure	83		SL	
+SLAN
+🐻 - BEARISH🛍️ - ASK🦄 - EARNINGS THIS WEEK	
+
+
+12/08 22:32:12
+	
+ORCL
+BID	227.5	call	2025-12-19	3d	$222.68	2%	$11.40 - $11.55	$11.40	39	$44K	40	0	-	
+98%
+1,850	87.79	0.4745	-0.6144	0.0117	0.1539	0.0284	11.40	Technology	Software Infrastructure	83		SL	
+AUTO
+🐻 - BEARISH🦴 - BID🦄 - EARNINGS THIS WEEK	

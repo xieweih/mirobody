@@ -1,0 +1,3 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+WIX_12.16_105call2027-01-15.txt,2025-12-17,01:09:58,WIX,ASK,105,call,2027-01-15,395d,$102.00,$23.00 - $25.00,$25.00,89,$223K,107,29,3.69,91%,"5,448",62.45,0.6121,-0.0324,0.0058,0.4065,0.4051,25.00,Technology,Software Infrastructure,64,Repeated Hits,105 call 2027-01-15
+WIX_12.16_105call2027-01-15.txt,2025-12-09,02:35:18,WIX,BID,120,call,2026-04-17,122d,$99.70,$6.40 - $8.00,$7.02,50,$35K,50,33,1.52,100%,"1,794",57.87,0.3587,-0.0497,0.0109,0.2223,0.1024,7.02,Technology,Software Infrastructure,64,,120 call 2026-04-17

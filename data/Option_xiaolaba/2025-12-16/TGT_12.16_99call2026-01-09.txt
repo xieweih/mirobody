@@ -1,0 +1,621 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/6 21:30 - 12/16 23:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+TGT
+$98.43
+0.89%
+Volume
+1,212
+Premiums
+357,882
+Bullish
+254,701
+71.17%
+Bearish
+92,951
+25.97%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/16 22:34:13
+	
+TGT
+ASK	99	call	2026-01-09	24d	$98.42	1%	$2.20 - $3.40	$2.99	338	$101K	371	104	3.57	
+100%
+16,517	32.38	0.4887	-0.068	0.0488	0.1006	0.0297	2.99	Consumer Defensive	Discount Stores	77	Repeated Hits Ascending Fill	SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/16 03:31:33
+	
+TGT
+BID	125	put	2026-01-16	31d	$97.64	-28%	$26.50 - $29.10	$27.75	500	$1.39M	500	103	4.85	
+100%
+-46,708	52.58	-0.9342	-0.0298	0.0084	0.037	-0.1043	27.75	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/16 03:31:33
+	
+TGT
+ASK	150	put	2025-12-19	3d	$97.64	-54%	$51.50 - $54.35	$53.00	1,000	$5.3M	1,000	204	4.90	
+100%
+-93,593	248.33	-0.9359	-0.3973	0.0049	0.0128	-0.0158	53.00	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:33
+	
+TGT
+ASK	135	put	2025-12-19	3d	$97.64	-38%	$36.85 - $39.35	$38.20	350	$1.34M	350	85	4.12	
+100%
+-31,824	213.71	-0.9093	-0.4457	0.0075	0.0167	-0.0139	38.20	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:33
+	
+TGT
+ASK	120	put	2025-12-19	3d	$97.64	-23%	$21.60 - $24.15	$22.95	175	$402K	175	42	4.17	
+100%
+-15,868	141.22	-0.9067	-0.3005	0.0116	0.017	-0.0122	22.95	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 00:05:43
+	
+TGT
+ASK	84	call	2025-12-19	3d	$97.00	-13%	$11.85 - $13.25	$13.08	97	$127K	97	14	6.93	
+100%
+9,436	72.89	0.9728	-0.0582	0.0085	0.0064	0.0089	13.08	Consumer Defensive	Discount Stores	77		ML-S	
+TLAT
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/13 03:40:15
+	
+TGT
+BID	125	put	2026-01-16	31d	$97.17	-29%	$27.35 - $29.60	$28.25	500	$1.41M	500	103	4.85	
+100%
+-46,570	51.88	-0.9314	-0.0288	0.0085	0.0398	-0.1139	28.25	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/13 03:40:15
+	
+TGT
+ASK	125	put	2025-12-19	3d	$97.17	-29%	$27.25 - $29.05	$28.60	200	$572K	200	51	3.92	
+100%
+-18,018	131.97	-0.9009	-0.2208	0.0098	0.0235	-0.0223	28.60	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 03:40:15
+	
+TGT
+ASK	120	put	2025-12-19	3d	$97.17	-23%	$22.25 - $23.85	$23.65	175	$414K	175	42	4.17	
+100%
+-15,509	118.24	-0.8862	-0.2185	0.0121	0.0259	-0.0211	23.65	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 01:57:29
+	
+TGT
+ASK	90	call	2026-01-30	45d	$96.46	-7%	$8.35 - $9.20	$9.03	57	$51K	58	10	5.80	
+100%
+4,081	37.85	0.716	-0.0466	0.0253	0.1198	0.0806	9.03	Consumer Defensive	Discount Stores	77		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/13 00:35:52
+	
+TGT
+BID	105	call	2026-01-09	24d	$96.59	9%	$0.72 - $0.82	$0.75	423	$32K	423	79	5.35	
+100%
+7,418	30.85	0.1754	-0.0381	0.0313	0.0691	0.0124	0.75	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+
+12/12 04:28:08
+	
+TGT
+ASK	101	call	2025-12-19	3d	$96.78	4%	$0.49 - $0.57	$0.55	2,480	$136K	4,452	24	185.50	
+96%
+50,943	34.03	0.2054	-0.0868	0.0583	0.0408	0.0042	0.55	Consumer Defensive	Discount Stores	77		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/12 04:21:28
+	
+TGT
+ASK	115	put	2025-12-19	3d	$96.86	-19%	$17.70 - $19.20	$19.20	20	$38K	20	5	4.00	
+100%
+-1,703	103.56	-0.8514	-0.2147	0.0156	0.0332	-0.0223	19.20	Consumer Defensive	Discount Stores	77		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 04:21:28
+	
+TGT
+BID	120	put	2026-01-16	31d	$96.86	-24%	$21.65 - $24.50	$21.65	50	$108K	50	11	4.55	
+100%
+-4,225	61.29	-0.845	-0.0611	0.0128	0.0725	-0.1049	24.50	Consumer Defensive	Discount Stores	77		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:20:39
+	
+TGT
+ASK	125	put	2025-12-19	3d	$96.37	-30%	$27.65 - $29.20	$29.00	400	$1.16M	400	51	7.84	
+100%
+-37,600	107.49	-0.94	-0.1138	0.0078	0.017	-0.0262	29.00	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 03:20:39
+	
+TGT
+ASK	120	put	2025-12-19	3d	$96.37	-25%	$22.75 - $24.50	$24.05	350	$842K	354	42	8.43	
+100%
+-32,458	96.92	-0.9274	-0.119	0.01	0.0197	-0.0249	24.05	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 03:20:39
+	
+TGT
+ASK	125	put	2026-01-16	31d	$96.37	-30%	$26.65 - $30.00	$28.70	900	$2.58M	900	103	8.74	
+100%
+-88,019	39.86	-0.978	-0.0081	0.0044	0.0159	-0.1213	28.70	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 01:52:49
+	
+TGT
+BID	97	put	2026-01-09	24d	$96.64	-0%	$3.40 - $3.55	$3.45	90	$31K	92	1	92.00	
+98%
+-4,501	30.06	-0.5002	-0.0562	0.0487	0.1087	-0.0411	3.45	Consumer Defensive	Discount Stores	77		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/11 23:38:39
+	
+TGT
+ASK	96	put	2025-12-12	-4d	$96.16	0%	$0.83 - $0.90	$0.90	400	$36K	604	107	5.64	
+79%
+-18,785	48.63	-0.4696	-0.4867	0.1625	0.02	-0.0013	0.90	Consumer Defensive	Discount Stores	77		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/11 23:00:35
+	
+TGT
+ASK	100	put	2025-12-12	-4d	$96.71	-3%	$3.30 - $3.40	$3.40	117	$40K	136	13	10.46	
+99%
+-10,582	48.44	-0.9044	-0.2079	0.0692	0.0086	-0.0025	3.40	Consumer Defensive	Discount Stores	77		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/11 04:37:25
+	
+TGT
+ASK	99	call	2025-12-12	-4d	$94.96	4%	$0.09 - $0.18	$0.15	2,266	$34K	3,638	457	7.96	
+96%
+23,389	43.98	0.1032	-0.1388	0.0581	0.0126	0.0005	0.15	Consumer Defensive	Discount Stores	77		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/11 03:38:10
+	
+TGT
+BID	120	put	2025-12-19	3d	$94.16	-27%	$24.65 - $28.00	$26.30	175	$460K	175	42	4.17	
+100%
+-16,218	100.88	-0.9267	-0.1149	0.0093	0.0206	-0.028	26.30	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/11 02:15:02
+	
+TGT
+ASK	105	call	2026-07-17	213d	$93.09	13%	$6.00 - $6.20	$6.20	50	$31K	50	3	16.67	
+100%
+1,950	36.44	0.3899	-0.0232	0.0146	0.2766	0.1806	6.20	Consumer Defensive	Discount Stores	77		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/11 01:47:37
+	
+TGT
+BID	95	put	2025-12-12	-4d	$93.11	-2%	$2.34 - $2.35	$2.34	166	$39K	247	29	8.52	
+68%
+-12,240	41.71	-0.7374	-0.2341	0.1134	0.0225	-0.0039	2.34	Consumer Defensive	Discount Stores	77	Repeated Hits Descending Fill	SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/11 01:17:23
+	
+TGT
+BID	60	put	2027-06-17	548d	$93.50	36%	$2.28 - $4.80	$3.50	700	$245K	700	1	700.00	
+100%
+-8,606	39.69	-0.1229	-0.0083	0.0045	0.2344	-0.2276	3.50	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/10 03:46:10
+	
+TGT
+ASK	115	put	2026-01-16	31d	$93.33	-23%	$21.10 - $23.20	$22.30	2,400	$5.35M	3,245	865	3.75	
+74%
+-215,612	47.90	-0.8984	-0.0331	0.0123	0.0535	-0.1105	22.30	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/10 03:46:03
+	
+TGT
+BID	115	put	2025-12-19	3d	$93.30	-23%	$20.90 - $22.45	$21.55	14	$30K	14	5	2.80	
+100%
+-1,245	97.07	-0.889	-0.1415	0.0126	0.0292	-0.0289	22.45	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/10 02:52:57
+	
+TGT
+ASK	120	put	2025-12-19	3d	$93.03	-29%	$25.90 - $27.40	$27.05	200	$541K	200	42	4.76	
+100%
+-19,581	73.39	-0.9791	-0.0281	0.0045	0.0078	-0.0324	27.05	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/09 03:36:51
+	
+TGT
+ASK	115	put	2025-12-19	3d	$93.38	-23%	$21.00 - $22.90	$22.00	42	$92K	42	16	2.63	
+100%
+-3,899	78.35	-0.9283	-0.0786	0.0108	0.0222	-0.0328	22.00	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/09 03:36:51
+	
+TGT
+ASK	120	put	2026-01-16	31d	$93.38	-29%	$25.20 - $28.60	$27.65	32	$88K	32	11	2.91	
+100%
+-2,803	61.11	-0.8759	-0.0484	0.011	0.0625	-0.1169	27.65	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/09 03:32:26
+	
+TGT
+BID	65	put	2027-12-17	731d	$93.29	30%	$5.50 - $6.45	$5.90	200	$118K	200	108	1.85	
+100%
+-3,394	37.43	-0.1697	-0.0083	0.0051	0.3355	-0.44	5.90	Consumer Defensive	Discount Stores	77	Floor Trade Large Cap	SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/09 03:26:43
+	
+TGT
+ASK	120	put	2025-12-19	3d	$93.12	-29%	$26.05 - $27.90	$27.05	175	$473K	175	42	4.17	
+100%
+-16,879	78.00	-0.9645	-0.0444	0.0062	0.0126	-0.0352	27.05	Consumer Defensive	Discount Stores	77		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	

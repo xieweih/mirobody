@@ -1,0 +1,3 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+GH_12.16_100call2025-12-19.txt,2025-12-17,02:21:32,GH,ASK,100,call,2025-12-19,3d,$98.13,$1.00 - $2.35,$2.00,711,$142K,"1,207",195,6.19,96%,"29,170",79.20,0.4103,-0.4567,0.0552,0.0346,0.0031,2.00,Healthcare,Diagnostics & Research,65,Low Historic Volume Floor,100 call 2025-12-19
+GH_12.16_100call2025-12-19.txt,2025-12-13,01:13:07,GH,BID,120,put,2026-07-17,213d,$101.16,$28.40 - $30.00,$29.06,78,$227K,88,0,-,100%,"-4,505",54.21,-0.5776,-0.0375,0.0093,0.3053,-0.5201,29.06,Healthcare,Diagnostics & Research,65,,120 put 2026-07-17
