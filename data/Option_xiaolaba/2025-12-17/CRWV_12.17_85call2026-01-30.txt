@@ -1,0 +1,1556 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog5
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/7 21:30 - 12/18 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+CRWV
+$64.55
+-7.12%
+Post
+$64.84
+  0.45%
+Volume
+312,942
+Premiums
+328.9M
+Bullish
+157.45M
+47.87%
+Bearish
+113.28M
+34.44%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/18 04:17:08
+	
+CRWV
+ASK	57	call	2026-01-02	15d	$65.67	-13%	$9.35 - $10.15	$10.15	40	$41K	40	24	1.67	
+100%
+3,209	89.40	0.8023	-0.1069	0.0226	0.0382	0.0186	10.15	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/18 03:32:34
+	
+CRWV
+ASK	130	put	2025-12-19	1d	$65.23	-99%	$62.90 - $66.65	$64.90	5,275	$34.2M	5,275	2,512	2.10	
+100%
+-517,220	419.69	-0.9805	-0.2395	0.0023	0.0023	-0.0071	64.90	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/18 03:32:34
+	
+CRWV
+BID	120	put	2025-12-19	1d	$65.23	-84%	$53.40 - $56.95	$55.15	2,700	$14.9M	2,700	669	4.04	
+100%
+-257,136	448.94	-0.9524	-0.5374	0.0046	0.0048	-0.0064	55.15	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/18 03:32:34
+	
+CRWV
+ASK	105	put	2025-12-19	1d	$65.23	-61%	$38.70 - $41.30	$40.45	1,500	$6.07M	1,512	353	4.28	
+100%
+-137,523	417.95	-0.9168	-0.7721	0.0076	0.0074	-0.0055	40.45	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/18 03:32:34
+	
+CRWV
+ASK	160	put	2025-12-19	1d	$65.23	-145%	$93.00 - $96.85	$95.10	1,325	$12.6M	1,325	331	4.00	
+100%
+-127,998	592.81	-0.966	-0.5392	0.0026	0.0036	-0.0087	95.10	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/18 03:32:34
+	
+CRWV
+BID	110	put	2025-12-19	1d	$65.23	-69%	$42.55 - $46.90	$44.30	500	$2.22M	523	120	4.36	
+96%
+-41,619	596.11	-0.8324	-1.8042	0.0087	0.0121	-0.0055	46.90	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/18 03:32:34
+	
+CRWV
+ASK	115	put	2025-12-19	1d	$65.23	-76%	$47.80 - $51.15	$49.55	200	$991K	200	53	3.77	
+100%
+-17,554	558.91	-0.8777	-1.3673	0.0075	0.0098	-0.0059	51.15	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/18 03:32:34
+	
+CRWV
+BID	125	put	2025-12-19	1d	$65.23	-92%	$57.50 - $62.15	$59.25	200	$1.19M	200	44	4.55	
+100%
+-16,726	707.82	-0.8363	-2.1098	0.0072	0.0119	-0.0064	62.15	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/18 03:32:34
+	
+CRWV
+BID	200	put	2025-12-19	1d	$65.23	-207%	$132.85 - $136.40	$134.60	2,400	$32.3M	2,400	582	4.12	
+100%
+-216,152	929.11	-0.9006	-1.9585	0.0039	0.0084	-0.0107	136.40	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/18 03:32:34
+	
+CRWV
+BID	140	put	2025-12-19	1d	$65.23	-115%	$73.45 - $76.65	$74.90	1,200	$8.99M	1,200	296	4.05	
+100%
+-117,814	456.33	-0.9818	-0.2459	0.002	0.0022	-0.0076	74.90	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/18 03:32:34
+	
+CRWV
+BID	150	put	2025-12-19	1d	$65.23	-130%	$83.05 - $87.00	$84.85	300	$2.55M	300	73	4.11	
+100%
+-29,649	461.45	-0.9883	-0.1696	0.0014	0.0015	-0.0082	84.85	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/18 03:24:08
+	
+CRWV
+ASK	55	call	2025-12-26	8d	$65.15	-16%	$9.50 - $10.80	$10.80	45	$49K	45	2	22.50	
+100%
+3,954	98.90	0.8787	-0.1135	0.0199	0.0206	0.0115	10.80	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/18 03:24:07
+	
+CRWV
+ASK	59	call	2025-12-26	8d	$65.14	-9%	$7.35 - $7.55	$7.55	50	$38K	66	10	6.60	
+80%
+3,847	95.20	0.7695	-0.1646	0.0312	0.0311	0.0105	7.55	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/18 00:45:19
+	
+CRWV
+BID	65	put	2028-01-21	764d	$64.59	-1%	$26.55 - $28.65	$27.31	780	$2.13M	783	175	4.47	
+100%
+-22,534	76.95	-0.2889	-0.0157	0.0047	0.3195	-0.9635	27.31	Technology	Software Infrastructure	53		ML-S	
+TLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/18 00:38:26
+	
+CRWV
+ASK	117	put	2026-01-02	15d	$64.07	-83%	$50.80 - $52.60	$52.60	14	$74K	14	0	-	
+100%
+-1,400	74.56	-0.9999	-0.0001	0.00	0.00	-0.0519	52.8303	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/18 00:36:22
+	
+CRWV
+ASK	60	call	2026-01-30	43d	$64.20	-7%	$10.00 - $10.10	$10.10	100	$101K	101	16	6.31	
+99%
+6,453	91.26	0.6453	-0.0862	0.0183	0.083	0.0378	10.10	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/18 00:29:23
+	
+CRWV
+BID	63	call	2026-01-09	22d	$64.77	-3%	$6.75 - $6.90	$6.75	50	$34K	50	37	1.35	
+100%
+2,966	91.17	0.5932	-0.1251	0.0262	0.0631	0.02	6.75	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/17 23:47:56
+	
+CRWV
+ASK	61	put	2025-12-19	1d	$66.20	8%	$0.54 - $0.67	$0.64	970	$62K	1,102	527	2.09	
+92%
+-17,510	127.48	-0.1805	-0.4105	0.0421	0.0129	-0.0007	0.64	Technology	Software Infrastructure	53		SL	
+SLAN
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/17 23:45:28
+	
+CRWV
+BID	66	call	2025-12-26	8d	$66.05	-0%	$3.65 - $3.70	$3.65	145	$53K	209	34	6.15	
+94%
+7,681	87.69	0.5297	-0.2011	0.0437	0.0413	0.0077	3.65	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/17 23:14:19
+	
+CRWV
+ASK	67	call	2025-12-19	1d	$66.99	0%	$2.22 - $2.39	$2.37	449	$106K	824	48	17.17	
+70%
+23,217	120.07	0.5171	-0.5934	0.0669	0.0198	0.0018	2.37	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/17 22:42:52
+	
+CRWV
+BID	67	call	2025-12-26	8d	$67.00	0%	$3.55 - $4.10	$3.80	95	$36K	104	76	1.37	
+96%
+5,020	90.59	0.5284	-0.2108	0.0418	0.0419	0.0078	3.80	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/17 22:42:45
+	
+CRWV
+BID	150	put	2028-01-21	764d	$67.01	-124%	$90.00 - $93.25	$91.44	100	$914K	100	66	1.52	
+100%
+-6,554	64.01	-0.6554	-0.0139	0.0059	0.3573	-2.8369	91.44	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/17 22:42:45
+	
+CRWV
+ASK	145	put	2028-01-21	764d	$67.01	-116%	$85.50 - $89.05	$87.44	100	$874K	100	72	1.39	
+100%
+-6,316	65.38	-0.6316	-0.0146	0.0059	0.3657	-2.7197	87.44	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/17 22:40:27
+	
+CRWV
+ASK	85	call	2026-01-30	43d	$67.27	26%	$2.56 - $3.10	$3.10	379	$117K	439	253	1.74	
+89%
+10,519	90.15	0.2775	-0.0803	0.0159	0.0783	0.0188	3.10	Technology	Software Infrastructure	53	Repeated Hits	SL	
+ISOI
+SWEEP	🐂 - BULLISH🛍️ - ASK	
+
+
+12/17 04:53:07
+	
+CRWV
+BID	100	put	2026-01-30	43d	$69.07	-45%	$30.95 - $32.15	$31.08	35	$109K	41	0	-	
+85%
+-3,377	55.25	-0.9648	-0.011	0.0058	0.0188	-0.1205	31.08	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/17 04:45:21
+	
+CRWV
+BID	110	put	2025-12-19	1d	$69.21	-59%	$40.05 - $42.00	$40.91	240	$982K	247	123	2.01	
+98%
+-23,450	242.54	-0.9771	-0.1374	0.0036	0.0034	-0.0089	40.91	Technology	Software Infrastructure	53		ML-O	
+MFSL
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/17 04:45:21
+	
+CRWV
+ASK	115	put	2025-12-19	1d	$69.21	-66%	$44.75 - $46.50	$45.72	160	$732K	164	54	3.04	
+99%
+-14,730	356.58	-0.9206	-0.5509	0.0066	0.0093	-0.0091	46.50	Technology	Software Infrastructure	53		ML-O	
+MFSL
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/17 03:56:43
+	
+CRWV
+BID	42.5	call	2026-04-17	120d	$68.51	-38%	$28.65 - $30.70	$29.61	40	$118K	40	20	2.00	
+100%
+3,467	100.99	0.8667	-0.0355	0.0054	0.0853	0.0995	29.61	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/17 03:50:21
+	
+CRWV
+ASK	130	put	2025-12-19	1d	$68.25	-90%	$60.75 - $62.80	$61.80	4,225	$26.1M	4,225	2,512	1.68	
+100%
+-418,883	282.93	-0.9914	-0.0674	0.0013	0.0014	-0.0106	61.80	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/17 03:50:21
+	
+CRWV
+ASK	120	put	2025-12-19	1d	$68.25	-76%	$49.90 - $52.50	$51.50	4,000	$20.6M	4,000	1,009	3.96	
+100%
+-368,715	390.49	-0.9218	-0.5881	0.006	0.009	-0.0095	52.50	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/17 03:50:21
+	
+CRWV
+BID	160	put	2025-12-19	1d	$68.25	-134%	$90.75 - $93.55	$91.80	1,325	$12.2M	1,325	331	4.00	
+100%
+-131,566	359.07	-0.9929	-0.0721	0.0009	0.0012	-0.0131	91.80	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/17 03:50:21
+	
+CRWV
+BID	140	put	2025-12-19	1d	$68.25	-105%	$69.75 - $72.75	$70.80	1,200	$8.5M	1,200	296	4.05	
+100%
+-109,897	494.82	-0.9158	-0.7879	0.005	0.0096	-0.0111	72.75	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/17 03:50:21
+	
+CRWV
+ASK	150	put	2025-12-19	1d	$68.25	-120%	$80.80 - $83.35	$82.30	250	$2.06M	250	73	3.42	
+100%
+-23,705	471.73	-0.9482	-0.5156	0.0036	0.0066	-0.0121	82.30	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/17 03:50:21
+	
+CRWV
+ASK	125	put	2025-12-19	1d	$68.25	-83%	$55.25 - $58.35	$57.35	200	$1.15M	200	45	4.44	
+100%
+-18,717	392.94	-0.9358	-0.5082	0.0052	0.0078	-0.01	57.35	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/17 03:50:21
+	
+CRWV
+BID	200	put	2025-12-19	1d	$68.25	-193%	$130.75 - $132.75	$131.70	2,200	$29M	2,200	582	3.78	
+100%
+-204,957	663.09	-0.9316	-0.901	0.0032	0.0082	-0.0161	132.75	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/17 02:55:51
+	
+CRWV
+BID	67.5	call	2026-09-18	274d	$68.65	-2%	$22.00 - $23.05	$22.00	20	$44K	23	6	3.83	
+100%
+1,331	92.96	0.6656	-0.0368	0.0066	0.2173	0.1791	22.00	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/17 02:42:20
+	
+CRWV
+BID	55	call	2026-01-09	22d	$68.95	-20%	$15.40 - $16.85	$15.40	20	$31K	20	1	20.00	
+100%
+1,704	95.65	0.8518	-0.0816	0.0137	0.0409	0.0285	15.40	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/17 01:54:09
+	
+CRWV
+BID	35	call	2026-01-16	29d	$68.52	-49%	$33.80 - $35.05	$33.80	60	$203K	61	19	3.21	
+100%
+5,853	129.46	0.9756	-0.0241	0.0022	0.0114	0.0281	33.80	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/17 01:10:14
+	
+CRWV
+ASK	50	call	2025-12-26	8d	$69.33	-28%	$19.00 - $19.50	$19.50	60	$117K	60	5	12.00	
+100%
+5,809	112.15	0.9681	-0.0462	0.0056	0.0082	0.013	19.50	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/17 01:02:55
+	
+CRWV
+ASK	70	put	2026-01-30	43d	$69.77	-0%	$8.10 - $8.55	$8.33	200	$167K	257	38	6.76	
+89%
+-8,904	84.33	-0.4452	-0.0905	0.0191	0.0968	-0.0486	8.33	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/17 00:23:05
+	
+CRWV
+BID	67.5	call	2025-12-19	1d	$69.80	-3%	$3.65 - $4.95	$4.05	150	$61K	155	83	1.87	
+97%
+9,743	110.72	0.6495	-0.4329	0.0529	0.0235	0.0034	4.05	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/17 00:07:43
+	
+CRWV
+BID	70	call	2026-01-30	43d	$69.75	0%	$8.60 - $8.70	$8.60	50	$43K	71	8	8.88	
+79%
+2,791	89.42	0.5582	-0.0962	0.018	0.0967	0.0374	8.60	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/16 23:53:44
+	
+CRWV
+BID	82	put	2026-01-23	36d	$69.57	-18%	$15.00 - $17.00	$15.95	20	$32K	22	13	1.69	
+91%
+-1,352	85.62	-0.676	-0.0906	0.0187	0.0807	-0.0656	15.95	Technology	Software Infrastructure	53		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+
+12/16 23:31:20
+	
+CRWV
+ASK	65	call	2026-01-30	43d	$69.07	-6%	$9.50 - $11.30	$10.73	60	$64K	72	1	72.00	
+99%
+3,822	91.29	0.637	-0.0925	0.0169	0.091	0.041	10.73	Technology	Software Infrastructure	53		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/16 23:14:02
+	
+CRWV
+BID	55	put	2026-04-17	120d	$69.43	21%	$6.65 - $7.10	$6.65	900	$599K	900	881	1.02	
+100%
+-21,466	89.08	-0.2385	-0.0453	0.0087	0.1244	-0.0776	6.65	Technology	Software Infrastructure	53		ML-S	
+TLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/16 23:10:56
+	
+CRWV
+BID	115	put	2026-01-23	36d	$69.46	-66%	$43.60 - $46.10	$44.84	30	$135K	30	2	15.00	
+100%
+-2,793	95.37	-0.9311	-0.0367	0.0062	0.0297	-0.1153	46.10	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/16 22:56:17
+	
+CRWV
+BID	50	call	2026-01-09	22d	$70.57	-29%	$20.75 - $22.35	$21.25	99	$210K	100	3	33.33	
+99%
+9,171	101.96	0.9263	-0.0538	0.0076	0.0253	0.029	21.25	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/16 22:54:52
+	
+CRWV
+BID	117	put	2026-01-02	15d	$70.87	-65%	$45.15 - $47.70	$46.10	14	$65K	16	0	-	
+88%
+-1,212	178.62	-0.866	-0.1732	0.0079	0.033	-0.0508	47.70	Technology	Software Infrastructure	53		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/16 22:52:40
+	
+CRWV
+BID	108	put	2026-01-30	43d	$71.26	-52%	$36.75 - $39.60	$38.17	10	$38K	10	0	-	
+100%
+-861	94.59	-0.861	-0.0577	0.0094	0.0554	-0.1227	38.17	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/16 22:42:32
+	
+CRWV
+BID	67.5	call	2027-06-17	546d	$70.35	-4%	$29.75 - $33.00	$31.11	10	$31K	10	4	2.50	
+100%
+728	92.53	0.7281	-0.0243	0.0042	0.286	0.3019	31.11	Technology	Software Infrastructure	53		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+12/16 04:21:55
+	
+CRWV
+ASK	125	call	2027-06-17	546d	$72.76	72%	$18.10 - $18.70	$18.70	20	$37K	22	10	2.20	
+95%
+1,027	87.29	0.5135	-0.0284	0.0051	0.3558	0.2807	18.70	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/16 04:17:53
+	
+CRWV
+BID	87.5	call	2026-06-18	182d	$73.24	19%	$13.95 - $14.55	$14.15	100	$142K	104	82	1.27	
+100%
+5,217	91.45	0.5217	-0.0515	0.0084	0.2077	0.122	14.15	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/16 03:50:53
+	
+CRWV
+ASK	130	put	2025-12-19	1d	$73.69	-76%	$54.60 - $57.10	$55.90	5,480	$30.6M	5,480	2,512	2.18	
+100%
+-505,797	338.36	-0.923	-0.4709	0.0055	0.0111	-0.0137	57.10	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:50:53
+	
+CRWV
+ASK	125	put	2025-12-19	1d	$73.69	-70%	$50.20 - $52.15	$51.45	820	$4.22M	820	305	2.69	
+100%
+-80,153	237.18	-0.9775	-0.1221	0.0029	0.0041	-0.0135	51.45	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:50:53
+	
+CRWV
+BID	155	put	2025-12-19	1d	$73.69	-110%	$79.50 - $82.50	$80.95	20	$162K	20	8	2.50	
+100%
+-1,822	448.86	-0.9111	-0.6961	0.0046	0.0124	-0.0164	82.50	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/16 03:31:01
+	
+CRWV
+ASK	140	put	2025-12-19	1d	$73.91	-89%	$64.50 - $67.10	$65.85	1,225	$8.07M	1,227	297	4.13	
+100%
+-112,013	388.27	-0.9144	-0.587	0.0052	0.0121	-0.0148	67.10	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:01
+	
+CRWV
+BID	200	put	2025-12-19	1d	$73.91	-171%	$124.50 - $127.15	$125.80	2,175	$27.4M	2,175	582	3.74	
+100%
+-202,209	541.26	-0.9297	-0.7046	0.0032	0.0104	-0.0215	127.15	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/16 03:31:01
+	
+CRWV
+ASK	160	put	2025-12-19	1d	$73.91	-116%	$84.50 - $87.20	$85.90	1,325	$11.4M	1,325	331	4.00	
+100%
+-121,523	454.28	-0.9172	-0.6701	0.0043	0.0118	-0.017	87.20	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 03:31:01
+	
+CRWV
+ASK	150	put	2025-12-19	1d	$73.91	-103%	$75.05 - $77.50	$76.55	250	$1.91M	250	73	3.42	
+100%
+-23,854	360.54	-0.9542	-0.335	0.0034	0.0074	-0.0161	76.55	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+
+12/16 00:58:48
+	
+CRWV
+ASK	72.5	call	2027-06-17	546d	$73.79	-2%	$31.45 - $34.00	$33.06	10	$33K	10	9	1.11	
+100%
+727	95.53	0.7272	-0.0263	0.0038	0.3007	0.3098	33.06	Technology	Software Infrastructure	53		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/16 00:16:10
+	
+CRWV
+BID	65	put	2026-07-17	211d	$74.27	12%	$13.35 - $14.45	$13.60	800	$1.09M	802	601	1.33	
+100%
+-23,734	85.86	-0.2967	-0.0392	0.0071	0.1967	-0.2089	13.60	Technology	Software Infrastructure	53		ML-S	
+TLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/16 00:14:28
+	
+CRWV
+BID	60	call	2025-12-26	8d	$73.70	-19%	$14.50 - $14.70	$14.50	100	$145K	111	36	3.08	
+91%
+8,876	105.57	0.8876	-0.1174	0.0141	0.0244	0.0153	14.50	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/16 00:11:39
+	
+CRWV
+ASK	100	put	2026-08-21	246d	$73.45	-36%	$37.35 - $38.10	$38.10	130	$495K	130	109	1.19	
+100%
+-7,143	80.95	-0.5495	-0.0384	0.0081	0.2402	-0.5352	38.10	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/15 23:47:09
+	
+CRWV
+ASK	77.5	put	2026-04-17	120d	$73.83	-5%	$16.80 - $16.85	$16.85	254	$428K	268	119	2.25	
+99%
+-11,131	86.39	-0.4382	-0.059	0.0106	0.1689	-0.1658	16.85	Technology	Software Infrastructure	53	Repeated Hits	SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/15 23:33:49
+	
+CRWV
+ASK	92.5	call	2026-05-15	148d	$73.34	26%	$10.75 - $11.50	$11.50	38	$44K	38	6	6.33	
+100%
+1,777	93.89	0.4677	-0.0584	0.009	0.1876	0.0943	11.50	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/15 23:24:47
+	
+CRWV
+BID	65	put	2026-01-23	36d	$72.10	10%	$4.70 - $4.90	$4.68	100	$47K	104	91	1.14	
+100%
+-3,057	86.75	-0.3057	-0.0918	0.0172	0.0826	-0.0286	4.68	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/15 23:22:43
+	
+CRWV
+BID	77.5	put	2027-06-17	546d	$72.43	-7%	$30.05 - $30.60	$30.05	25	$75K	25	7	3.57	
+100%
+-848	78.39	-0.3392	-0.0228	0.0053	0.3252	-0.8215	30.05	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/15 23:01:40
+	
+CRWV
+BID	75	call	2026-01-30	43d	$72.94	3%	$7.90 - $8.55	$8.20	44	$36K	83	3	27.67	
+75%
+2,319	88.04	0.5271	-0.0988	0.0175	0.1031	0.0381	8.20	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/15 22:52:01
+	
+CRWV
+ASK	82.5	call	2026-04-17	120d	$74.19	11%	$11.80 - $13.60	$12.78	45	$58K	50	35	1.43	
+100%
+2,380	92.62	0.5289	-0.0647	0.01	0.1714	0.0892	12.78	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/15 22:48:00
+	
+CRWV
+ASK	141	put	2025-12-26	8d	$74.25	-90%	$64.65 - $67.00	$67.00	10	$67K	10	0	-	
+100%
+-969	182.47	-0.969	-0.0743	0.003	0.009	-0.0419	67.00	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/13 04:40:45
+	
+CRWV
+BID	210	put	2025-12-19	1d	$78.86	-166%	$129.25 - $132.00	$130.45	400	$5.22M	400	0	-	
+100%
+-37,690	384.38	-0.9422	-0.346	0.0028	0.0126	-0.0396	132.00	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/13 04:27:46
+	
+CRWV
+ASK	62.5	call	2028-01-21	764d	$79.41	-21%	$41.80 - $45.45	$43.77	30	$131K	30	7	4.29	
+100%
+2,402	90.54	0.8007	-0.0191	0.0027	0.3222	0.4179	43.77	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/13 02:12:38
+	
+CRWV
+BID	81	call	2026-01-09	22d	$82.42	-2%	$7.35 - $10.00	$8.35	49	$41K	51	5	10.20	
+96%
+2,822	84.54	0.576	-0.1351	0.0203	0.0894	0.03	8.35	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/13 02:12:00
+	
+CRWV
+ASK	85	call	2026-01-30	43d	$80.72	5%	$6.75 - $8.20	$8.20	39	$32K	71	6	11.83	
+77%
+1,932	84.48	0.4955	-0.1019	0.016	0.118	0.0427	8.20	Technology	Software Infrastructure	53	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/13 01:47:12
+	
+CRWV
+ASK	115	put	2026-01-09	22d	$79.61	-44%	$35.05 - $37.55	$36.31	30	$109K	31	0	-	
+97%
+-2,691	95.09	-0.897	-0.0668	0.0086	0.0395	-0.0826	36.31	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 23:09:03
+	
+CRWV
+BID	101	put	2026-01-02	15d	$85.34	-18%	$15.70 - $17.25	$15.70	20	$31K	20	0	-	
+100%
+-1,962	33.27	-0.9808	-0.0073	0.0069	0.0096	-0.0572	15.70	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 23:09:03
+	
+CRWV
+BID	102	put	2026-01-02	15d	$85.34	-20%	$15.70 - $18.15	$15.70	20	$31K	20	13	1.54	
+100%
+-1,622	76.41	-0.8108	-0.1005	0.0173	0.0554	-0.0503	18.15	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 22:45:14
+	
+CRWV
+ASK	112	put	2026-01-02	15d	$86.56	-29%	$24.20 - $26.95	$25.76	29	$75K	29	0	-	
+100%
+-2,728	65.55	-0.9406	-0.0379	0.0087	0.0245	-0.0617	25.76	Technology	Software Infrastructure	53		ML-O	
+MLAT
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/12 22:33:16
+	
+CRWV
+BID	84	put	2025-12-19	1d	$85.89	2%	$3.00 - $3.60	$3.17	500	$159K	500	162	3.09	
+100%
+-20,136	86.28	-0.4027	-0.2836	0.0377	0.046	-0.0072	3.17	Technology	Software Infrastructure	53		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 22:30:09
+	
+CRWV
+BID	87.5	put	2026-07-17	211d	$86.25	-1%	$21.45 - $23.05	$22.23	20	$44K	20	2	10.00	
+100%
+-766	82.54	-0.3828	-0.0478	0.007	0.2538	-0.3284	22.23	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:13:54
+	
+CRWV
+ASK	91	call	2025-12-19	1d	$87.83	4%	$2.95 - $3.05	$3.01	599	$180K	727	319	2.28	
+93%
+24,631	83.69	0.4112	-0.2647	0.0358	0.0506	0.0073	3.01	Technology	Software Infrastructure	53		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/12 04:13:06
+	
+CRWV
+BID	108	put	2025-12-12	-6d	$87.80	-23%	$19.90 - $21.55	$19.90	300	$597K	308	88	3.50	
+99%
+-25,079	368.21	-0.836	-2.092	0.0146	0.0114	-0.0026	21.55	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:13:06
+	
+CRWV
+BID	107	put	2025-12-12	-6d	$87.80	-22%	$18.85 - $21.00	$18.85	270	$509K	274	92	2.98	
+99%
+-21,696	394.52	-0.8036	-2.5103	0.0153	0.0127	-0.0025	21.00	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:13:06
+	
+CRWV
+BID	105	put	2025-12-12	-6d	$87.80	-20%	$16.75 - $19.10	$16.75	240	$402K	251	90	2.79	
+98%
+-18,934	378.96	-0.7889	-2.5168	0.0166	0.0133	-0.0024	19.10	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:13:06
+	
+CRWV
+BID	104	put	2025-12-12	-6d	$87.80	-18%	$15.90 - $18.15	$15.90	130	$207K	137	49	2.80	
+98%
+-10,154	370.60	-0.7811	-2.5139	0.0173	0.0136	-0.0024	18.15	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:13:06
+	
+CRWV
+BID	110	put	2025-12-12	-6d	$87.80	-25%	$21.40 - $24.25	$21.40	90	$193K	90	24	3.75	
+100%
+-7,209	447.49	-0.801	-2.8696	0.0136	0.0128	-0.0026	24.25	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:13:06
+	
+CRWV
+BID	106	put	2025-12-12	-6d	$87.80	-21%	$17.75 - $20.15	$17.75	40	$71K	43	14	3.07	
+98%
+-3,163	394.55	-0.7907	-2.6074	0.0159	0.0132	-0.0025	20.15	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 04:13:06
+	
+CRWV
+BID	120	put	2025-12-19	1d	$87.80	-37%	$31.55 - $33.95	$31.64	6,100	$19.3M	6,101	2,037	3.00	
+100%
+-514,248	184.52	-0.843	-0.3598	0.01	0.0312	-0.0237	33.95	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 03:48:32
+	
+CRWV
+BID	116	put	2025-12-12	-6d	$87.89	-32%	$27.60 - $29.55	$28.40	110	$312K	114	27	4.22	
+98%
+-10,433	309.76	-0.9485	-0.752	0.0074	0.0049	-0.0031	28.40	Technology	Software Infrastructure	53		SL	
+SLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 02:21:17
+	
+CRWV
+BID	95	put	2027-06-17	546d	$85.48	-11%	$37.75 - $39.10	$37.90	20	$76K	20	19	1.05	
+100%
+-709	77.90	-0.3543	-0.027	0.0045	0.3914	-1.0331	37.90	Technology	Software Infrastructure	53		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+
+12/12 01:43:42
+	
+CRWV
+BID	75	put	2028-01-21	764d	$85.86	13%	$28.45 - $29.35	$28.60	480	$1.37M	607	150	4.05	
+99%
+-11,834	76.96	-0.2465	-0.0193	0.0033	0.3936	-1.0513	28.60	Technology	Software Infrastructure	53		ML-S	
+TLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+
+12/12 00:03:13
+	
+CRWV
+ASK	87.5	put	2026-12-18	365d	$82.66	-6%	$28.70 - $29.50	$29.50	20	$59K	20	2	10.00	
+100%
+-729	81.60	-0.3646	-0.0339	0.0055	0.3135	-0.6078	29.50	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/11 23:51:49
+	
+CRWV
+BID	92	call	2025-12-19	1d	$81.70	13%	$1.06 - $1.32	$1.12	600	$67K	748	374	2.00	
+88%
+11,979	88.33	0.1997	-0.1868	0.0262	0.0338	0.0033	1.12	Technology	Software Infrastructure	53		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+12/11 23:00:10
+	
+CRWV
+BID	72.5	call	2026-02-20	64d	$81.78	-11%	$18.05 - $19.00	$18.05	315	$569K	324	302	1.07	
+97%
+21,752	95.61	0.6905	-0.0858	0.0102	0.1272	0.0747	18.05	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/11 03:20:27
+	
+CRWV
+BID	98	put	2025-12-12	-6d	$89.39	-10%	$9.25 - $11.75	$9.25	113	$105K	147	20	7.35	
+93%
+-9,492	119.60	-0.84	-0.4811	0.0307	0.0161	-0.0046	9.25	Technology	Software Infrastructure	53	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/11 02:50:53
+	
+CRWV
+BID	110	put	2026-12-18	365d	$87.31	-26%	$42.70 - $43.30	$42.70	40	$171K	40	35	1.14	
+100%
+-1,828	78.36	-0.457	-0.0361	0.0057	0.3501	-0.8441	42.70	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/10 23:43:14
+	
+CRWV
+ASK	86	call	2026-01-09	22d	$85.79	0%	$7.95 - $8.65	$8.32	75	$62K	90	21	4.29	
+94%
+4,089	85.93	0.5452	-0.1398	0.0188	0.0975	0.0316	8.32	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/10 23:43:14
+	
+CRWV
+BID	87	call	2026-01-09	22d	$85.79	1%	$7.55 - $8.25	$7.89	75	$59K	87	13	6.69	
+98%
+3,950	86.01	0.5267	-0.1405	0.0188	0.0979	0.0307	7.89	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/10 02:16:34
+	
+CRWV
+ASK	97.5	put	2028-01-21	764d	$90.30	-8%	$41.20 - $42.85	$42.85	40	$171K	40	14	2.86	
+100%
+-1,245	76.37	-0.3114	-0.0224	0.0035	0.4645	-1.5029	42.85	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/10 01:54:16
+	
+CRWV
+BID	88	put	2026-01-02	15d	$89.65	2%	$6.65 - $7.35	$6.65	50	$33K	58	11	5.27	
+97%
+-2,116	82.14	-0.4231	-0.1539	0.0207	0.09	-0.0293	6.65	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/10 01:20:25
+	
+CRWV
+ASK	100	call	2026-07-17	211d	$89.45	12%	$20.10 - $21.30	$20.73	100	$207K	102	73	1.40	
+100%
+5,743	89.12	0.5743	-0.0554	0.0063	0.2722	0.1847	20.73	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/10 00:12:50
+	
+CRWV
+BID	88	call	2025-12-26	8d	$88.59	-1%	$6.80 - $7.05	$6.80	265	$180K	280	215	1.30	
+99%
+14,608	85.61	0.5513	-0.1906	0.0242	0.0756	0.0196	6.80	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/09 23:37:46
+	
+CRWV
+BID	62.5	call	2026-04-17	120d	$86.92	-28%	$31.55 - $32.35	$31.55	20	$63K	20	2	10.00	
+100%
+1,614	95.33	0.8069	-0.0525	0.0056	0.1416	0.1364	31.55	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/09 22:53:59
+	
+CRWV
+ASK	77.5	put	2026-12-18	365d	$85.30	9%	$22.00 - $22.70	$22.70	40	$91K	40	32	1.25	
+100%
+-1,181	83.24	-0.2951	-0.0328	0.0048	0.298	-0.4905	22.70	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/09 22:35:38
+	
+CRWV
+ASK	85	call	2026-01-09	22d	$85.11	-0%	$7.35 - $9.05	$8.26	294	$243K	304	124	2.45	
+98%
+16,187	83.12	0.5506	-0.1318	0.0192	0.0982	0.0328	8.26	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/09 04:50:16
+	
+CRWV
+BID	70	put	2026-01-09	22d	$86.78	19%	$2.40 - $2.69	$2.40	200	$48K	297	95	3.13	
+73%
+-3,440	89.20	-0.172	-0.0912	0.0111	0.0655	-0.0152	2.40	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/09 04:42:42
+	
+CRWV
+BID	118	put	2025-12-26	8d	$86.37	-37%	$32.00 - $33.60	$32.00	30	$96K	30	13	2.31	
+100%
+-2,825	84.45	-0.9418	-0.052	0.0072	0.0223	-0.0559	32.00	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/09 04:42:38
+	
+CRWV
+BID	110	put	2026-01-23	36d	$86.37	-27%	$26.55 - $27.10	$26.55	20	$53K	24	0	-	
+96%
+-1,528	79.22	-0.7638	-0.0809	0.0127	0.0945	-0.1166	26.55	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+
+12/09 02:37:26
+	
+CRWV
+BID	40	call	2026-04-17	120d	$83.95	-52%	$45.45 - $48.00	$46.72	8	$37K	8	1	8.00	
+100%
+738	115.17	0.9227	-0.0323	0.0025	0.0726	0.1095	46.72	Technology	Software Infrastructure	53		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+
+12/09 02:13:37
+	
+CRWV
+ASK	62.5	call	2026-02-20	64d	$85.05	-27%	$26.85 - $27.10	$27.10	47	$127K	51	33	1.55	
+100%
+3,860	97.85	0.8213	-0.0664	0.007	0.10	0.0867	27.10	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/09 01:35:19
+	
+CRWV
+BID	108	call	2025-12-26	8d	$83.09	30%	$0.39 - $0.70	$0.53	1,000	$53K	1,012	110	9.20	
+99%
+8,383	80.36	0.0838	-0.0635	0.0104	0.0284	0.0032	0.53	Technology	Software Infrastructure	53		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+
+12/09 01:09:41
+	
+CRWV
+ASK	62.5	put	2027-12-17	729d	$82.63	24%	$21.00 - $21.75	$21.75	30	$65K	30	4	7.50	
+100%
+-619	79.84	-0.2065	-0.0178	0.003	0.3355	-0.7858	21.75	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+
+12/08 23:11:04
+	
+CRWV
+BID	50	call	2025-12-12	-6d	$82.95	-40%	$33.00 - $35.20	$33.00	155	$512K	200	2	100.00	
+100%
+15,371	211.62	0.9917	-0.0522	0.0012	0.002	0.0054	33.00	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/08 23:11:04
+	
+CRWV
+BID	50	call	2025-12-12	-6d	$83.00	-40%	$33.00 - $35.20	$33.00	18	$59K	18	2	9.00	
+100%
+1,627	453.71	0.904	-0.8396	0.0043	0.0148	0.0044	35.20	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/08 23:09:21
+	
+CRWV
+BID	40	call	2026-05-15	148d	$83.22	-52%	$46.35 - $48.45	$46.35	20	$93K	20	6	3.33	
+100%
+1,834	108.19	0.9172	-0.0288	0.0026	0.0836	0.1297	46.35	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/08 23:08:29
+	
+CRWV
+BID	35	call	2026-05-15	148d	$83.46	-58%	$50.75 - $51.40	$50.75	20	$102K	25	0	-	
+88%
+1,878	112.56	0.9388	-0.0238	0.002	0.0664	0.1195	50.75	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/08 23:00:54
+	
+CRWV
+BID	47.5	call	2026-03-20	92d	$83.96	-43%	$39.25 - $39.95	$39.25	20	$79K	20	16	1.25	
+100%
+1,806	105.80	0.903	-0.0397	0.0037	0.0761	0.1022	39.25	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/08 22:59:19
+	
+CRWV
+BID	55	call	2026-05-15	148d	$83.66	-34%	$35.55 - $36.50	$35.55	15	$53K	15	14	1.07	
+100%
+1,250	99.87	0.8336	-0.0436	0.0045	0.1374	0.148	35.55	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/08 22:59:16
+	
+CRWV
+BID	45	call	2026-05-15	148d	$83.62	-46%	$42.80 - $43.70	$42.80	15	$64K	15	3	5.00	
+100%
+1,339	105.24	0.893	-0.034	0.0032	0.1014	0.138	42.80	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/08 22:59:14
+	
+CRWV
+BID	47.5	put	2026-01-16	29d	$83.62	43%	$0.35 - $0.69	$0.38	15,124	$575K	15,274	410	37.25	
+99%
+-46,909	101.84	-0.031	-0.0249	0.0025	0.0191	-0.0032	0.38	Technology	Software Infrastructure	53		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+
+12/08 22:58:32
+	
+CRWV
+ASK	47.5	call	2026-07-17	211d	$83.56	-43%	$41.80 - $42.75	$42.75	10	$43K	10	1	10.00	
+100%
+867	101.61	0.8669	-0.0324	0.0033	0.1398	0.1797	42.75	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/08 22:55:27
+	
+CRWV
+ASK	35	call	2027-06-17	546d	$83.74	-58%	$56.25 - $57.80	$57.80	10	$58K	11	7	1.57	
+100%
+907	102.92	0.9075	-0.016	0.0016	0.1713	0.2771	57.80	Technology	Software Infrastructure	53		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+
+12/08 22:38:51
+	
+CRWV
+ASK	60	call	2026-02-20	64d	$83.84	-28%	$27.40 - $28.75	$28.10	500	$1.41M	510	92	5.54	
+98%
+41,643	100.69	0.8329	-0.0645	0.0066	0.0945	0.0846	28.10	Technology	Software Infrastructure	53		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/08 22:37:50
+	
+CRWV
+BID	87	call	2025-12-26	8d	$83.51	4%	$4.85 - $5.30	$5.00	500	$250K	502	425	1.18	
+100%
+22,745	87.49	0.4549	-0.1788	0.0244	0.0735	0.0163	5.00	Technology	Software Infrastructure	53		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+
+12/08 22:32:39
+	
+CRWV
+ASK	84	call	2025-12-19	1d	$84.68	-1%	$5.40 - $6.55	$6.09	100	$61K	106	0	-	
+100%
+5,528	98.43	0.5528	-0.2602	0.0273	0.0581	0.0123	6.09	Technology	Software Infrastructure	53		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
