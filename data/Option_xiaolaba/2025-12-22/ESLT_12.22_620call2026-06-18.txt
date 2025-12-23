@@ -1,0 +1,353 @@
+
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog6
+Info
+Careers
+
+
+
+
+SALEChristmas Sale until Dec 25! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+
+Prev
+
+
+Next
+
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/13 21:30 - 12/23 05:00
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+ESLT
+$568.57
+2.58%
+Volume
+137
+Premiums
+445,137
+Bullish
+330,928
+74.34%
+Bearish
+65,384
+14.69%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+
+12/23 01:13:52
+	
+ESLT
+ASK	620	call	2026-06-18	178d	$568.57	9%	$32.10 - $35.50	$35.20	50	$176K	50	1	50.00	
+100%
+2,038	34.57	0.4076	-0.1508	0.0028	1.5413	0.9585	35.20	Industrials	Aerospace & Defense	85	Floor Trade Large Cap	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+
+12/19 22:31:32
+	
+ESLT
+ASK	130	call	2025-12-19	-3d	$544.96	-76%	$409.80 - $414.50	$414.50	1	$41K	1	0	-	
+100%
+100	96.42	1.00	-0.00	0.00	0.00	0.001	414.96	Industrials	Aerospace & Defense	85		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+
+12/19 22:31:32
+	
+ESLT
+ASK	155	call	2025-12-19	-3d	$544.96	-72%	$385.00 - $389.50	$389.50	1	$39K	1	0	-	
+100%
+100	96.42	1.00	-0.0002	0.00	0.00	0.0011	389.9602	Industrials	Aerospace & Defense	85		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+
+12/19 22:31:32
+	
+ESLT
+ASK	160	call	2025-12-19	-3d	$544.96	-71%	$380.00 - $384.50	$384.50	1	$38K	1	0	-	
+100%
+100	96.42	1.00	-0.0002	0.00	0.00	0.0012	384.9602	Industrials	Aerospace & Defense	85		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
+
+
+12/19 22:31:32
+	
+ESLT
+ASK	185	call	2025-12-19	-3d	$544.96	-66%	$355.00 - $359.50	$359.50	1	$36K	1	0	-	
+100%
+100	96.42	1.00	-0.0004	0.00	0.00	0.0014	359.9604	Industrials	Aerospace & Defense	85		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK🥤 - DIVIDEND	
