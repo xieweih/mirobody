@@ -1,0 +1,386 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog6
+Info
+Careers
+
+
+
+
+SALEChristmas Sale until Dec 25! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/14 21:30 - 12/24 23:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+PATH
+$16.98
+6.36%
+Volume
+32,931
+Premiums
+3.69M
+Bullish
+1.73M
+46.87%
+Bearish
+1.33M
+36.11%
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/24 22:54:48
+PATH
+ASK	19	call	2026-01-30	37d	$16.98	12%	$0.42 - $0.54	$0.53	2,500	$133K	2,513	55	45.69	
+100%
+74,535	56.95	0.2981	-0.0144	0.1126	0.0187	0.0046	0.53	Technology	Software Infrastructure	77		SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+12/24 22:35:33
+PATH
+BID	20	call	2026-08-21	240d	$16.91	18%	$2.66 - $2.82	$2.66	160	$43K	160	47	3.40	
+100%
+7,845	68.12	0.4903	-0.0078	0.0427	0.0547	0.037	2.66	Technology	Software Infrastructure	77		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/24 22:32:54
+PATH
+ASK	5	call	2025-12-26	2d	$17.11	-71%	$11.65 - $13.45	$12.68	30	$38K	30	19	1.58	
+100%
+2,861	1,454.10	0.9536	-0.4471	0.0053	0.0012	0.0002	12.68	Technology	Software Infrastructure	77		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+12/24 22:32:43
+PATH
+ASK	2	call	2025-12-26	2d	$17.12	-88%	$14.65 - $17.10	$15.88	30	$48K	30	13	2.31	
+100%
+2,943	2,945.46	0.981	-0.4325	0.0012	0.0006	0.0001	15.88	Technology	Software Infrastructure	77		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+12/24 22:31:25
+PATH
+ASK	6	call	2025-12-26	2d	$17.11	-65%	$10.65 - $11.45	$11.18	30	$34K	30	8	3.75	
+100%
+2,950	767.07	0.9834	-0.1004	0.0043	0.0005	0.0003	11.18	Technology	Software Infrastructure	77		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+12/24 22:31:25
+PATH
+BID	7	call	2025-12-26	2d	$17.11	-59%	$9.65 - $11.00	$10.20	30	$31K	30	12	2.50	
+100%
+2,931	693.95	0.9771	-0.1195	0.0062	0.0007	0.0004	10.20	Technology	Software Infrastructure	77		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+12/23 23:34:16
+PATH
+ASK	3	call	2025-12-26	2d	$15.85	-81%	$12.25 - $14.00	$13.16	30	$39K	33	14	2.36	
+100%
+2,925	1,372.26	0.975	-0.1921	0.003	0.0008	0.0002	13.16	Technology	Software Infrastructure	77		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+12/23 23:34:16
+PATH
+BID	4	call	2025-12-26	2d	$15.85	-75%	$11.40 - $13.00	$12.18	30	$37K	30	7	4.29	
+100%
+2,901	1,155.30	0.967	-0.2038	0.0044	0.0011	0.0003	12.18	Technology	Software Infrastructure	77		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+12/23 03:04:44
+PATH
+ASK	35	put	2028-01-21	758d	$16.54	-112%	$18.45 - $19.70	$19.70	299	$589K	300	0	-	
+100%
+-21,926	51.76	-0.7333	-0.0024	0.0266	0.0784	-0.6627	19.70	Technology	Software Infrastructure	77		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+12/22 23:49:27
+PATH
+BID	36	put	2026-02-20	58d	$16.77	-115%	$19.15 - $20.00	$19.26	20	$39K	20	0	-	
+100%
+-1,957	85.80	-0.9784	-0.0023	0.0089	0.0035	-0.0586	19.26	Technology	Software Infrastructure	77		SL	
+SLAN
+🐂 - BULLISH🦴 - BID	
+
+12/18 22:42:05
+PATH
+ASK	37	put	2026-05-15	142d	$16.00	-131%	$19.70 - $21.00	$21.00	40	$84K	40	0	-	
+100%
+-3,932	57.09	-0.9831	-0.0006	0.0072	0.0043	-0.1489	21.00	Technology	Software Infrastructure	77		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
