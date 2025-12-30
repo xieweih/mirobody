@@ -1,0 +1,4 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+BEAM_12.26_30call2026-02-20.txt,2025-12-26,23:41:55,BEAM,ASK,30,call,2026-02-20,52d,$27.16,$0.50 - $3.20,$3.00,"1,000",$300K,"1,000",343,2.92,100%,"47,022",96.20,0.4702,-0.0364,0.0389,0.0423,0.015,3.00,Healthcare,Biotechnology,56,Low Historic Volume Floor,30 call 2026-02-20
+BEAM_12.26_30call2026-02-20.txt,2025-12-23,00:46:26,BEAM,ASK,27,call,2027-01-15,381d,$28.12,$7.50 - $11.00,$11.00,30,$33K,30,10,3.00,100%,"2,113",95.39,0.7043,-0.0124,0.0125,0.1003,0.0938,11.00,Healthcare,Biotechnology,56,,27 call 2027-01-15
+BEAM_12.26_30call2026-02-20.txt,2025-12-20,00:56:12,BEAM,BID,15,call,2027-01-15,381d,$27.09,$14.70 - $16.90,$14.70,25,$37K,25,0,-,100%,"2,167",85.98,0.867,-0.0067,0.0089,0.0603,0.0944,14.70,Healthcare,Biotechnology,56,,15 call 2027-01-15

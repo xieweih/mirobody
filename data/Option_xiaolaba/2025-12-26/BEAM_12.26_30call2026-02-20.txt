@@ -1,0 +1,327 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog6
+Info
+Careers
+
+
+
+
+SALENew Years Sale until Jan 4! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/16 21:30 - 12/27 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+BEAM
+$27.84
+-0.50%
+Post
+$27.84
+  0.00%
+Volume
+360
+Premiums
+125,276
+Bullish
+84,897
+67.77%
+Bearish
+37,924
+30.27%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/26 23:41:55
+BEAM
+ASK	30	call	2026-02-20	52d	$27.16	10%	$0.50 - $3.20	$3.00	1,000	$300K	1,000	343	2.92	
+100%
+47,022	96.20	0.4702	-0.0364	0.0389	0.0423	0.015	3.00	Healthcare	Biotechnology	56	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+12/23 00:46:26
+BEAM
+ASK	27	call	2027-01-15	381d	$28.12	-4%	$7.50 - $11.00	$11.00	30	$33K	30	10	3.00	
+100%
+2,113	95.39	0.7043	-0.0124	0.0125	0.1003	0.0938	11.00	Healthcare	Biotechnology	56		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/20 00:56:12
+BEAM
+BID	15	call	2027-01-15	381d	$27.09	-45%	$14.70 - $16.90	$14.70	25	$37K	25	0	-	
+100%
+2,167	85.98	0.867	-0.0067	0.0089	0.0603	0.0944	14.70	Healthcare	Biotechnology	56		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	

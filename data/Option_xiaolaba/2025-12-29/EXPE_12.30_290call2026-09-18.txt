@@ -1,0 +1,415 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog6
+Info
+Careers
+
+
+
+
+SALENew Years Sale until Jan 4! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/19 21:30 - 12/30 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+EXPE
+$286.82
+-0.26%
+Post
+$286.82
+  0.00%
+Volume
+7,307
+Premiums
+47.98M
+Bullish
+2.66M
+5.54%
+Bearish
+45.24M
+94.28%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+12/30 03:22:26
+EXPE
+ASK	280	put	2026-12-18	353d	$286.68	2%	$37.50 - $38.90	$38.90	24	$93K	24	14	1.71	
+100%
+-955	38.48	-0.3979	-0.058	0.0036	1.0892	-1.4835	38.90	Consumer Cyclical	Travel & Leisure	37		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+12/30 02:21:40
+EXPE
+ASK	280	put	2027-01-15	381d	$286.35	2%	$38.75 - $40.20	$40.20	12	$48K	12	0	-	
+100%
+-477	38.10	-0.3975	-0.0552	0.0035	1.1298	-1.6118	40.20	Consumer Cyclical	Travel & Leisure	37		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+12/30 01:44:59
+EXPE
+ASK	290	call	2026-09-18	262d	$286.16	1%	$40.15 - $43.00	$42.20	500	$2.11M	500	68	7.35	
+100%
+28,227	45.23	0.5645	-0.0831	0.0036	0.9563	0.86	42.20	Consumer Cyclical	Travel & Leisure	37	Floor Trade Large Cap	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+12/27 02:05:52
+EXPE
+BID	300	put	2026-06-18	170d	$287.45	-4%	$36.55 - $37.35	$36.85	16	$59K	16	12	1.33	
+100%
+-820	37.62	-0.5123	-0.0845	0.0053	0.7914	-0.8777	36.85	Consumer Cyclical	Travel & Leisure	37		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+12/27 00:30:02
+EXPE
+BID	185	call	2026-01-30	31d	$286.94	-36%	$100.50 - $104.80	$102.62	25	$257K	25	0	-	
+100%
+2,441	75.96	0.9764	-0.0547	0.0008	0.0495	0.1702	102.62	Consumer Cyclical	Travel & Leisure	37		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/27 00:30:02
+EXPE
+BID	195	call	2026-01-30	31d	$286.94	-32%	$90.60 - $94.85	$92.71	25	$232K	25	0	-	
+100%
+2,428	69.61	0.9713	-0.0589	0.0011	0.0582	0.1784	92.71	Consumer Cyclical	Travel & Leisure	37		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/24 01:17:21
+EXPE
+ASK	330	call	2026-04-17	108d	$288.61	14%	$9.65 - $11.15	$10.75	750	$806K	750	207	3.62	
+100%
+22,769	38.23	0.3036	-0.0946	0.0056	0.5663	0.2422	10.75	Consumer Cyclical	Travel & Leisure	37		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+12/23 04:46:30
+EXPE
+BID	267.5	call	2026-01-16	17d	$286.51	-7%	$21.20 - $24.35	$22.58	15	$34K	15	0	-	
+100%
+1,172	36.03	0.7811	-0.1602	0.0109	0.2214	0.1378	22.58	Consumer Cyclical	Travel & Leisure	37		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/20 02:19:12
+EXPE
+ASK	320	call	2026-09-18	262d	$291.47	10%	$30.20 - $32.80	$31.60	80	$253K	80	69	1.16	
+100%
+3,783	42.15	0.4728	-0.0783	0.0037	1.0033	0.7944	31.60	Consumer Cyclical	Travel & Leisure	37		ML-S	
+TLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+12/20 01:40:05
+EXPE
+BID	180	call	2026-01-23	24d	$291.08	-38%	$109.85 - $113.85	$111.47	25	$279K	25	0	-	
+100%
+2,465	74.52	0.9861	-0.0351	0.0005	0.032	0.1683	111.47	Consumer Cyclical	Travel & Leisure	37		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/20 01:40:05
+EXPE
+BID	190	call	2026-01-23	24d	$291.08	-35%	$99.85 - $103.95	$101.87	25	$255K	25	0	-	
+100%
+2,434	75.89	0.9734	-0.0611	0.0009	0.0555	0.174	101.87	Consumer Cyclical	Travel & Leisure	37		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/20 00:09:35
+EXPE
+ASK	185	call	2028-01-21	752d	$289.83	-36%	$131.50 - $135.40	$135.40	10	$135K	10	0	-	
+100%
+835	53.47	0.8352	-0.0372	0.0011	1.0395	2.2296	135.40	Consumer Cyclical	Travel & Leisure	37		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+12/19 23:10:49
+EXPE
+ASK	310	put	2026-06-18	170d	$287.05	-8%	$41.10 - $43.60	$43.60	7	$31K	7	1	7.00	
+100%
+-394	37.17	-0.5627	-0.0802	0.0052	0.7964	-1.0171	43.60	Consumer Cyclical	Travel & Leisure	37		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+12/19 23:10:49
+EXPE
+BID	160	call	2028-01-21	752d	$287.05	-44%	$148.50 - $150.50	$148.50	5	$74K	5	0	-	
+100%
+437	53.77	0.8745	-0.031	0.0009	0.8566	2.1433	148.50	Consumer Cyclical	Travel & Leisure	37		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
