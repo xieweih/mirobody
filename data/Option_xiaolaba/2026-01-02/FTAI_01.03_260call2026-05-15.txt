@@ -1,0 +1,447 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+★
+Prediction Mkts
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+UnusualWhales
+
+K
+
+API
+Changelog6
+Info
+Careers
+
+
+
+
+SALENew Years Sale until Jan 4! Get 30% off of Platform plans for up to 1 year!
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/23 21:30 - 1/3 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+FTAI
+$210.35
+6.86%
+Post
+$211.69
+  0.64%
+Volume
+4,821
+Premiums
+5.76M
+Bullish
+2.18M
+37.78%
+Bearish
+2.21M
+38.45%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+01/03 04:30:27
+FTAI
+ASK	260	call	2026-05-15	130d	$209.33	24%	$11.30 - $11.40	$11.40	163	$186K	250	10	25.00	
+100%
+5,015	53.82	0.3077	-0.0902	0.0052	0.4443	0.1932	11.40	Industrials	Rental & Leasing Services	51	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+01/03 04:30:27
+FTAI
+ASK	260	call	2026-05-15	130d	$209.33	24%	$11.30 - $11.40	$11.40	64	$73K	68	10	6.80	
+100%
+1,969	53.82	0.3077	-0.0902	0.0052	0.4443	0.1932	11.40	Industrials	Rental & Leasing Services	51	Repeated Hits	SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+01/03 00:36:33
+FTAI
+BID	170	put	2026-02-20	46d	$204.72	17%	$1.80 - $4.10	$2.80	150	$42K	162	70	2.31	
+94%
+-2,027	50.28	-0.1352	-0.0835	0.0058	0.163	-0.0409	2.80	Industrials	Rental & Leasing Services	51		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+01/03 00:36:33
+FTAI
+ASK	190	put	2026-02-20	46d	$204.72	7%	$6.10 - $8.40	$7.40	150	$111K	160	16	10.00	
+94%
+-4,517	46.95	-0.3011	-0.1248	0.0099	0.2612	-0.0927	7.40	Industrials	Rental & Leasing Services	51		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🛍️ - ASK	
+
+01/02 23:33:48
+FTAI
+ASK	202.5	call	2026-01-09	4d	$201.58	0%	$2.90 - $4.40	$4.40	123	$54K	186	2	93.00	
+67%
+5,928	43.40	0.4819	-0.3452	0.0329	0.1113	0.0178	4.40	Industrials	Rental & Leasing Services	51		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+01/01 01:35:09
+FTAI
+ASK	200	put	2026-05-15	130d	$198.79	-1%	$23.40 - $25.00	$25.00	150	$375K	150	0	-	
+100%
+-6,681	50.80	-0.4454	-0.0892	0.0064	0.4778	-0.4199	25.00	Industrials	Rental & Leasing Services	51		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+01/01 00:37:35
+FTAI
+BID	80	call	2028-01-21	746d	$197.63	-60%	$127.00 - $130.50	$128.00	11	$141K	13	2	6.50	
+100%
+1,017	65.97	0.9243	-0.0182	0.0008	0.404	1.125	128.00	Industrials	Rental & Leasing Services	51		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+12/31 04:47:31
+FTAI
+BID	220	call	2026-09-18	256d	$196.81	12%	$27.90 - $30.50	$28.60	32	$92K	36	1	36.00	
+89%
+1,607	55.88	0.5023	-0.0715	0.0043	0.6652	0.5043	28.60	Industrials	Rental & Leasing Services	51		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/31 04:09:58
+FTAI
+BID	170	call	2026-01-30	25d	$197.73	-14%	$30.50 - $30.60	$30.50	30	$92K	30	1	30.00	
+100%
+2,539	55.21	0.8462	-0.1224	0.0075	0.1366	0.1162	30.50	Industrials	Rental & Leasing Services	51		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/31 04:01:04
+FTAI
+BID	200	put	2027-01-15	375d	$195.89	-2%	$39.60 - $39.60	$39.50	20	$79K	25	2	12.50	
+100%
+-838	47.27	-0.419	-0.0476	0.0041	0.7819	-1.269	39.50	Industrials	Rental & Leasing Services	51		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+12/31 02:59:24
+FTAI
+ASK	220	put	2026-06-18	164d	$195.50	-13%	$39.80 - $42.80	$41.44	26	$108K	26	0	-	
+100%
+-1,487	49.13	-0.572	-0.0748	0.006	0.5236	-0.7139	41.44	Industrials	Rental & Leasing Services	51		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+12/31 02:59:24
+FTAI
+BID	220	put	2026-03-20	74d	$195.50	-13%	$32.20 - $35.10	$33.51	26	$87K	26	0	-	
+100%
+-1,705	48.75	-0.6559	-0.1018	0.0082	0.3369	-0.3545	33.51	Industrials	Rental & Leasing Services	51		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+12/31 01:10:30
+FTAI
+BID	175	call	2026-02-20	46d	$196.52	-11%	$26.40 - $29.90	$28.03	20	$56K	21	13	1.62	
+95%
+1,503	53.13	0.7517	-0.1206	0.008	0.2348	0.1705	28.03	Industrials	Rental & Leasing Services	51		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+12/31 01:04:38
+FTAI
+BID	270	put	2026-05-15	130d	$197.60	-37%	$74.00 - $78.60	$74.00	7	$52K	7	0	-	
+100%
+-632	36.13	-0.9035	-0.0259	0.0039	0.2063	-0.9409	74.00	Industrials	Rental & Leasing Services	51		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+12/31 00:46:33
+FTAI
+BID	250	call	2026-06-18	164d	$197.31	27%	$12.10 - $13.00	$12.10	104	$126K	141	16	8.81	
+82%
+3,288	52.53	0.3162	-0.0743	0.005	0.4791	0.2342	12.10	Industrials	Rental & Leasing Services	51		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+12/31 00:36:54
+FTAI
+BID	230	call	2026-06-18	164d	$199.22	15%	$15.50 - $20.00	$17.39	40	$70K	50	7	7.14	
+80%
+1,647	52.15	0.4118	-0.0815	0.0055	0.5291	0.3011	17.39	Industrials	Rental & Leasing Services	51		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+12/31 00:36:54
+FTAI
+ASK	270	call	2026-06-18	164d	$199.22	36%	$7.20 - $10.40	$10.40	40	$42K	50	27	1.85	
+80%
+1,081	55.41	0.2702	-0.0735	0.0044	0.4497	0.2022	10.40	Industrials	Rental & Leasing Services	51		ML-O	
+MLAT
+🐂 - BULLISH🛍️ - ASK	
+
+12/31 00:04:08
+FTAI
+ASK	205	put	2026-01-30	25d	$191.39	-7%	$16.90 - $18.00	$18.00	75	$135K	75	0	-	
+100%
+-5,169	42.34	-0.6893	-0.1337	0.015	0.197	-0.1273	18.00	Industrials	Rental & Leasing Services	51		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
