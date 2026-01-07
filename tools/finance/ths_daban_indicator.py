@@ -6,6 +6,9 @@ Ths Daban Indicator Service - 同花顺打板指标服务
 import logging
 import asyncio
 import os
+import json
+import time
+from pathlib import Path
 from datetime import datetime, timedelta
 from typing import Any, Dict, List, Optional
 import pandas as pd
@@ -42,6 +45,11 @@ class ThsDabanService:
         self.yuzi_map = {} # name -> {desc, orgs}
         self.yuzi_list = [] # [name1, name2, ...]
         
+        # Cache settings
+        self.cache_dir = Path("data/cache/tushare")
+        self.cache_dir.mkdir(parents=True, exist_ok=True)
+        self.cache_expire_hours = 24  # Cache expiration time
+        
         if not self.token:
              logging.warning("TUSHARE_TOKEN not found in environment variables")
 
@@ -57,9 +65,47 @@ class ThsDabanService:
             except Exception as e:
                 logging.error(f"Failed to initialize Tushare API: {str(e)}")
     
-    def _init_yuzi_data(self):
+    def _load_cache(self, cache_key: str) -> Optional[Any]:
+        """Load data from cache if valid"""
+        cache_file = self.cache_dir / f"{cache_key}.json"
+        if cache_file.exists():
+            try:
+                with open(cache_file, 'r', encoding='utf-8') as f:
+                    cache_data = json.load(f)
+                    cache_time = cache_data.get('timestamp', 0)
+                    if time.time() - cache_time < self.cache_expire_hours * 3600:
+                        logging.info(f"✅ Loaded {cache_key} from cache")
+                        return cache_data.get('data')
+            except Exception as e:
+                logging.warning(f"Cache read error: {e}")
+        return None
+    
+    def _save_cache(self, cache_key: str, data: Any):
+        """Save data to cache"""
+        cache_file = self.cache_dir / f"{cache_key}.json"
         try:
-            logging.info("Fetching Yuzi list (hm_list)...")
+            cache_data = {
+                'timestamp': time.time(),
+                'data': data
+            }
+            with open(cache_file, 'w', encoding='utf-8') as f:
+                json.dump(cache_data, f, ensure_ascii=False, indent=2)
+            logging.info(f"💾 Saved {cache_key} to cache")
+        except Exception as e:
+            logging.warning(f"Cache write error: {e}")
+    
+    def _init_yuzi_data(self):
+        """Initialize Yuzi (hot money) data with cache support"""
+        # Try load from cache first
+        cached_data = self._load_cache('yuzi_map')
+        if cached_data:
+            self.yuzi_map = cached_data.get('yuzi_map', {})
+            self.yuzi_list = cached_data.get('yuzi_list', [])
+            logging.info(f"Loaded {len(self.yuzi_list)} Yuzi profiles from cache.")
+            return
+        
+        try:
+            logging.info("Fetching Yuzi list (hm_list) from API...")
             df = self.pro.hm_list()
             if df is not None and not df.empty:
                 for _, row in df.iterrows():
@@ -72,28 +118,56 @@ class ThsDabanService:
                         "orgs": row.get('orgs', '')
                     }
                     self.yuzi_list.append(name)
-                logging.info(f"Loaded {len(self.yuzi_list)} Yuzi profiles.")
+                logging.info(f"Loaded {len(self.yuzi_list)} Yuzi profiles from API.")
+                
+                # Save to cache
+                self._save_cache('yuzi_map', {
+                    'yuzi_map': self.yuzi_map,
+                    'yuzi_list': self.yuzi_list
+                })
             else:
                 logging.warning("hm_list returned empty.")
         except Exception as e:
-            logging.warning(f"Failed to fetch hm_list (Check permissions): {e}")
+            logging.warning(f"Failed to fetch hm_list (Check permissions or rate limit): {e}")
     
     async def _get_code_by_name(self, names: List[str]) -> Dict[str, str]:
+        """Get stock codes by names with cache support"""
         if not self.pro:
             return {}
+        
         name_map = {}
-        try:
-            loop = asyncio.get_running_loop()
-            df = await loop.run_in_executor(None, lambda: self.pro.stock_basic(exchange='', list_status='L', fields='ts_code,symbol,name'))
-            if df is not None and not df.empty:
-                for name in names:
-                    row = df[df['name'] == name]
-                    if not row.empty:
-                        name_map[name] = row.iloc[0]['ts_code']
-            return name_map
-        except Exception as e:
-            logging.error(f"Error mapping names to codes: {e}")
-            return {}
+        
+        # Try load from cache first
+        cached_data = self._load_cache('stock_basic')
+        df = None
+        
+        if cached_data:
+            try:
+                df = pd.DataFrame(cached_data)
+            except Exception:
+                pass
+        
+        # Fetch from API if cache miss
+        if df is None or df.empty:
+            try:
+                loop = asyncio.get_running_loop()
+                df = await loop.run_in_executor(None, lambda: self.pro.stock_basic(exchange='', list_status='L', fields='ts_code,symbol,name'))
+                
+                if df is not None and not df.empty:
+                    # Save to cache
+                    self._save_cache('stock_basic', df.to_dict('records'))
+            except Exception as e:
+                logging.error(f"Error fetching stock_basic: {e}")
+                return {}
+        
+        # Map names to codes
+        if df is not None and not df.empty:
+            for name in names:
+                row = df[df['name'] == name]
+                if not row.empty:
+                    name_map[name] = row.iloc[0]['ts_code']
+        
+        return name_map
 
     async def _fetch_yuzi_detail(self, trade_date: str, ts_code: str, hm_name: str, semaphore: asyncio.Semaphore) -> Optional[dict]:
         async with semaphore:
