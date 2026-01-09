@@ -60,7 +60,7 @@ services:
     restart: always
     stop_grace_period: 1s
     ports:
-      - "5432:5432"
+      - "5433:5432"
     volumes:
       - mirobody_postgres:/var/lib/postgresql/data
       - ..:/app
@@ -78,7 +78,7 @@ services:
     restart: always
     stop_grace_period: 1s
     ports:
-      - "6379:6379"
+      - "6380:6379"
     command: >
       redis-server
       --bind 0.0.0.0
