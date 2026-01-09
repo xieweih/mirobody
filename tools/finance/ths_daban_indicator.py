@@ -574,8 +574,12 @@ class ThsDabanService:
                 "date": "20260108",
                 "summary": "涨停92家 最高10板 连板26家 昨日最高板胜通能源(14板)今日未板",
                 "ladder": {
-                    "10板": ["锋龙股份(10板,09:25)", ...],
-                    "4板": ["创新医疗(4板,09:25)", ...],
+                    "10板": ["锋龙股份(10板,09:25)[通用设备]", ...],
+                    "4板": [
+                        "创新医疗(4板,09:25)[医疗服务]",
+                        "银河电子(4板,09:25,炸1)[通信设备]",
+                        ...
+                    ],
                     "3板": [...],
                     "2板": [...],
                     "首板": [...]
@@ -585,8 +589,9 @@ class ThsDabanService:
             
         Note: 
             - summary: 客观数据，包含涨停数、最高板、连板数、昨日最高板今日接力情况
-            - 股票格式: "名称(连板数,时间)" 或 "名称(连板数,时间,炸N)" (有炸板时)
+            - 股票格式: "名称(连板数,时间)[板块1,板块2,板块3]" 或 "名称(连板数,时间,炸N)[板块...]" (有炸板时)
             - 时间只保留时:分
+            - 板块信息为该股票所属的前3个热门板块
             - hot_sectors 只包含Top 20热门板块
         """
         if not self.pro:
@@ -723,7 +728,67 @@ class ThsDabanService:
             max_height = int(df_limit['limit_times'].max())
             lianban_count = int(len(df_limit[df_limit['limit_times'] >= 2]))
             
-            # 4. 连板梯队分类（紧凑格式）
+            # 4. 获取个股所属同花顺概念板块（反向匹配：从热门板块查成分股）
+            stock_sectors_map = {}  # {ts_code: [概念1, 概念2, ...]}
+            
+            try:
+                # 获取当日热门板块列表
+                df_hot_cpt = await loop.run_in_executor(
+                    None,
+                    lambda: self.pro.limit_cpt_list(trade_date=target_date)
+                )
+                
+                if df_hot_cpt is not None and not df_hot_cpt.empty:
+                    # 按涨停数排序，取所有板块（不限制数量）
+                    df_hot_cpt = df_hot_cpt.sort_values('up_nums', ascending=False)
+                    
+                    limit_stock_set = set(df_limit['ts_code'].tolist())
+                    
+                    logging.info(f"Checking {len(df_hot_cpt)} hot sectors...")
+                    
+                    # 对每个热门板块，获取其成分股
+                    for _, row in df_hot_cpt.iterrows():
+                        sector_code = row['ts_code']
+                        sector_name = row['name']
+                        
+                        # 过滤黑名单
+                        is_ignored = False
+                        for ignore in self.CONCEPT_IGNORE_LIST:
+                            if ignore in sector_name:
+                                is_ignored = True
+                                break
+                        
+                        if is_ignored:
+                            continue
+                        
+                        try:
+                            # 获取该板块的成分股
+                            df_members = await loop.run_in_executor(
+                                None,
+                                lambda sc=sector_code: self.pro.ths_member(ts_code=sc)
+                            )
+                            
+                            if df_members is not None and not df_members.empty:
+                                member_codes = df_members['con_code'].tolist()
+                                
+                                # 找出哪些成分股在今日涨停列表中
+                                for member_code in member_codes:
+                                    if member_code in limit_stock_set:
+                                        if member_code not in stock_sectors_map:
+                                            stock_sectors_map[member_code] = []
+                                        
+                                        # 添加板块名称（不限制数量）
+                                        if sector_name not in stock_sectors_map[member_code]:
+                                            stock_sectors_map[member_code].append(sector_name)
+                        except Exception as e:
+                            logging.debug(f"Failed to fetch members for {sector_name}: {e}")
+                            continue
+                
+                logging.info(f"Loaded concepts for {len(stock_sectors_map)} stocks from {len(df_hot_cpt)} hot sectors")
+            except Exception as e:
+                logging.warning(f"Failed to fetch THS concepts: {e}")
+            
+            # 5. 连板梯队分类（紧凑格式，带板块信息）
             ladder = {
                 "10板": [],
                 "4板": [],
@@ -738,16 +803,22 @@ class ThsDabanService:
                 limit_times = int(row['limit_times'])
                 first_time = self._format_time(row.get('first_time'))
                 open_times = int(row.get('open_times', 0)) if pd.notna(row.get('open_times')) else 0
+                ts_code = row['ts_code']
                 
                 # 简化时间格式：只保留时分
                 time_short = first_time[:5] if first_time != '未知' else '??:??'
                 
-                # 紧凑格式：股票名(连板数,封板时间,炸板次数)
+                # 紧凑格式：股票名(连板数,封板时间,炸板次数)[板块1,板块2,...]
                 # 如果炸板次数为0则省略
                 if open_times > 0:
                     stock_str = f"{row['name']}({limit_times}板,{time_short},炸{open_times})"
                 else:
                     stock_str = f"{row['name']}({limit_times}板,{time_short})"
+                
+                # 添加板块信息（所有概念）
+                sectors = stock_sectors_map.get(ts_code, [])
+                if sectors:
+                    stock_str += f"[{','.join(sectors)}]"
                 
                 stocks_by_board.append({
                     'str': stock_str,
@@ -772,7 +843,7 @@ class ThsDabanService:
                 else:
                     ladder["首板"].append(item['str'])
             
-            # 5. 板块统计（紧凑格式：Top N 热门板块）
+            # 6. 板块统计（紧凑格式：Top N 热门板块）
             hot_sectors = []
             
             try:
@@ -796,7 +867,7 @@ class ThsDabanService:
                 for name, count in industry_counts.items():
                     hot_sectors.append(f"{name}({int(count)})")
             
-            # 6. 检查昨日最高连板股票今日是否继续连板
+            # 7. 检查昨日最高连板股票今日是否继续连板
             yesterday_leader_status = ""
             try:
                 # 获取昨日交易日
@@ -891,7 +962,7 @@ class ThsDabanService:
             except Exception as e:
                 logging.warning(f"Failed to check yesterday leader: {e}")
             
-            # 7. 生成概要（客观数据）
+            # 8. 生成概要（客观数据）
             summary_parts = [
                 f"涨停{total_count}家",
                 f"最高{max_height}板",
