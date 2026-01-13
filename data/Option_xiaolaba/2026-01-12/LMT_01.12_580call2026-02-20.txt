@@ -1,0 +1,605 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+Unusual Predictions
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+Unusual
+Whales
+
+K
+
+API
+Changelog7
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 1/2 21:30 - 1/13 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+LMT
+$551.24
+1.53%
+Post
+$550.05
+  -0.22%
+Volume
+11,530
+Premiums
+16.1M
+Bullish
+7.31M
+45.39%
+Bearish
+6.94M
+43.13%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+01/13 02:26:05
+LMT
+ASK	522.5	call	2026-01-16	3d	$545.54	-4%	$21.10 - $26.00	$24.96	60	$150K	60	18	3.33	
+100%
+5,081	41.18	0.8468	-0.6967	0.0101	0.135	0.0479	24.96	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	
+
+01/13 01:56:45
+LMT
+BID	450	call	2026-01-30	17d	$547.02	-18%	$94.00 - $101.60	$97.74	13	$127K	13	1	13.00	
+100%
+1,261	48.04	0.9702	-0.111	0.0012	0.0822	0.2135	97.74	Industrials	Aerospace & Defense	16		ML-O	
+MLAT
+🐻 - BEARISH🦴 - BID	
+
+01/12 23:24:48
+LMT
+ASK	580	call	2026-02-20	38d	$546.21	6%	$7.70 - $10.30	$9.82	244	$240K	245	67	3.66	
+100%
+7,207	31.09	0.2954	-0.2465	0.0062	0.6164	0.1619	9.82	Industrials	Aerospace & Defense	16	Repeated Hits Ascending Fill	SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+01/12 23:03:38
+LMT
+ASK	545	call	2026-02-27	45d	$550.69	-1%	$22.60 - $27.90	$27.16	25	$68K	25	2	12.50	
+100%
+1,401	31.12	0.5602	-0.2624	0.0065	0.771	0.3546	27.16	Industrials	Aerospace & Defense	16		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+01/12 22:33:22
+LMT
+ASK	565	put	2026-01-16	3d	$551.48	-2%	$15.10 - $16.50	$16.50	22	$36K	32	0	-	
+72%
+-1,638	34.27	-0.7444	-0.7937	0.0163	0.1856	-0.0468	16.50	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+01/10 04:03:15
+LMT
+ASK	510	call	2028-01-21	738d	$544.87	-6%	$102.00 - $111.00	$106.57	84	$895K	100	17	5.88	
+84%
+5,445	29.09	0.6482	-0.0584	0.0016	2.8828	5.0138	106.57	Industrials	Aerospace & Defense	16		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+01/10 04:03:15
+LMT
+BID	530	call	2028-01-21	738d	$544.87	-3%	$92.00 - $101.00	$96.42	84	$810K	100	6	16.67	
+84%
+5,147	28.81	0.6128	-0.0596	0.0017	2.9746	4.8274	96.42	Industrials	Aerospace & Defense	16		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+01/09 23:59:09
+LMT
+ASK	530	put	2026-02-13	31d	$540.26	2%	$12.70 - $14.00	$13.61	25	$34K	25	10	2.50	
+100%
+-985	27.73	-0.3942	-0.2538	0.0083	0.6438	-0.2173	13.61	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+01/09 23:35:00
+LMT
+ASK	535	call	2026-02-20	38d	$539.11	-1%	$22.85 - $23.90	$23.70	105	$249K	122	51	2.39	
+98%
+5,788	29.62	0.5512	-0.2567	0.0073	0.7236	0.3147	23.70	Industrials	Aerospace & Defense	16		SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+01/09 23:27:18
+LMT
+BID	540	call	2026-02-06	24d	$540.75	-0%	$19.30 - $19.80	$19.30	16	$31K	16	13	1.23	
+100%
+839	31.66	0.5242	-0.3381	0.0084	0.5964	0.2026	19.30	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+01/09 22:37:27
+LMT
+ASK	580	put	2026-06-18	156d	$533.00	-9%	$60.00 - $66.90	$63.47	20	$127K	20	0	-	
+100%
+-1,341	24.21	-0.6705	-0.0942	0.0042	1.2771	-1.8449	63.47	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+01/09 22:37:27
+LMT
+BID	640	put	2026-06-18	156d	$533.00	-20%	$109.00 - $115.60	$112.27	10	$112K	10	0	-	
+100%
+-856	24.07	-0.856	-0.057	0.0027	0.8007	-2.4921	112.27	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐂 - BULLISH🦴 - BID	
+
+01/09 00:42:46
+LMT
+BID	470	call	2026-02-27	45d	$521.18	-10%	$55.90 - $63.00	$58.80	10	$59K	10	0	-	
+100%
+809	34.61	0.8087	-0.1839	0.0041	0.5257	0.4968	58.80	Industrials	Aerospace & Defense	16		ML-O	
+MESL
+🐻 - BEARISH🦴 - BID	
+
+01/09 00:20:34
+LMT
+ASK	600	call	2026-06-18	156d	$521.63	15%	$10.60 - $15.40	$15.40	1,000	$1.54M	1,012	265	3.82	
+99%
+27,070	29.54	0.2707	-0.1059	0.0032	1.147	0.5549	15.40	Industrials	Aerospace & Defense	16		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+01/09 00:20:34
+LMT
+BID	570	call	2026-03-20	66d	$521.63	9%	$6.80 - $13.00	$6.87	1,000	$687K	1,005	208	4.83	
+100%
+22,280	24.51	0.2228	-0.119	0.0053	0.6861	0.2127	6.87	Industrials	Aerospace & Defense	16		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+01/08 23:35:40
+LMT
+ASK	527.5	call	2026-01-16	3d	$534.54	-1%	$11.00 - $13.30	$13.30	25	$33K	26	0	-	
+96%
+1,567	29.82	0.6266	-0.5597	0.016	0.2997	0.0705	13.30	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+01/08 23:06:55
+LMT
+BID	450	call	2026-02-06	24d	$533.10	-16%	$81.20 - $91.00	$85.66	7	$60K	7	0	-	
+100%
+645	44.58	0.9211	-0.1713	0.0022	0.2212	0.3221	85.66	Industrials	Aerospace & Defense	16		SL	
+SLAN
+🐻 - BEARISH🦴 - BID	
+
+01/08 22:56:28
+LMT
+BID	537.5	call	2026-01-16	3d	$533.42	1%	$8.30 - $8.40	$8.30	42	$35K	58	0	-	
+97%
+1,874	32.27	0.4463	-0.6304	0.0155	0.3122	0.0504	8.30	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+01/08 22:39:51
+LMT
+ASK	540	put	2026-01-23	10d	$540.93	0%	$9.00 - $13.30	$11.17	50	$56K	50	11	4.55	
+100%
+-2,381	26.63	-0.4762	-0.3868	0.0136	0.4367	-0.1105	11.17	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+01/08 22:37:41
+LMT
+ASK	515	put	2026-02-20	38d	$539.62	5%	$8.50 - $11.00	$11.00	100	$110K	100	25	4.00	
+100%
+-3,023	29.25	-0.3023	-0.2188	0.0064	0.6462	-0.2052	11.00	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+01/08 04:59:00
+LMT
+ASK	580	put	2026-02-20	38d	$497.31	-17%	$78.40 - $84.80	$82.62	5	$41K	5	0	-	
+100%
+-496	17.80	-0.9929	-0.0037	0.0006	0.034	-0.6949	82.62	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+01/08 04:19:01
+LMT
+BID	507.5	put	2026-01-23	10d	$504.34	-1%	$12.10 - $12.30	$12.10	82	$99K	87	1	87.00	
+97%
+-4,406	24.75	-0.5373	-0.3235	0.0152	0.4194	-0.1241	12.10	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+01/08 04:05:12
+LMT
+BID	512.5	call	2026-01-16	3d	$507.36	1%	$7.30 - $7.50	$7.30	86	$63K	119	6	19.83	
+97%
+3,658	30.20	0.4254	-0.5246	0.0163	0.3123	0.0514	7.30	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+01/08 03:29:27
+LMT
+BID	520	put	2028-01-21	738d	$514.51	-1%	$69.10 - $79.00	$73.20	10	$73K	10	1	10.00	
+100%
+-436	24.61	-0.4358	-0.0456	0.0022	2.8924	-6.0622	73.20	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+01/08 03:19:57
+LMT
+ASK	480	call	2028-01-21	738d	$511.10	-6%	$94.00 - $104.00	$99.50	10	$100K	10	7	1.43	
+100%
+645	29.16	0.6453	-0.055	0.0017	2.7158	4.6946	99.50	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+01/08 03:19:57
+LMT
+BID	440	call	2028-01-21	738d	$511.10	-14%	$121.90 - $127.00	$121.90	10	$122K	10	0	-	
+100%
+718	29.80	0.7184	-0.0512	0.0016	2.463	4.9999	121.90	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+01/08 03:11:18
+LMT
+BID	520	call	2026-01-09	-4d	$513.66	1%	$0.85 - $9.20	$4.00	111	$44K	121	47	2.57	
+94%
+3,985	43.88	0.359	-1.5595	0.0224	0.1421	0.0099	4.00	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+01/08 03:11:06
+LMT
+BID	620	call	2028-01-21	738d	$515.30	20%	$42.00 - $52.00	$45.50	10	$46K	10	4	2.50	
+100%
+395	27.20	0.3945	-0.053	0.0019	2.8318	3.2165	45.50	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+01/07 00:39:33
+LMT
+BID	540	put	2026-03-20	66d	$529.55	-2%	$29.20 - $30.60	$29.20	27	$79K	28	2	14.00	
+96%
+-1,475	24.89	-0.5463	-0.1583	0.0067	0.9384	-0.637	29.20	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+01/06 23:06:11
+LMT
+ASK	535	put	2026-03-20	66d	$533.62	-0%	$21.80 - $24.80	$23.80	15	$36K	25	0	-	
+60%
+-729	24.37	-0.4863	-0.1572	0.0069	0.9515	-0.5666	23.80	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🛍️ - ASK	
+
+01/06 02:01:51
+LMT
+BID	490	put	2027-01-15	367d	$508.46	4%	$40.40 - $45.00	$40.40	63	$255K	73	31	2.35	
+100%
+-2,445	24.72	-0.3881	-0.0633	0.003	1.9746	-2.4423	40.40	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+01/06 01:16:18
+LMT
+BID	270	call	2026-09-18	248d	$507.02	-47%	$235.00 - $243.80	$239.38	2	$48K	2	0	-	
+100%
+195	41.93	0.9759	-0.0217	0.0003	0.2406	1.7915	239.38	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+01/06 00:27:52
+LMT
+BID	540	put	2026-12-18	339d	$509.51	-6%	$64.10 - $68.60	$64.10	12	$77K	12	3	4.00	
+100%
+-659	23.70	-0.5496	-0.0645	0.0034	1.9666	-3.2713	64.10	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+01/05 23:28:29
+LMT
+ASK	450	call	2026-01-09	-4d	$509.08	-12%	$56.00 - $59.30	$59.30	10	$59K	10	6	1.67	
+100%
+981	57.71	0.9809	-0.1806	0.0015	0.0248	0.0482	59.30	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🛍️ - ASK	
+
+01/05 22:31:23
+LMT
+BID	500	put	2026-01-09	-4d	$506.48	1%	$0.05 - $7.00	$3.10	100	$31K	100	1	100.00	
+100%
+-3,218	27.47	-0.3218	-0.652	0.0246	0.1901	-0.0182	3.10	Industrials	Aerospace & Defense	16		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+01/03 00:37:40
+LMT
+BID	280	call	2026-12-18	339d	$492.16	-43%	$212.00 - $219.00	$215.30	5	$108K	5	1	5.00	
+100%
+484	34.49	0.9676	-0.0192	0.0004	0.3493	2.502	215.30	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+01/03 00:13:44
+LMT
+BID	250	call	2026-12-18	339d	$492.50	-49%	$240.00 - $249.00	$244.35	2	$49K	2	0	-	
+100%
+197	35.69	0.9831	-0.0121	0.0002	0.2022	2.2998	244.35	Industrials	Aerospace & Defense	16		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+01/02 22:36:25
+LMT
+BID	320	call	2028-01-21	738d	$477.28	-33%	$166.00 - $174.00	$168.65	3	$51K	3	1	3.00	
+100%
+270	25.56	0.9016	-0.0222	0.001	1.1858	5.3695	168.65	Industrials	Aerospace & Defense	16		ML-S	
+TLET
+🐻 - BEARISH🦴 - BID	

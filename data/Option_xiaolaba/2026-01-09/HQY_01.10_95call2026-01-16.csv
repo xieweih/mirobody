@@ -1,0 +1,2 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+HQY_01.10_95call2026-01-16.txt,2026-01-10,02:04:31,HQY,ASK,95,call,2026-01-16,3d,$94.65,$1.30 - $2.10,$1.85,"2,000",$370K,"2,003",41,48.85,100%,"96,648",38.55,0.4832,-0.144,0.0789,0.0522,0.0084,1.85,Healthcare,Health Information Services,63,Low Historic Volume Floor,95 call 2026-01-16

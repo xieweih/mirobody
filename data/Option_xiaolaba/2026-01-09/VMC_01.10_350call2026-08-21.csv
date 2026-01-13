@@ -1,0 +1,3 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+VMC_01.10_350call2026-08-21.txt,2026-01-10,00:05:05,VMC,ASK,350,call,2026-08-21,220d,$305.92,$6.60 - $9.40,$8.80,750,$660K,750,2,375.00,100%,"20,395",24.18,0.2719,-0.0435,0.0057,0.7952,0.4565,8.80,Basic Materials,Building Materials,35,Low Historic Volume Floor,350 call 2026-08-21
+VMC_01.10_350call2026-08-21.txt,2025-12-31,02:53:59,VMC,ASK,280,put,2026-08-21,220d,$290.18,$14.50 - $16.40,$16.15,200,$323K,200,0,-,100%,"-7,682",23.18,-0.3841,-0.043,0.0071,0.8875,-0.818,16.15,Basic Materials,Building Materials,35,,280 put 2026-08-21

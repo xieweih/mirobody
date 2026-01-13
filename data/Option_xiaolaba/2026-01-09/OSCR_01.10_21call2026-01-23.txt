@@ -1,0 +1,373 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+Unusual Predictions
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+Unusual
+Whales
+
+K
+
+API
+Changelog7
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/30 21:30 - 1/10 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+OSCR
+$17.66
+-0.39%
+Post
+$17.73
+  0.40%
+Volume
+35,565
+Premiums
+3.77M
+Bullish
+1.39M
+36.77%
+Bearish
+1.92M
+50.84%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+01/10 03:26:51
+OSCR
+ASK	21	call	2026-01-23	10d	$17.93	17%	$0.24 - $0.25	$0.25	4,521	$113K	5,013	9	557.00	
+99%
+79,803	80.23	0.1765	-0.0261	0.092	0.0091	0.0011	0.25	Healthcare	Healthcare Plans	21	Floor Trade Mid Cap	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+01/10 02:32:19
+OSCR
+BID	18	put	2027-01-15	367d	$17.90	-1%	$4.90 - $5.05	$4.95	2,440	$1.21M	3,126	910	3.44	
+83%
+-88,830	69.73	-0.3641	-0.0063	0.0298	0.0678	-0.1166	4.95	Healthcare	Healthcare Plans	21		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
+
+01/08 03:05:38
+OSCR
+BID	18	put	2026-02-20	38d	$16.23	-11%	$2.66 - $2.83	$2.74	400	$110K	401	112	3.58	
+100%
+-24,503	72.44	-0.6126	-0.0177	0.0938	0.0216	-0.0153	2.74	Healthcare	Healthcare Plans	21		ML-O	
+MLAT
+🐂 - BULLISH🦴 - BID	
+
+01/07 01:10:00
+OSCR
+ASK	20	call	2026-01-30	17d	$16.79	19%	$0.33 - $0.34	$0.34	3,609	$123K	5,037	671	7.51	
+97%
+74,307	74.43	0.2059	-0.019	0.0889	0.0123	0.002	0.34	Healthcare	Healthcare Plans	21		SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+01/03 00:25:32
+OSCR
+BID	35	put	2026-06-18	156d	$14.97	-134%	$20.00 - $20.20	$20.00	20	$40K	20	0	-	
+100%
+-1,856	73.42	-0.9279	-0.0029	0.0185	0.0139	-0.156	20.20	Healthcare	Healthcare Plans	21		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+01/03 00:22:40
+OSCR
+ASK	35	put	2026-03-20	66d	$15.00	-133%	$19.35 - $20.10	$19.99	40	$80K	40	0	-	
+100%
+-3,991	62.12	-0.9976	-0.00	0.0017	0.0005	-0.0737	19.99	Healthcare	Healthcare Plans	21		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+01/01 03:56:39
+OSCR
+BID	11	call	2026-02-06	24d	$14.23	-23%	$3.50 - $3.90	$3.50	200	$70K	200	1	200.00	
+100%
+17,407	80.99	0.8704	-0.0105	0.0575	0.0096	0.009	3.50	Healthcare	Healthcare Plans	21		SL	
+AUTO
+🐻 - BEARISH🦴 - BID	
+
+01/01 02:23:56
+OSCR
+ASK	20	put	2026-02-20	38d	$14.39	-39%	$5.60 - $5.80	$5.72	150	$86K	150	100	1.50	
+100%
+-13,752	58.96	-0.9168	-0.0047	0.0483	0.0082	-0.0264	5.72	Healthcare	Healthcare Plans	21		SL	
+AUTO
+🐻 - BEARISH🛍️ - ASK	
+
+12/31 22:55:02
+OSCR
+ASK	10	call	2026-01-02	-11d	$14.40	-31%	$4.10 - $4.60	$4.44	196	$87K	200	37	5.41	
+100%
+18,979	281.04	0.9683	-0.0533	0.0238	0.0008	0.0005	4.44	Healthcare	Healthcare Plans	21		SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	

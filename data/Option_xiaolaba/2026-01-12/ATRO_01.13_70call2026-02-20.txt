@@ -1,0 +1,309 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+Unusual Predictions
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+Unusual
+Whales
+
+K
+
+API
+Changelog7
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 1/2 21:30 - 1/13 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+ATRO
+$69.97
+5.77%
+Post
+$70.68
+  1.01%
+Volume
+1,364
+Premiums
+597,586
+Bullish
+463,030
+77.48%
+Bearish
+86,546
+14.48%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+01/13 02:59:55
+ATRO
+ASK	70	call	2026-02-20	38d	$69.54	1%	$2.95 - $4.00	$3.70	450	$167K	469	21	22.33	
+96%
+22,952	43.11	0.51	-0.0503	0.0407	0.0907	0.0339	3.70	Industrials	Aerospace & Defense	49	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	

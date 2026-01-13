@@ -1,0 +1,333 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+Unusual Predictions
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+Unusual
+Whales
+
+K
+
+API
+Changelog7
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 1/2 21:30 - 1/13 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+POOL
+$258.46
+2.45%
+Post
+$259.00
+  0.21%
+Volume
+1,594
+Premiums
+1.02M
+Bullish
+659,174
+64.34%
+Bearish
+304,971
+29.77%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+01/13 03:53:32
+POOL
+BID	260	put	2026-07-17	185d	$257.88	-1%	$24.70 - $25.90	$24.70	16	$40K	16	4	4.00	
+100%
+-745	32.39	-0.4656	-0.0626	0.0067	0.7317	-0.7377	24.70	Consumer Cyclical	Travel & Leisure	37		SL	
+AUTO
+🐂 - BULLISH🦴 - BID	
+
+01/12 23:49:34
+POOL
+ASK	290	call	2026-02-20	38d	$258.23	12%	$1.95 - $4.80	$3.70	568	$210K	578	34	17.00	
+100%
+11,728	40.07	0.2065	-0.124	0.0084	0.2409	0.053	3.70	Consumer Cyclical	Travel & Leisure	37	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+01/10 04:26:36
+POOL
+BID	210	call	2026-07-17	185d	$252.59	-17%	$50.60 - $52.70	$51.62	20	$103K	20	1	20.00	
+100%
+1,595	37.00	0.7973	-0.0514	0.0042	0.5129	0.7756	51.62	Consumer Cyclical	Travel & Leisure	37		ML-O	
+MLET
+🐻 - BEARISH🦴 - BID	
+
+01/10 04:26:36
+POOL
+ASK	200	call	2026-07-17	185d	$252.59	-21%	$58.10 - $60.60	$59.37	20	$119K	20	5	4.00	
+100%
+1,683	37.73	0.8416	-0.045	0.0035	0.4394	0.7933	59.37	Consumer Cyclical	Travel & Leisure	37		ML-O	
+MLET
+🐂 - BULLISH🛍️ - ASK	

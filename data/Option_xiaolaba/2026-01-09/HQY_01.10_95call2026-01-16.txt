@@ -1,0 +1,309 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+Unusual Predictions
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+Unusual
+Whales
+
+K
+
+API
+Changelog7
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 12/30 21:30 - 1/10 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+HQY
+$84.56
+-10.19%
+Post
+$84.44
+  -0.14%
+Volume
+1,319
+Premiums
+613,269
+Bullish
+276,874
+45.15%
+Bearish
+320,845
+52.32%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+01/10 02:04:31
+HQY
+ASK	95	call	2026-01-16	3d	$94.65	0%	$1.30 - $2.10	$1.85	2,000	$370K	2,003	41	48.85	
+100%
+96,648	38.55	0.4832	-0.144	0.0789	0.0522	0.0084	1.85	Healthcare	Health Information Services	63	Low Historic Volume Floor	SL	
+SLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	

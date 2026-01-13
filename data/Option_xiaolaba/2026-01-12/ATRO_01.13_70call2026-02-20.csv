@@ -1,0 +1,2 @@
+source_file,date,time,ticker,side,strike,option_type,expiry,dte,price,bid_ask_range,spot,size,premium,volume,oi,vol_oi,chain_bid_ask,share_eqv,iv_pct,delta,theta,gamma,vega,rho,theo,sector,industry,earnings,rule,contract
+ATRO_01.13_70call2026-02-20.txt,2026-01-13,02:59:55,ATRO,ASK,70,call,2026-02-20,38d,$69.54,$2.95 - $4.00,$3.70,450,$167K,469,21,22.33,96%,"22,952",43.11,0.51,-0.0503,0.0407,0.0907,0.0339,3.70,Industrials,Aerospace & Defense,49,Low Historic Volume Floor,70 call 2026-02-20
