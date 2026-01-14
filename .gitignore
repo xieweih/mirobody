@@ -10,3 +10,4 @@ data/real_time_daban_indicator/
 data/twoban/
 backtest_system/
 temp.py
+data/cache/
