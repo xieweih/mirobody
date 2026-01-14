@@ -1384,8 +1384,8 @@ if __name__ == "__main__":
     async def test_daban_indicators():
         """测试个股打板因子分析"""
         service = ThsDabanService()
-        dates = ['20251209'] # Use a recent date
-        names = "利欧股份"
+        dates = ['20260114'] # Use a recent date
+        names = "海王生物"
         
         for date in dates:
             print(f"\n{'='*60}")
