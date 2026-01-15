@@ -1,0 +1,333 @@
+
+Options Data
+
+
+Market Data
+
+
+Screeners
+
+
+Stock Data
+
+
+Periscope
+Unusual Predictions
+
+
+Calendars
+
+
+Ticker Explorer
+
+
+Portfolio Manager
+
+
+Unusual Tools
+Charting Tool
+
+
+Data Access/Api
+
+
+Media
+
+
+Misc
+
+
+
+Unusual
+Whales
+
+K
+
+API
+Changelog7
+Info
+Careers
+
+
+
+
+Filters
+
+My Flow
+Filter
+Select Filter
+
+Live Flow
+
+Prev
+
+Next
+
+Muted
+Results
+250
+Sort
+Time
+
+Columns
+
+CSV
+
+Info
+
+
+
+
+
+AI Filter Builder
+
+TIME : 1/4 21:30 - 1/15 04:59
+
+SIDE
+SHOW	HIDE
+Bid 🦴	
+
+
+Mid ↔️	
+
+
+Ask 🛍️	
+
+
+No Side 😐	
+
+
+
+CHAIN ACTIVITY
+Ask %?
+
+-
+
+Bid %?
+
+-
+
+Skew %?
+
+-
+
+
+OPTION TYPE
+SHOW	HIDE
+Calls	
+
+
+Puts	
+
+
+
+EQUITY TYPE
+SHOW	HIDE
+Stocks	
+
+
+ETFs / ETNs	
+
+
+Indices	
+
+
+ADRs	
+
+
+Expiration Dates
+Select...
+Premium?
+
+-
+
+Size?
+
+-
+
+Spot?
+
+-
+
+DTE?
+
+-
+
+Volume?
+
+-
+
+OI?
+
+-
+
+Vol/OI?
+
+-
+
+Mcap/AUM?
+
+-
+
+Stock?
+
+-
+
+Strike?
+
+-
+
+Spread?
+
+-
+
+% OTM?
+
+-
+
+Earnings Report?
+
+-
+
+
+GREEKS
+IV?
+
+-
+
+Delta?
+
+-
+
+Theta?
+
+-
+
+Gamma?
+
+-
+
+
+FLAG TYPE
+SHOW	HIDE
+Sweep	
+
+
+Cross	
+
+
+Floor	
+
+
+Normal	
+
+
+
+EXTRA
+SHOW	HIDE
+China 🇨🇳	
+
+
+Volatility ⚖️	
+
+
+Dividend 🥤	
+
+
+
+OTHERS
+Unusual
+
+Volume > OI
+
+Size > OI
+
+Opening trades
+
+Exclude deep ITM
+
+OPEX only
+
+OTM only
+
+Multi-leg only
+
+Single-leg only
+
+Today's trades only
+* Cannot be enabled with active time range
+
+Hide Expired
+
+Aggregated trades
+
+Show Canceled/Modified
+
+Option Watchlists
+Select...
+Stock Watchlists
+Select...
+Sectors
+Select...
+Industries
+Select...
+Exchanges
+Select...
+Trade Codes
+Select...
+IMVT
+$27.35
+4.47%
+Post
+$26.82
+  -1.94%
+Volume
+2,341
+Premiums
+1.18M
+Bullish
+1.08M
+91.61%
+Bearish
+79,785
+6.76%
+Trades paused - filters are set to past date.
+Remove Time Filter
+More
+Time - GMT+8 / UTC-8		Ticker	Side	Contract	DTE	Stock	% OTM	Bid-Ask	Spot	Size	Premium	Volume	OI	Vol/OI	Chain Bid/Ask	Share Eqv	IV %	Delta	Theta	Gamma	Vega	Rho	Theo	Sector	Industry	Earnings	Rule	Legs	Code	Flags	
+Tags
+
+Unusual Whales
+Powered by unusualwhales.com
+
+01/15 03:28:26
+IMVT
+ASK	30	call	2026-12-18	337d	$26.53	13%	$5.00 - $6.90	$6.89	242	$167K	301	42	7.17	
+99%
+14,306	80.29	0.5912	-0.0118	0.019	0.0992	0.0814	6.89	Healthcare	Biotechnology	21	Repeated Hits Ascending Fill	SL	
+SLAN
+🐂 - BULLISH🛍️ - ASK	
+
+01/14 02:23:44
+IMVT
+ASK	27	call	2026-02-20	36d	$26.14	3%	$1.60 - $2.20	$1.95	225	$44K	225	16	14.06	
+100%
+10,951	68.94	0.4867	-0.0306	0.0686	0.0336	0.0112	1.95	Healthcare	Biotechnology	21		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🛍️ - ASK	
+
+01/08 03:44:43
+IMVT
+BID	28	call	2026-04-17	92d	$26.32	6%	$2.90 - $4.80	$3.66	300	$110K	300	2	150.00	
+100%
+15,696	78.94	0.5232	-0.0217	0.0366	0.0549	0.0277	3.66	Healthcare	Biotechnology	21		ML-O	
+MLFT
+FLOOR	🐻 - BEARISH🦴 - BID	
+
+01/08 03:44:43
+IMVT
+BID	28	put	2026-04-17	92d	$26.32	-6%	$4.00 - $5.10	$4.10	300	$123K	300	1	300.00	
+100%
+-15,699	56.65	-0.5233	-0.0154	0.051	0.0549	-0.049	4.10	Healthcare	Biotechnology	21		ML-O	
+MLFT
+FLOOR	🐂 - BULLISH🦴 - BID	
